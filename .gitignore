@@ -1,0 +1,10 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/
+
+# Obsidian per-machine workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
