@@ -1,8 +1,15 @@
 # IPA Knowledge Base — Note Registry
 
 This is the canonical list of every note in the vault. Every `[[wikilink]]` MUST point at one
-of these exact names (Obsidian matches by filename without `.md`, regardless of folder).
-Do not invent note names outside this list. ~154 notes total.
+of these exact names. Do not invent note names outside this list. ~154 notes total.
+
+The order of notes within each folder below **is the intended reading order** — front to
+back, like a book. Each note file on disk carries a two-digit reading-order prefix
+(`NN <name>.md`, e.g. `01 History of IPAs.md`) so the Obsidian file explorer lists it in
+that order. The names below are the **canonical names** — the filename with the `NN `
+prefix stripped. Wikilinks and this registry always use the canonical name; every note
+also carries its canonical name as a frontmatter `alias` so those links resolve in
+Obsidian.
 
 ## 01_introduction
 - Home
