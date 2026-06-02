@@ -455,12 +455,38 @@ PAGE_DIAGRAMS = DG.page_diagrams()
 # --------------------------------------------------------------------------
 # HTML chrome
 # --------------------------------------------------------------------------
+# Hop cone — a detailed brewing hop flower built from individual overlapping
+# bract scales (one reusable <g id="hb">), staggered in offset rows for an
+# organic, non-uniform look. Drawn inline with currentColor so the scales pick
+# up the accent color and theme; dark outlines + light veins give definition.
 LOGO_SVG = (
-    '<svg viewBox="0 0 32 32" class="logo-mark" aria-hidden="true">'
-    '<path d="M16 3c-3 2-4 4-4 6 0 1 .5 2 1.4 2.7C12 13 11 15 11 17.5 '
-    '11 23 13 28 16 30c3-2 5-7 5-12.5 0-2.5-1-4.5-2.4-5.8C19.5 11 20 10 20 9c0-2-1-4-4-6z" '
-    'fill="currentColor" opacity=".92"/>'
-    '<path d="M16 8c-1.2 1.2-1.2 3 0 5 1.2-2 1.2-3.8 0-5z" fill="#fff" opacity=".55"/>'
+    '<svg viewBox="0 0 64 64" class="logo-mark" aria-hidden="true">'
+    '<defs><g id="hb">'
+    '<path d="M0 8.5C-2 8.5 -3 7.5 -4.5 5.5C-7 2 -8.5 -2 -6 -5C-4 -7.2 -1.5 -6 0 -3.8'
+    'C1.5 -6 4 -7.2 6 -5C8.5 -2 7 2 4.5 5.5C3 7.5 2 8.5 0 8.5Z" '
+    'fill="currentColor" stroke="#3b2c0a" stroke-width="1" '
+    'stroke-opacity=".38" stroke-linejoin="round"/>'
+    '<g fill="none" stroke="#fff" stroke-width=".8" stroke-linecap="round" opacity=".42">'
+    '<path d="M0 -2 0 7"/><path d="M0 -2 -3.5 4"/><path d="M0 -2 3.5 4"/>'
+    '<path d="M0 -2 -5 .5"/><path d="M0 -2 5 .5"/></g>'
+    '</g></defs>'
+    '<path d="M30 17C29 9 30 5 33 3C35 1.5 38 2 39 4C37.5 3.2 35.5 3.5 35 5.5'
+    'C34.3 8 35 12 33 17Z" fill="currentColor" stroke="#3b2c0a" stroke-width="1" '
+    'stroke-opacity=".38" stroke-linejoin="round"/>'
+    '<use href="#hb" transform="translate(32 53) scale(.9)"/>'
+    '<use href="#hb" transform="translate(26 47) rotate(-7) scale(.94)"/>'
+    '<use href="#hb" transform="translate(38 47) rotate(7) scale(.94)"/>'
+    '<use href="#hb" transform="translate(21 40) rotate(-11)"/>'
+    '<use href="#hb" transform="translate(43 40) rotate(11)"/>'
+    '<use href="#hb" transform="translate(32 41) rotate(2) scale(1.05)"/>'
+    '<use href="#hb" transform="translate(18 32) rotate(-15) scale(1.06)"/>'
+    '<use href="#hb" transform="translate(46 32) rotate(15) scale(1.06)"/>'
+    '<use href="#hb" transform="translate(32 32) scale(1.14)"/>'
+    '<use href="#hb" transform="translate(23 24) rotate(-14) scale(1.08)"/>'
+    '<use href="#hb" transform="translate(41 24) rotate(14) scale(1.08)"/>'
+    '<use href="#hb" transform="translate(32 24) scale(1)"/>'
+    '<use href="#hb" transform="translate(19 21) rotate(-38) scale(.98)"/>'
+    '<use href="#hb" transform="translate(45 21) rotate(38) scale(.98)"/>'
     '</svg>')
 
 
