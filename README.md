@@ -12,6 +12,17 @@ lists, industry & culture, and reference — connected by 3,163 verified wikilin
 
 *Added 2026-05-21.*
 
+### [Pour Over Coffee](./Pour%20Over%20Coffee)
+A 144-note interlinked Obsidian knowledge base on **pour over coffee** — manual
+filter brewing — with immersion methods (AeroPress, Clever, French press, OXO Rapid
+Brewer) covered as adjacent techniques. Spans history & origins, equipment & drippers,
+beans & roast, grinding, water, brewing technique, a deep recipes domain (26 official,
+competition, and community recipes with machine-readable specs), science & extraction,
+tasting & sensory, culture & industry, and reference — connected by 2,855 verified
+wikilinks. Ships with a generated static website in `site/`.
+
+*Added 2026-06-02.*
+
 ## Tooling
 
 ### `verify_kb.py`
@@ -29,4 +40,4 @@ skill, which builds, verifies, and publishes a KB here for any topic.
 
 ---
 
-*Last updated: 2026-05-21*
+*Last updated: 2026-06-02*
