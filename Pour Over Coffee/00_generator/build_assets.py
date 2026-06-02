@@ -6,18 +6,18 @@ CSS = r"""
    Pour Over Coffee Knowledge Base — design system
    ============================================================ */
 :root{
-  --bg:#FBF6EA; --bg-grad:#F4EAD2;
-  --surface:#FFFFFF; --surface-2:#F6EEDB; --surface-3:#EFE4C9;
-  --ink:#2A2014; --ink-2:#564636; --ink-3:#897457;
-  --border:#E7DABB; --border-2:#DAC9A0;
-  --accent:#BE7B16; --accent-2:#E0A52B; --accent-deep:#8A560C;
-  --accent-soft:#F2D9A0;
-  --link:#A8650F; --link-hover:#7E4A08;
-  --hop:#6E8B3D; --hop-deep:#4D6624;
-  --il-ink:#2A2014; --il-paper:#FFF7E2; --il-foam:#FFF6DA;
-  --il-glass:rgba(255,250,230,.55); --il-beer:#E0A52B;
-  --shadow:0 1px 2px rgba(60,40,10,.06),0 8px 24px -10px rgba(60,40,10,.16);
-  --shadow-lg:0 4px 12px rgba(60,40,10,.10),0 30px 60px -24px rgba(60,40,10,.30);
+  --bg:#EDE3D2; --bg-grad:#E2D4BC;
+  --surface:#F7F0E2; --surface-2:#EADFCB; --surface-3:#DFCFB2;
+  --ink:#241A12; --ink-2:#4A3A2A; --ink-3:#7C6850;
+  --border:#DCCBA9; --border-2:#C7B088;
+  --accent:#7A4A24; --accent-2:#A66A38; --accent-deep:#5A3318;
+  --accent-soft:#E6D0AC;
+  --link:#8A4F23; --link-hover:#693914;
+  --hop:#8C6E32; --hop-deep:#5E4A1F;
+  --il-ink:#241A12; --il-paper:#F7EFDD; --il-foam:#FBF4E4;
+  --il-glass:rgba(247,240,226,.55); --il-beer:#6F4A2A;
+  --shadow:0 1px 2px rgba(40,25,8,.07),0 8px 24px -10px rgba(40,25,8,.18);
+  --shadow-lg:0 4px 12px rgba(40,25,8,.12),0 30px 60px -24px rgba(40,25,8,.34);
   --radius:16px;
   --serif:"Fraunces",Georgia,"Times New Roman",serif;
   --sans:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
@@ -25,19 +25,19 @@ CSS = r"""
   --maxw:1320px;
 }
 html[data-theme="dark"]{
-  --bg:#15110B; --bg-grad:#1C160D;
-  --surface:#211B12; --surface-2:#28211633; --surface-2:#2A2217;
-  --surface-3:#35291A;
-  --ink:#F1E7D2; --ink-2:#C9B999; --ink-3:#9A876A;
-  --border:#39301F; --border-2:#473A26;
-  --accent:#E0A52B; --accent-2:#F2C155; --accent-deep:#F2C155;
-  --accent-soft:#4a3a18;
-  --link:#EAB544; --link-hover:#F4CC72;
-  --hop:#9DBE6F; --hop-deep:#C6E090;
-  --il-ink:#F1E7D2; --il-paper:#EBD8AC; --il-foam:#F3E4BD;
-  --il-glass:rgba(241,231,210,.18); --il-beer:#E0A52B;
-  --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 30px -12px rgba(0,0,0,.6);
-  --shadow-lg:0 6px 18px rgba(0,0,0,.5),0 36px 70px -28px rgba(0,0,0,.8);
+  --bg:#0F0B07; --bg-grad:#17100A;
+  --surface:#1A130C; --surface-2:#221910;
+  --surface-3:#2C2014;
+  --ink:#EFE3CE; --ink-2:#C6B091; --ink-3:#917A5C;
+  --border:#332818; --border-2:#473A26;
+  --accent:#C98A3E; --accent-2:#E0A552; --accent-deep:#E0A552;
+  --accent-soft:#3E2C14;
+  --link:#D89A4A; --link-hover:#ECB868;
+  --hop:#C9A45E; --hop-deep:#E0C896;
+  --il-ink:#EFE3CE; --il-paper:#D8C39A; --il-foam:#E6D6AE;
+  --il-glass:rgba(239,227,206,.16); --il-beer:#7A4F2C;
+  --shadow:0 1px 2px rgba(0,0,0,.45),0 10px 30px -12px rgba(0,0,0,.65);
+  --shadow-lg:0 6px 18px rgba(0,0,0,.55),0 36px 70px -28px rgba(0,0,0,.82);
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth;scroll-padding-top:88px}
