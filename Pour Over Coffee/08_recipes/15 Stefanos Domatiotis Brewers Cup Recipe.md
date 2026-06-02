@@ -19,7 +19,7 @@ source: "Stefanos Domatiotis (Taf Coffee), 2014 World Brewers Cup"
 
 # 🇬🇷 Stefanos Domatiotis Brewers Cup Recipe
 
-Stefanos Domatiotis of Taf Coffee in Athens won the 2014 World Brewers Cup, and his routine is remembered less for a single gimmick than for **uncompromising precision and bean selection** — an immaculate light-roasted gesha brewed on a [[Hario V60]] with carefully controlled temperature and a calm, even pour. He is one of the brewers who helped cement the idea that a great cup is **won at the farm and the roaster**, then merely *not ruined* at the brew bar. 🏛️
+Stefanos Domatiotis of Taf Coffee in Athens won the 2014 World Brewers Cup for Greece, and his routine is remembered less for a single gimmick than for **uncompromising precision and bean selection** — an immaculate light-roasted **Panama Geisha from Ninety Plus** (he was the first champion to use a Ninety Plus coffee) brewed on a [[Hario V60]]. He used **two kettles** to hold temperature exactly where he wanted it and poured calm and even. He is one of the brewers who helped cement the idea that a great cup is **won at the farm and the roaster**, then merely *not ruined* at the brew bar. 🏛️
 
 > [!example] ☕ Recipe Card
 > | Field | Value |
@@ -32,7 +32,7 @@ Stefanos Domatiotis of Taf Coffee in Athens won the 2014 World Brewers Cup, and 
 > | Grind | medium-fine — see [[Grind Size for Pour Over]] |
 > | Bloom | ~60 g for ~45 s |
 > | Brew time | ~3:30 |
-> | Roast | light, single-origin gesha |
+> | Roast | light, single-origin Panama Geisha (Ninety Plus) |
 > | Source | Stefanos Domatiotis (Taf), 2014 World Brewers Cup |
 > | **Resulting cup** | Floral, tea-like, exceptionally clean; delicate body, vivid aromatics |
 
@@ -47,7 +47,7 @@ A representative reconstruction of a gentle, multi-pour V60 in his style (exact 
 5. **~3:30** — Drawdown completes.
 
 > [!warning] Specifics are approximate
-> Domatiotis's exact 2014 dose, pour weights, and timings are not published in a single authoritative source the way Kasuya's are. The figures above are a sensible reconstruction in his documented style; trust the **approach** (light gesha, controlled temperature, gentle even pours) over the precise numbers.
+> What is well documented: he brewed a **Ninety Plus Panama Geisha** on a **V60 using two kettles** for temperature control. His exact 2014 dose, pour weights, and timings are **not** published in a single authoritative source the way Kasuya's or Fukahori's are. The numbers above are a sensible reconstruction in his documented style; trust the **approach** (light Geisha, two-kettle temperature control, gentle even pours) over the precise figures.
 
 ## Why It Works
 

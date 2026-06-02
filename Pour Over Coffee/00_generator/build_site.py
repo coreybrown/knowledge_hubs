@@ -353,7 +353,7 @@ def render_blocks(lines, ctx, headings=None, top=False):
             while j < n and not lines[j].startswith("```"):
                 buf.append(lines[j])
                 j += 1
-            if ctx.get("slug") == "ipa-family-tree":
+            if ctx.get("slug") == "brew-method-family-tree":
                 out.append(FAMILY_TREE_SVG)
             else:
                 code = html.escape("\n".join(buf), quote=False)

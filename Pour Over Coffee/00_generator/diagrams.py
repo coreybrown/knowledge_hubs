@@ -340,7 +340,7 @@ def domain_illustration(folder, color):
 
 
 # ================================================================
-# FAMILY TREE  (refined; replaces ASCII fence in IPA Family Tree.md)
+# FAMILY TREE  (refined SVG; replaces the ASCII fence in Brew Method Family Tree.md)
 # ================================================================
 
 def _ft_node(x, y, w, label, slug, sub=False, root=False):
@@ -355,47 +355,55 @@ def _ft_node(x, y, w, label, slug, sub=False, root=False):
     cls = "ft-node ft-sub" if sub else "ft-node"
     rect = f'<rect x="{rx}" y="{y-h/2}" width="{w}" height="{h}" rx="11" class="ft-rect"/>'
     text = f'<text x="{x}" y="{y+1}" class="ft-label">{label}</text>'
+    if slug is None:
+        # category node with no page of its own — render unlinked
+        return f'<g class="{cls} ft-static">{rect}{text}</g>'
     return f'<a href="{slug}.html" class="{cls}">{rect}{text}</a>'
 
 
 FAMILY_TREE_SVG = (
     '<figure class="diagram diagram-tree">'
-    '<svg viewBox="0 0 960 700" class="ftree" '
+    '<svg viewBox="0 0 960 380" class="ftree" '
     'xmlns="http://www.w3.org/2000/svg" role="img" '
-    'aria-label="The IPA family tree, from English Pale Ale to modern styles">'
-    '<defs>'
-    '<linearGradient id="ftLine" x1="0" x2="0" y1="0" y2="1">'
-    '<stop offset="0%" stop-color="var(--border-2)"/>'
-    '<stop offset="100%" stop-color="var(--border-2)" stop-opacity=".5"/>'
-    '</linearGradient></defs>'
-    # connectors
-    '<path class="ft-line" d="M480 72 L480 119"/>'
-    '<path class="ft-line ft-line-dash" d="M480 165 L480 197"/>'
-    '<path class="ft-line" d="M480 245 L480 269"/>'
-    '<path class="ft-line" d="M480 315 L480 348 L290 348 L290 371"/>'
-    '<path class="ft-line" d="M480 348 L670 348 L670 371"/>'
-    '<path class="ft-line" d="M290 417 L290 454 L130 454 L130 483"/>'
-    '<path class="ft-line" d="M290 454 L290 483"/>'
-    '<path class="ft-line" d="M290 454 L450 454 L450 483"/>'
-    '<path class="ft-line" d="M670 417 L670 454 L610 454 L610 483"/>'
-    '<path class="ft-line" d="M670 454 L770 454 L770 483"/>'
-    '<path class="ft-line" d="M130 529 L130 597"/>'
-    # era labels
-    + _ft_node(480, 49, 230, "English Pale Ale · 1700s", None, root=True)
-    + _ft_node(480, 142, 190, "English IPA", "english-ipa")
-    + '<text x="480" y="223" class="ft-era">craft revival · 1970s–80s</text>'
-    + _ft_node(480, 292, 190, "American IPA", "american-ipa")
-    + _ft_node(290, 394, 210, "West Coast IPA", "west-coast-ipa")
-    + _ft_node(670, 394, 210, "New England IPA", "new-england-ipa")
-    + _ft_node(130, 506, 154, "Double IPA", "double-ipa", sub=True)
-    + _ft_node(290, 506, 132, "Cold IPA", "cold-ipa", sub=True)
-    + _ft_node(450, 506, 142, "Black IPA", "black-ipa", sub=True)
-    + _ft_node(610, 506, 162, "Milkshake IPA", "milkshake-ipa", sub=True)
-    + _ft_node(770, 506, 142, "Brut IPA", "brut-ipa", sub=True)
-    + _ft_node(130, 620, 154, "Triple IPA", "triple-ipa", sub=True)
+    'aria-label="The coffee brew-method family tree — percolation, hybrid, '
+    'and immersion methods and the brewers in each branch">'
+    # root -> three branches
+    '<path class="ft-line" d="M480 65 L480 90 L180 90 L180 115"/>'
+    '<path class="ft-line" d="M480 90 L480 115"/>'
+    '<path class="ft-line" d="M480 90 L780 90 L780 115"/>'
+    # pour-over subtree (2x2 grid off a central rail at x=180)
+    '<path class="ft-line" d="M180 161 L180 200"/>'
+    '<path class="ft-line" d="M180 200 L110 200 L110 227"/>'
+    '<path class="ft-line" d="M180 200 L250 200 L250 227"/>'
+    '<path class="ft-line" d="M180 200 L180 290"/>'
+    '<path class="ft-line" d="M180 290 L110 290 L110 307"/>'
+    '<path class="ft-line" d="M180 290 L250 290 L250 307"/>'
+    # hybrid subtree (two stacked, dashed — straddles the two worlds)
+    '<path class="ft-line ft-line-dash" d="M480 161 L480 200 L500 200 L500 227"/>'
+    '<path class="ft-line ft-line-dash" d="M480 200 L480 290 L500 290 L500 307"/>'
+    # immersion subtree (two stacked off x=780)
+    '<path class="ft-line" d="M780 161 L780 200 L820 200 L820 227"/>'
+    '<path class="ft-line" d="M780 200 L780 290 L820 290 L820 307"/>'
+    # mechanism captions above each branch
+    + '<text x="180" y="106" class="ft-era">water flows through</text>'
+    + '<text x="480" y="106" class="ft-era">steep, then flow</text>'
+    + '<text x="780" y="106" class="ft-era">full immersion</text>'
+    # nodes
+    + _ft_node(480, 42, 220, "Brewing Coffee", None, root=True)
+    + _ft_node(180, 138, 176, "Pour Over", "what-is-pour-over-coffee")
+    + _ft_node(480, 138, 150, "Hybrid", None)
+    + _ft_node(780, 138, 176, "Immersion", None)
+    + _ft_node(110, 250, 96, "Hario V60", "hario-v60", sub=True)
+    + _ft_node(250, 250, 128, "Kalita Wave", "kalita-wave", sub=True)
+    + _ft_node(110, 330, 104, "Chemex", "chemex", sub=True)
+    + _ft_node(250, 330, 120, "Origami", "origami-dripper", sub=True)
+    + _ft_node(500, 250, 128, "AeroPress", "aeropress", sub=True)
+    + _ft_node(500, 330, 182, "OXO Rapid Brewer", "oxo-rapid-brewer", sub=True)
+    + _ft_node(820, 250, 150, "French Press", "french-press", sub=True)
+    + _ft_node(820, 330, 150, "Clever Dripper", "the-clever-dripper", sub=True)
     + '</svg>'
-    '<figcaption>The IPA family tree — one ancestor, three generations, '
-    'a still-branching frontier. Tap any style to explore it.</figcaption>'
+    '<figcaption>The pour-over family — percolation, immersion, and the hybrids '
+    'between. Tap any brewer to explore it.</figcaption>'
     '</figure>'
 )
 

@@ -617,6 +617,10 @@ html[data-theme="dark"] .sr-title b{background:var(--accent);color:#15110B}
 html[data-theme="dark"] .ft-node:hover .ft-label{fill:#15110B}
 .ft-sub .ft-rect{fill:var(--surface-2)}
 .ft-sub .ft-label{font-size:12.5px}
+.ft-static{cursor:default}
+.ft-static .ft-rect,.ft-static:hover .ft-rect{
+  fill:color-mix(in srgb,var(--accent) 12%,var(--surface));stroke:var(--border-2)}
+.ft-static .ft-label,.ft-static:hover .ft-label{fill:var(--ink-2)}
 .ft-root .ft-rect{fill:color-mix(in srgb,var(--accent) 22%,var(--surface));
   stroke:var(--accent);stroke-dasharray:4 3}
 .ft-root .ft-label{fill:var(--accent-deep);font-size:13px;font-weight:700;

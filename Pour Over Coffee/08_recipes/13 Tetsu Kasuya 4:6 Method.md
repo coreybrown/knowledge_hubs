@@ -8,8 +8,8 @@ brewer: Hario V60
 dose_g: 20
 water_g: 300
 ratio: "1:15"
-temp_c: 92
-grind: medium-coarse (coarser than standard V60)
+temp_c: 93
+grind: coarse (coarser than standard V60)
 bloom_g: 50
 bloom_time_s: 45
 brew_time: "3:30"
@@ -28,15 +28,15 @@ When Tetsu Kasuya won the 2016 World Brewers Cup, he introduced a framework so c
 > | Dose | 20 g |
 > | Water | 300 g total |
 > | Ratio | 1:15 |
-> | Temp | 92°C |
-> | Grind | medium-coarse, coarser than standard [[Grind Size for Pour Over\|V60]] |
-> | Bloom | first 40% includes a ~45 s rest |
+> | Temp | 93°C (light roast; 88°C medium, 83°C dark) |
+> | Grind | coarse, coarser than standard [[Grind Size for Pour Over\|V60]] |
+> | Bloom | first pour (50 g here), ~45 s rest |
 > | Brew time | ~3:30 |
 > | Roast | light to medium |
 > | Source | Tetsu Kasuya, 2016 World Brewers Cup |
 > | **Resulting cup** | Clean, sweet, adjustable; bright or balanced and light or strong to taste |
 
-The water is split into **two phases**. The first 40% (120 g for a 300 g brew) is given in **two pours** whose balance sets flavor: equal pours (60 g + 60 g) for balance, a smaller-then-larger split (50 g + 70 g) for more sweetness, the reverse for more acidity. The last 60% (180 g) is split into **more pours for a stronger cup, fewer for a milder one** — typically three equal 60 g pours. Each new pour begins only **after the previous water has fully drained**, which is what lets a coarse grind extract efficiently.
+The water is split into **two phases**. The first 40% (120 g for a 300 g brew) is given in **two pours** whose balance sets flavor: equal pours (60 g + 60 g) for balance, a smaller-then-larger split (e.g. 50 g + 70 g, or Kasuya's own 40 g + 80 g) for more sweetness, the reverse for more acidity. The last 60% (180 g) is split into **more pours for a stronger cup, fewer for a milder one** — typically three equal 60 g pours. Pours are spaced at a steady **~45 s interval**, each begun once the bed has nearly drained, which is what lets a coarse grind extract efficiently. Kasuya sets temperature **by roast**: ~93°C for light, ~88°C for medium, ~83°C for dark.
 
 ## Pour Schedule
 

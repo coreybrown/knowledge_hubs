@@ -38,7 +38,7 @@ James Hoffmann's "Ultimate V60 Technique" is probably the single most-watched po
 
 ## Pour Schedule
 
-1. **0:00** — Add **45 g** (cumulative 45 g, ~3× dose); **swirl** the slurry until evenly mixed; [[The Bloom|bloom]] 45 s.
+1. **0:00** — Add **45 g** (cumulative 45 g; Hoffmann's bloom rule is ~2-3× dose); **swirl** the slurry until evenly mixed; [[The Bloom|bloom]] 45 s.
 2. **0:45** — Pour steadily to **150 g** (cumulative 150 g, ~60% of total) over ~30 s.
 3. **1:15** — Pour to **250 g** (cumulative 250 g, 100%) over ~30 s.
 4. **~1:45** — Give one or two gentle stirs, then a **final swirl** to flatten the bed.
