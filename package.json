@@ -9,9 +9,6 @@
     "url": "git+https://github.com/coreybrown/knowledge_hubs.git"
   },
   "license": "ISC",
-  "dependencies": {
-    "@anthropic-ai/sdk": "^0.100.1"
-  },
   "devDependencies": {
     "@types/node": "^25.9.1",
     "@vercel/node": "^5.8.12",

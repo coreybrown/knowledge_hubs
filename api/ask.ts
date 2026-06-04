@@ -8,6 +8,9 @@
  * returned in the `X-Ask-Sources` header so the client renders "Go deeper"
  * links from its existing search index.
  *
+ * Zero runtime dependencies: the Anthropic Messages API is called directly with
+ * global fetch (no SDK), so there is nothing to install or bundle.
+ *
  * Env (set in the Vercel project):
  *   ANTHROPIC_API_KEY                          (required)
  *   KV_REST_API_URL / KV_REST_API_TOKEN        (Vercel KV)      — rate limiting
@@ -17,7 +20,6 @@
  * before going live.
  */
 import type { VercelRequest, VercelResponse } from "@vercel/node";
-import Anthropic from "@anthropic-ai/sdk";
 
 export const config = { maxDuration: 30 };
 
@@ -126,6 +128,58 @@ async function isRateLimited(ip: string): Promise<boolean> {
   }
 }
 
+// ---------------------------------------------------------------- Claude (REST, streamed)
+async function streamClaude(
+  apiKey: string,
+  system: string,
+  q: string,
+  context: string,
+  onText: (t: string) => void
+): Promise<void> {
+  const resp = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "x-api-key": apiKey,
+      "anthropic-version": "2023-06-01",
+      "content-type": "application/json",
+    },
+    body: JSON.stringify({
+      model: MODEL,
+      max_tokens: MAX_TOKENS,
+      stream: true,
+      system: [{ type: "text", text: system, cache_control: { type: "ephemeral" } }],
+      messages: [{ role: "user", content: `Question: ${q}\n\nGuide excerpts:\n\n${context}` }],
+    }),
+  });
+  if (!resp.ok || !resp.body) throw new Error(`anthropic ${resp.status}`);
+
+  // Parse the SSE stream; emit text from content_block_delta events.
+  const reader = resp.body.getReader();
+  const decoder = new TextDecoder();
+  let buf = "";
+  for (;;) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    buf += decoder.decode(value, { stream: true });
+    let nl: number;
+    while ((nl = buf.indexOf("\n")) >= 0) {
+      const line = buf.slice(0, nl).trim();
+      buf = buf.slice(nl + 1);
+      if (!line.startsWith("data:")) continue;
+      const payload = line.slice(5).trim();
+      if (!payload || payload === "[DONE]") continue;
+      try {
+        const ev = JSON.parse(payload);
+        if (ev.type === "content_block_delta" && ev.delta?.type === "text_delta") {
+          onText(ev.delta.text as string);
+        }
+      } catch {
+        /* ignore keep-alive / non-JSON lines */
+      }
+    }
+  }
+}
+
 // ---------------------------------------------------------------- handler
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (req.method !== "POST") return res.status(405).end("Method Not Allowed");
@@ -175,26 +229,10 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     `excerpts. Speak as the guide; do not mention "excerpts", "notes", or "context".`;
 
   try {
-    const stream = anthropicStream(apiKey, system, q, context);
-    for await (const text of stream) res.write(text);
+    await streamClaude(apiKey, system, q, context, (t) => res.write(t));
     res.end();
   } catch {
     if (!res.headersSent) res.status(502).end("The assistant is unavailable right now.");
     else res.end();
-  }
-}
-
-async function* anthropicStream(apiKey: string, system: string, q: string, context: string) {
-  const client = new Anthropic({ apiKey });
-  const stream = client.messages.stream({
-    model: MODEL,
-    max_tokens: MAX_TOKENS,
-    system: [{ type: "text", text: system, cache_control: { type: "ephemeral" } }],
-    messages: [{ role: "user", content: `Question: ${q}\n\nGuide excerpts:\n\n${context}` }],
-  });
-  for await (const event of stream) {
-    if (event.type === "content_block_delta" && event.delta.type === "text_delta") {
-      yield event.delta.text;
-    }
   }
 }
