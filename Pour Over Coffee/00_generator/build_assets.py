@@ -929,12 +929,11 @@ JS = r"""
       openBtn=document.getElementById("searchOpen"),
       DATA=window.SEARCH_INDEX||[],sel=-1,rows=[],asking=false;
 
-  /* Preview by default (local stub: real keyword retrieval + simulated stream).
-     Append ?ask=live to any page URL to exercise the real /api/ask backend;
-     change this to `true` to enable the live backend for everyone. The UI
-     (streaming, sources, states) is identical either way.
+  /* Live: answers come from the /api/ask backend (Claude). Set to false to fall
+     back to the local preview stub. The UI (streaming, sources, states) is the
+     same either way.
      Dev: type ":resting" or ":error" as the question to preview those states. */
-  var ASK_ENABLED=(location.search.indexOf("ask=live")>=0);
+  var ASK_ENABLED=true;
   var ASK_TOPIC="pour over";
   var ASK_GUIDE="pour-over";
   var ASK_EG=["What’s the best V60 recipe?",
