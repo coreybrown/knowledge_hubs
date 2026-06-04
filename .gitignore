@@ -9,6 +9,9 @@ Thumbs.db
 /docs/
 .vercel/
 
+# Node / serverless function deps (api/ask.ts); package-lock.json IS committed
+/node_modules/
+
 # Obsidian per-machine workspace state
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json

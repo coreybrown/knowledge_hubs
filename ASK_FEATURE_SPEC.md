@@ -137,12 +137,27 @@ Budget is **$5/month** — tight, so the design is sized to fit it:
   stub (real keyword retrieval + simulated stream) so the UX is fully clickable
   before the backend exists. Dev: type `:resting` or `:error` to preview states.
 
-**Backend wiring (needs the provisioning below) — integration points already in place:**
-- Flip `ASK_ENABLED=true` in the overlay JS (build_assets.py, both guides).
-- `streamReal()` already POSTs `/api/ask {guide,q}` and reads a streamed body;
-  finalize it to use server-returned sources instead of the client-side guess.
-- Build `api/ask.ts`: rate-limit → validate → BM25 over `ask-corpus.json`
-  (top-3 + section snippets) → Claude Sonnet 4.6 stream.
+**Backend — built (needs the provisioning below to answer live):**
+- `api/ask.ts` (Node/TS Vercel function): validate → per-IP + global rate limit
+  (Upstash/Vercel KV REST, optional) → keyword retrieval over `ask-corpus.json`
+  (top-3 notes, title-weighted, relevance floor) → Claude Sonnet 4.6, streamed,
+  grounded answer. Returns the notes used in the `X-Ask-Sources` header.
+- `streamReal()` posts `/api/ask`, streams the answer, maps returned slugs to
+  "Go deeper" cards via the search index (client-side fallback if absent).
+- `package.json` / `package-lock.json` / `tsconfig.json` + `vercel.json`
+  (`functions.maxDuration`) added; `node_modules` git-ignored.
+- **Rollout:** default is PREVIEW for everyone. `?ask=live` on any page URL hits
+  the real backend (for your testing). Set `ASK_ENABLED=true` (build_assets.py,
+  both guides) + rebuild to enable live for all visitors.
+
+### To go live
+1. Set `ANTHROPIC_API_KEY` in the Vercel project; set a **$5/mo** spend limit in
+   the Anthropic console.
+2. Create a KV store (Vercel KV or Upstash) and add its env vars
+   (`KV_REST_API_URL`/`KV_REST_API_TOKEN` or `UPSTASH_REDIS_REST_*`). Without it
+   the endpoint runs but is **not** rate-limited.
+3. Deploy. Test with `…/the-standard-v60-recipe.html?ask=live`, ask a question.
+4. Flip `ASK_ENABLED=true` in both `build_assets.py`, rebuild, commit, push.
 
 ## Open items before build
 

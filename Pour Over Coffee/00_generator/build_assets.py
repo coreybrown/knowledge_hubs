@@ -929,11 +929,12 @@ JS = r"""
       openBtn=document.getElementById("searchOpen"),
       DATA=window.SEARCH_INDEX||[],sel=-1,rows=[],asking=false;
 
-  /* Flip ASK_ENABLED to true once the /api/ask backend is live. Until then,
-     answers are a local PREVIEW: real keyword retrieval + a stubbed, streamed
-     reply. The UI (streaming, sources, states) is identical either way.
+  /* Preview by default (local stub: real keyword retrieval + simulated stream).
+     Append ?ask=live to any page URL to exercise the real /api/ask backend;
+     change this to `true` to enable the live backend for everyone. The UI
+     (streaming, sources, states) is identical either way.
      Dev: type ":resting" or ":error" as the question to preview those states. */
-  var ASK_ENABLED=false;
+  var ASK_ENABLED=(location.search.indexOf("ask=live")>=0);
   var ASK_TOPIC="pour over";
   var ASK_GUIDE="pour-over";
   var ASK_EG=["What’s the best V60 recipe?",
@@ -1105,11 +1106,19 @@ JS = r"""
       el.textContent+=w[i++];if(panel)panel.scrollTop=panel.scrollHeight;
     },22);
   }
+  function bySlug(slug){
+    var u=slug+".html";
+    for(var i=0;i<DATA.length;i++)if(DATA[i].u===u)return DATA[i];
+    return null;
+  }
   function streamReal(q,ans,sources){
     fetch("/api/ask",{method:"POST",headers:{"Content-Type":"application/json"},
       body:JSON.stringify({guide:ASK_GUIDE,q:q})}).then(function(r){
-      if(r.status===429||r.status===503)return askState("resting");
+      if(r.status===429)return askState("resting");
       if(!r.ok||!r.body)return askState("error");
+      var hdr=r.headers.get("X-Ask-Sources");   // slugs the server actually used
+      if(hdr){try{var mp=JSON.parse(hdr).map(bySlug).filter(Boolean);
+        if(mp.length)sources=mp;}catch(e){}}
       var rd=r.body.getReader(),dec=new TextDecoder();ans.textContent="";
       (function pump(){return rd.read().then(function(res){
         if(res.done){ans.classList.remove("streaming");renderSources(sources);
