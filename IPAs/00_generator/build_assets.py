@@ -491,11 +491,12 @@ html[data-theme="dark"] .hstat b{color:var(--accent-2)}
   place-items:center;border-radius:9px;
   background:color-mix(in srgb,var(--src) 15%,transparent)}
 .sr-main{min-width:0}
-.sr-title{font-weight:600;color:var(--ink);font-size:.96rem}
+.sr-title{display:block;font-weight:600;color:var(--ink);font-size:.96rem}
 .sr-title b{background:var(--accent-soft);color:var(--ink);
   border-radius:3px;padding:0 1px}
 html[data-theme="dark"] .sr-title b{background:var(--accent);color:#15110B}
-.sr-meta{font-size:.78rem;color:var(--src);font-weight:600;margin-top:1px}
+.sr-meta{display:block;font-size:.78rem;color:var(--src);font-weight:600;
+  margin-top:2px}
 .sr-snip{font-size:.81rem;color:var(--ink-3);margin-top:2px;
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;
   overflow:hidden}
@@ -506,6 +507,50 @@ html[data-theme="dark"] .sr-title b{background:var(--accent);color:#15110B}
 .sr-hint kbd{font-family:var(--mono);font-size:.72rem;
   background:var(--surface-2);border:1px solid var(--border);
   border-radius:5px;padding:1px 6px}
+
+/* ---------- ask (Q&A) ---------- */
+.search-body{display:flex;flex-direction:column;overflow-y:auto;min-height:0}
+.search-results{overflow:visible}
+.ask-panel{padding:16px 18px 8px;border-bottom:1px solid var(--border)}
+.ask-panel[hidden]{display:none}
+.ask-head{display:flex;align-items:center;gap:9px;margin-bottom:7px}
+.ask-eyebrow{font-family:var(--mono);font-size:.7rem;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3)}
+.ask-badge{font-family:var(--mono);font-size:.62rem;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--accent);
+  background:color-mix(in srgb,var(--accent) 14%,transparent);
+  border:1px solid color-mix(in srgb,var(--accent) 30%,transparent);
+  border-radius:999px;padding:2px 8px}
+.ask-q{font-family:var(--serif);font-size:1.06rem;color:var(--ink);
+  line-height:1.32;margin-bottom:9px}
+.ask-q::before{content:"\201C"}.ask-q::after{content:"\201D"}
+.ask-answer{font-size:.95rem;line-height:1.6;color:var(--ink-2);
+  white-space:pre-wrap;min-height:1.2em}
+.ask-answer.streaming::after{content:"";display:inline-block;width:.46em;
+  height:1.02em;margin-left:1px;vertical-align:-2px;background:var(--accent);
+  border-radius:1px;animation:askblink 1s steps(2) infinite}
+@keyframes askblink{50%{opacity:0}}
+.ask-foot{margin-top:11px;font-size:.76rem;color:var(--ink-3);font-style:italic}
+.ask-sources{margin-top:6px}
+.ask-src-label,.sr-jump{font-family:var(--mono);font-size:.67rem;
+  letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3);
+  padding:8px 13px 4px}
+.ask-note{padding:14px 16px;border-radius:11px;font-size:.9rem;line-height:1.5;
+  background:var(--surface-2);color:var(--ink-2)}
+.ask-note-resting{border:1px solid color-mix(in srgb,var(--accent) 32%,transparent)}
+.ask-note-error{border:1px solid color-mix(in srgb,#c0506a 38%,transparent)}
+.sr-intro{padding:26px 22px 20px;text-align:center}
+.sr-intro-h{font-family:var(--serif);font-size:1.18rem;color:var(--ink);
+  margin-bottom:6px}
+.sr-intro-p{font-size:.88rem;color:var(--ink-3);line-height:1.55;
+  max-width:430px;margin:0 auto 16px}
+.ask-chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+.ask-chip{font-family:var(--sans);font-size:.83rem;color:var(--ink-2);
+  background:var(--surface-2);border:1px solid var(--border);border-radius:999px;
+  padding:7px 13px;cursor:pointer;text-align:left;
+  transition:border-color .15s,color .15s,background .15s}
+.ask-chip:hover{color:var(--ink);border-color:var(--border-2);
+  background:color-mix(in srgb,var(--accent) 9%,var(--surface-2))}
 
 .scrim{position:fixed;inset:0;z-index:40;background:rgba(20,14,6,.5);
   display:none}
@@ -872,19 +917,32 @@ JS = r"""
     document.body.classList.toggle("nav-open");});
   if(scrim)scrim.addEventListener("click",closeNav);
 
-  /* ---- search ---- */
+  /* ---- search + ask ---- */
   var modal=document.getElementById("searchModal"),
       input=document.getElementById("searchInput"),
       results=document.getElementById("searchResults"),
+      panel=document.getElementById("askPanel"),
       openBtn=document.getElementById("searchOpen"),
-      DATA=window.SEARCH_INDEX||[],sel=-1,rows=[];
+      DATA=window.SEARCH_INDEX||[],sel=-1,rows=[],asking=false;
+
+  /* Flip ASK_ENABLED to true once the /api/ask backend is live. Until then,
+     answers are a local PREVIEW: real keyword retrieval + a stubbed, streamed
+     reply. The UI (streaming, sources, states) is identical either way.
+     Dev: type ":resting" or ":error" as the question to preview those states. */
+  var ASK_ENABLED=false;
+  var ASK_TOPIC="IPAs";
+  var ASK_GUIDE="ipas";
+  var ASK_EG=["What sets a West Coast IPA apart from a hazy one?",
+              "Why do IPAs go stale so fast?",
+              "Which hops give citrus and tropical aromas?"];
 
   function openSearch(){
     if(!modal)return;
-    modal.hidden=false;input.value="";render("");
+    modal.hidden=false;input.value="";resetAsk();render("");
     setTimeout(function(){input.focus();},30);
   }
   function closeSearch(){if(modal)modal.hidden=true;}
+  function resetAsk(){asking=false;if(panel){panel.hidden=true;panel.innerHTML="";}}
   function esc(s){return s.replace(/[&<>]/g,function(c){
     return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c];});}
   function hl(text,q){
@@ -894,35 +952,69 @@ JS = r"""
     return esc(text.slice(0,i))+"<b>"+esc(text.slice(i,i+q.length))+
       "</b>"+esc(text.slice(i+q.length));
   }
+  var ASK_STOP={the:1,a:1,an:1,is:1,are:1,of:1,for:1,to:1,and:1,or:1,in:1,on:1,
+    with:1,vs:1,it:1,this:1,that:1,can:1,should:1,do:1,does:1,did:1,my:1,me:1,
+    i:1,you:1,what:1,whats:1,how:1,why:1,when:1,which:1,who:1,was:1,be:1};
+  function askTokens(q){
+    return q.toLowerCase().split(/[^a-z0-9]+/).filter(function(t){
+      return t.length>2 && !ASK_STOP[t];});
+  }
   function score(p,q){
-    var t=p.t.toLowerCase(),k=(p.k||"").toLowerCase(),
-        s=(p.s||"").toLowerCase();
-    if(t===q)return 100;
-    if(t.indexOf(q)===0)return 80;
-    if(t.indexOf(q)>=0)return 60;
-    if(k.indexOf(q)>=0)return 40;
-    if(s.indexOf(q)>=0)return 20;
-    return 0;
+    q=(q||"").trim().toLowerCase();if(!q)return 0;
+    var t=p.t.toLowerCase(),k=(p.k||"").toLowerCase(),s=(p.s||"").toLowerCase();
+    if(t===q)return 1000;
+    if(t.indexOf(q)===0)return 200;
+    var toks=askTokens(q);
+    if(!toks.length){            // 1–2 char query: whole-string fallback
+      if(t.indexOf(q)>=0)return 60;
+      if(k.indexOf(q)>=0)return 40;
+      if(s.indexOf(q)>=0)return 20;
+      return 0;
+    }
+    var sc=0;                    // multi-term: sum per-token field hits
+    toks.forEach(function(w){
+      if(t.indexOf(w)>=0)sc+=6;
+      else if(k.indexOf(w)>=0)sc+=3;
+      else if(s.indexOf(w)>=0)sc+=1;
+    });
+    return sc;
+  }
+  function topMatches(q,n){
+    q=(q||"").trim().toLowerCase();if(!q)return [];
+    var m=[];DATA.forEach(function(p){var sc=score(p,q);if(sc>0)m.push([sc,p]);});
+    m.sort(function(a,b){return b[0]-a[0];});
+    return m.slice(0,n).map(function(x){return x[1];});
+  }
+  function srcCard(p){
+    return '<a class="sr-item" href="'+p.u+'" style="--src:'+p.c+'">'+
+      '<span class="sr-ic">'+p.i+'</span>'+
+      '<span class="sr-main"><span class="sr-title">'+esc(p.t)+'</span>'+
+      '<span class="sr-meta">'+esc(p.d)+'</span></span></a>';
+  }
+  function chipsHTML(){
+    return '<div class="ask-chips">'+ASK_EG.map(function(q){
+      return '<button type="button" class="ask-chip" data-q="'+esc(q)+'">'+
+        esc(q)+'</button>';}).join("")+'</div>';
   }
   function render(q){
     q=q.trim().toLowerCase();sel=-1;
     if(!q){
-      results.innerHTML='<div class="sr-empty">Type to search '+
-        DATA.length+' interlinked notes — try “haze”, “Burton”, '+
-        '“dry hop”, or a hop name.</div>'+hint();
-      rows=[];return;
+      results.innerHTML='<div class="sr-intro"><div class="sr-intro-h">'+
+        'Ask anything about '+esc(ASK_TOPIC)+'</div><div class="sr-intro-p">'+
+        'Get a short, sourced answer drawn from the guide — or keep typing to '+
+        'jump straight to a note.</div>'+chipsHTML()+'</div>'+hint();
+      rows=[];bindChips();return;
     }
     var matched=[];
-    DATA.forEach(function(p){
-      var sc=score(p,q);if(sc>0)matched.push([sc,p]);
-    });
+    DATA.forEach(function(p){var sc=score(p,q);if(sc>0)matched.push([sc,p]);});
     matched.sort(function(a,b){return b[0]-a[0];});
     matched=matched.slice(0,24);
     if(!matched.length){
-      results.innerHTML='<div class="sr-empty">No notes match “'+
-        esc(q)+'”.</div>';rows=[];return;
+      results.innerHTML='<div class="sr-empty">No notes match “'+esc(q)+
+        '”. Press <kbd>&crarr;</kbd> to ask instead.</div>';rows=[];return;
     }
-    results.innerHTML=matched.map(function(m){
+    results.innerHTML='<div class="sr-jump">Jump to a note</div>'+
+      matched.map(function(m){
       var p=m[1];
       return '<a class="sr-item" href="'+p.u+'" style="--src:'+p.c+'">'+
         '<span class="sr-ic">'+p.i+'</span>'+
@@ -930,13 +1022,17 @@ JS = r"""
         '</span><span class="sr-meta">'+esc(p.d)+'</span>'+
         '<span class="sr-snip">'+esc(p.s)+'</span></span></a>';
     }).join("")+hint();
-    rows=Array.prototype.slice.call(
-      results.querySelectorAll(".sr-item"));
+    rows=Array.prototype.slice.call(results.querySelectorAll(".sr-item"));
   }
   function hint(){
-    return '<div class="sr-hint"><span><kbd>&uarr;</kbd><kbd>&darr;</kbd>'+
-      ' navigate</span><span><kbd>&crarr;</kbd> open</span>'+
+    return '<div class="sr-hint"><span><kbd>&crarr;</kbd> ask</span>'+
+      '<span><kbd>&uarr;</kbd><kbd>&darr;</kbd> browse</span>'+
       '<span><kbd>esc</kbd> close</span></div>';
+  }
+  function bindChips(){
+    Array.prototype.slice.call(results.querySelectorAll(".ask-chip"))
+      .forEach(function(b){b.addEventListener("click",function(){
+        var q=b.getAttribute("data-q");input.value=q;render(q);ask(q);});});
   }
   function move(d){
     if(!rows.length)return;
@@ -945,8 +1041,83 @@ JS = r"""
     rows[sel].classList.add("sel");
     rows[sel].scrollIntoView({block:"nearest"});
   }
+
+  /* ---- ask flow (preview until /api/ask is live) ---- */
+  function ask(q){
+    q=(q||"").trim();if(!q||asking||!panel)return;
+    asking=true;sel=-1;panel.hidden=false;
+    if(!ASK_ENABLED&&q===":resting")return askState("resting");
+    if(!ASK_ENABLED&&q===":error")return askState("error");
+    var sources=topMatches(q,3);
+    panel.innerHTML='<div class="ask-head"><span class="ask-eyebrow">Answer'+
+      '</span>'+(ASK_ENABLED?'':'<span class="ask-badge">Preview</span>')+
+      '</div><div class="ask-q">'+esc(q)+'</div>'+
+      '<div class="ask-answer streaming" id="askAnswer"></div>'+
+      '<div class="ask-sources" id="askSources"></div>';
+    var ans=document.getElementById("askAnswer");
+    render(q);   // refresh the "jump to a note" list under the answer
+    if(ASK_ENABLED)streamReal(q,ans,sources);else streamMock(q,ans,sources);
+  }
+  function askState(kind){
+    var msg=kind==="resting"
+      ? "The assistant is resting — it’s reached today’s question limit. Keyword search still works below."
+      : "Couldn’t reach the assistant just now. Try again, or use keyword search below.";
+    panel.innerHTML='<div class="ask-note ask-note-'+kind+'">'+esc(msg)+'</div>';
+    asking=false;
+  }
+  function renderSources(sources){
+    var el=document.getElementById("askSources");
+    if(!el||!sources.length)return;
+    el.innerHTML='<div class="ask-src-label">Go deeper</div>'+
+      sources.map(srcCard).join("");
+  }
+  function streamMock(q,ans,sources){
+    var text;
+    if(sources.length){
+      var top=sources[0],snip=(top.s||"").trim();
+      if(snip&&!/[.!?…]$/.test(snip))snip+="…";
+      text="Here’s what the guide covers. The most relevant note is “"+top.t+"”"+
+        (sources.length>1?", with more in “"+sources[1].t+"”":"")+". "+snip;
+    }else{
+      text="This guide doesn’t appear to cover that. Try rephrasing, or browse the notes below.";
+    }
+    typeOut(ans,text,function(){
+      ans.classList.remove("streaming");renderSources(sources);
+      if(!ASK_ENABLED){
+        var s=document.getElementById("askSources");
+        if(s&&s.parentNode){var f=document.createElement("div");
+          f.className="ask-foot";
+          f.textContent="Preview answer — live AI responses arrive once the backend is connected.";
+          s.parentNode.insertBefore(f,s);}
+      }
+      asking=false;
+    });
+  }
+  function typeOut(el,text,done){
+    var w=text.split(/(\s+)/),i=0;el.textContent="";
+    var t=setInterval(function(){
+      if(!el.isConnected){clearInterval(t);return;}
+      if(i>=w.length){clearInterval(t);if(done)done();return;}
+      el.textContent+=w[i++];if(panel)panel.scrollTop=panel.scrollHeight;
+    },22);
+  }
+  function streamReal(q,ans,sources){
+    fetch("/api/ask",{method:"POST",headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({guide:ASK_GUIDE,q:q})}).then(function(r){
+      if(r.status===429||r.status===503)return askState("resting");
+      if(!r.ok||!r.body)return askState("error");
+      var rd=r.body.getReader(),dec=new TextDecoder();ans.textContent="";
+      (function pump(){return rd.read().then(function(res){
+        if(res.done){ans.classList.remove("streaming");renderSources(sources);
+          asking=false;return;}
+        ans.textContent+=dec.decode(res.value,{stream:true});
+        if(panel)panel.scrollTop=panel.scrollHeight;return pump();});})();
+    }).catch(function(){askState("error");});
+  }
+
   if(openBtn)openBtn.addEventListener("click",openSearch);
-  if(input)input.addEventListener("input",function(){render(input.value);});
+  if(input)input.addEventListener("input",function(){
+    if(asking)resetAsk();render(input.value);});
   document.addEventListener("keydown",function(e){
     if(e.key==="/"&&modal.hidden&&
        !/^(INPUT|TEXTAREA)$/.test(document.activeElement.tagName)){
@@ -955,7 +1126,10 @@ JS = r"""
     else if(!modal.hidden){
       if(e.key==="ArrowDown"){e.preventDefault();move(1);}
       else if(e.key==="ArrowUp"){e.preventDefault();move(-1);}
-      else if(e.key==="Enter"&&sel>=0){location.href=rows[sel].href;}
+      else if(e.key==="Enter"){
+        if(sel>=0)location.href=rows[sel].href;
+        else{e.preventDefault();ask(input.value);}
+      }
     }
   });
   if(modal)modal.addEventListener("click",function(e){

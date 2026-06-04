@@ -610,10 +610,13 @@ def search_overlay():
         '<circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="2"/>'
         '<line x1="13.5" y1="13.5" x2="18" y2="18" stroke="currentColor" '
         'stroke-width="2" stroke-linecap="round"/></svg>'
-        '<input type="text" id="searchInput" placeholder="Search 154 notes — '
-        'hops, haze, history…" autocomplete="off">'
+        '<input type="text" id="searchInput" placeholder="Ask about IPAs, or '
+        'search 154 notes…" autocomplete="off">'
         '<kbd>Esc</kbd></div>'
+        '<div class="search-body" id="searchBody">'
+        '<div class="ask-panel" id="askPanel" hidden></div>'
         '<div class="search-results" id="searchResults"></div>'
+        '</div>'
         '</div></div>')
 
 
@@ -880,6 +883,41 @@ def write_search_index(pages):
         encoding="utf-8")
 
 
+def write_ask_corpus(pages):
+    """Plain-text corpus for the 'Ask the guide' retrieval layer (RAG).
+
+    One entry per note, split into H2 sections so the backend can pull
+    section-level snippets rather than whole notes. Navigation-only sections
+    are dropped. Public content only — no secrets. Served at
+    assets/ask-corpus.json and read server-side by /api/ask."""
+    skip = {"continue reading"}
+    corpus = []
+    for p in pages:
+        body = re.sub(r"^#\s+.*(?:\n|$)", "", p["body"], count=1)
+        parts = re.split(r"^##\s+(.+)$", body, flags=re.M)
+        sections = []
+        intro = plain_text(parts[0])
+        if intro:
+            sections.append({"h": "", "t": intro})
+        for i in range(1, len(parts), 2):
+            head = plain_text(parts[i]).strip()
+            text = plain_text(parts[i + 1]) if i + 1 < len(parts) else ""
+            if head.lower() in skip or (not head and not text):
+                continue
+            sections.append({"h": head, "t": text})
+        if not sections:
+            continue
+        corpus.append({
+            "slug": p["slug"],
+            "title": p["title"],
+            "domain": p["domain"],
+            "url": p["slug"] + ".html",
+            "sections": sections,
+        })
+    (ASSETS / "ask-corpus.json").write_text(
+        json.dumps(corpus, ensure_ascii=False), encoding="utf-8")
+
+
 # --------------------------------------------------------------------------
 # build
 # --------------------------------------------------------------------------
@@ -894,6 +932,7 @@ def main():
     (ASSETS / "style.css").write_text(CSS, encoding="utf-8")
     (ASSETS / "app.js").write_text(JS, encoding="utf-8")
     write_search_index(pages)
+    write_ask_corpus(pages)
 
     for idx, p in enumerate(pages):
         ctx = {"linkmap": linkmap, "slug": p["slug"]}
