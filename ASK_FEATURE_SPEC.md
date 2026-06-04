@@ -18,7 +18,7 @@ content, succinctly, with links to go deeper. Decided design is locked below.
 | Backend | **Vercel Serverless Function** at `/api/ask` — **Node/TypeScript** (same-origin) |
 | Scope | Per-guide (IPAs, Pour Over). Each answers only from its own notes. |
 | Budget | **$5/month** hard Anthropic ceiling |
-| Rate limits | **3/min, 12/day per IP** + **~20/day global** soft backstop |
+| Rate limits | **3/min, 12/day per IP** + **~30/day global** soft backstop |
 
 ---
 
@@ -88,7 +88,7 @@ Budget is **$5/month** — tight, so the design is sized to fit it:
   section-level snippets** + **answer caching** → ~1–1.5¢. Realistic capacity on $5:
   **~350–450 fresh questions/month** (more with cache hits).
 - **Rate limit:** per-IP sliding window — **3/min, 12/day** — via Vercel KV / Upstash.
-- **Global soft cap:** **~20/day** so a traffic spike can't drain the month in a day.
+- **Global soft cap:** **~30/day** so a traffic spike can't drain the month in a day.
 - **Input cap:** reject questions over ~500 chars; one question per request.
 - **Spend ceiling:** hard $5 monthly limit in the Anthropic console (the real backstop).
 - **Graceful degrade:** when any cap is hit, the box shows an "assistant is resting —
@@ -172,5 +172,5 @@ Budget is **$5/month** — tight, so the design is sized to fit it:
 All resolved — ready to build once provisioning lands:
 - ✅ Spend ceiling: **$5/month**
 - ✅ Runtime: **Node/TypeScript**
-- ✅ Rate limits: **3/min, 12/day per IP + ~20/day global**
+- ✅ Rate limits: **3/min, 12/day per IP + ~30/day global**
 - ✅ Retrieval trimmed to **top-3 notes + section snippets** + **answer caching** to fit $5

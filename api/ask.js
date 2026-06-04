@@ -86,7 +86,7 @@ const KV_TOKEN = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST
 const LIMITS = [
   { key: (ip) => `ask:min:${ip}`, ttl: 60, max: 3 },
   { key: (ip) => `ask:day:${ip}`, ttl: 86400, max: 12 },
-  { key: () => `ask:global:day`, ttl: 86400, max: 20 },
+  { key: () => `ask:global:day`, ttl: 86400, max: 30 },
 ];
 async function isRateLimited(ip) {
   if (!KV_URL || !KV_TOKEN) return false;
