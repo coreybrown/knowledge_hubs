@@ -127,6 +127,11 @@ html[data-theme="dark"] .ic-moon{display:block}
 }
 .nav-link:hover{color:var(--ink);background:var(--surface-2)}
 .nav-moc{font-weight:600;color:var(--ink-2)}
+.nav-parent{font-weight:600;color:var(--ink-2)}
+.nav-link.nav-sub{margin-left:14px;padding-left:12px;font-size:.82rem;
+  border-left:1.5px solid var(--border)}
+.nav-link.nav-sub:hover{border-left-color:var(--border-2)}
+.nav-link.nav-sub.current{border-left-color:var(--dc)}
 .nav-link.current{
   color:var(--dc);background:color-mix(in srgb,var(--dc) 13%,transparent);
   font-weight:600;box-shadow:inset 2.5px 0 0 var(--dc);

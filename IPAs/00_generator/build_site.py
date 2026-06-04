@@ -120,10 +120,19 @@ def collect_pages():
             canonical = strip_prefix(f.stem)
             h1 = re.search(r"^#\s+(.+)$", body, re.M)
             title = h1.group(1).strip() if h1 else canonical
-            # drop a decorative leading emoji from the title
+            # drop a decorative leading emoji (and its modifiers) from the title
             title = re.sub(
-                r"^[\U0001F000-\U0001FAFF☀-➿←-⇿"
-                r"⬀-⯿️‍\s]+", "", title).strip() or canonical
+                r"^[\s"
+                r"\U0001F000-\U0001FAFF"     # pictographs, flags, symbols
+                r"\u2190-\u21FF"             # arrows
+                r"\u2300-\u23FF"             # misc technical (hourglass, timers)
+                r"\u25A0-\u25FF"             # geometric shapes
+                r"\u2600-\u27BF"             # misc symbols & dingbats
+                r"\u2900-\u297F"             # supplemental arrows-B
+                r"\u2B00-\u2BFF"             # misc symbols & arrows (star)
+                r"\u3030\u303D\u3297\u3299"
+                r"\uFE00-\uFE0F\u200D\u20E3"  # variation selectors, ZWJ, keycap
+                r"]+", "", title).strip() or canonical
             slug = "index" if canonical.lower() == "home" else slugify(canonical)
             is_moc = not moc_seen
             moc_seen = True
@@ -140,6 +149,7 @@ def collect_pages():
                 "tags": meta.get("tags", []) or [],
                 "aliases": meta.get("aliases", []) or [],
                 "is_moc": is_moc,
+                "is_recipe": meta.get("recipe") == "true",
             }
             pages.append(page)
 
@@ -544,12 +554,16 @@ def sidebar(pages, active_slug):
             f'<path d="M3 4.5 6 8 9 4.5" fill="none" stroke="currentColor" '
             f'stroke-width="1.7" stroke-linecap="round"/></svg></summary>'
             f'<ul class="nav-list">')
-        for p in notes:
+        for i, p in enumerate(notes):
             cls = "nav-link"
             if p["slug"] == active_slug:
                 cls += " current"
             if p is moc:
                 cls += " nav-moc"
+            elif p.get("is_recipe"):
+                cls += " nav-sub"          # recipe leaf — nest under its hub
+            elif i + 1 < len(notes) and notes[i + 1].get("is_recipe"):
+                cls += " nav-parent"       # category hub for the recipes below
             parts.append(
                 f'<li><a class="{cls}" href="{p["slug"]}.html">'
                 f'{html.escape(p["title"])}</a></li>')
