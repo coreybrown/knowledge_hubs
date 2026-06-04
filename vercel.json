@@ -3,7 +3,7 @@
   "buildCommand": "python3 build_landing.py",
   "outputDirectory": "docs",
   "framework": null,
-  "functions": { "api/ask.ts": { "maxDuration": 30 } },
+  "functions": { "api/ask.js": { "maxDuration": 30 } },
   "headers": [
     {
       "source": "/(.*)",

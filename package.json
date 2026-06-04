@@ -4,14 +4,12 @@
   "description": "Field Guides — interlinked knowledge hubs, with a grounded /api/ask assistant.",
   "private": true,
   "type": "commonjs",
+  "engines": {
+    "node": "22.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coreybrown/knowledge_hubs.git"
   },
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^25.9.1",
-    "@vercel/node": "^5.8.12",
-    "typescript": "^6.0.3"
-  }
+  "license": "ISC"
 }
