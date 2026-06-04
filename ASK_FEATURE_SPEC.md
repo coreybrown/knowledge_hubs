@@ -150,14 +150,22 @@ Budget is **$5/month** — tight, so the design is sized to fit it:
   the real backend (for your testing). Set `ASK_ENABLED=true` (build_assets.py,
   both guides) + rebuild to enable live for all visitors.
 
+> **Functions must be plain CommonJS `.js`, not `.ts`.** Under this Python-first
+> project (`framework: null` + custom build) Vercel compiles `api/*.ts` to ESM
+> but loads it as CommonJS → `SyntaxError: Unexpected token 'export'` →
+> `FUNCTION_INVOCATION_FAILED` on every request. `api/ask.js` is CommonJS; keep
+> it that way.
+
 ### To go live
-1. Set `ANTHROPIC_API_KEY` in the Vercel project; set a **$5/mo** spend limit in
-   the Anthropic console.
-2. Create a KV store (Vercel KV or Upstash) and add its env vars
+1. ✅ `ANTHROPIC_API_KEY` set in Vercel (Production + Preview). Set a **$5/mo**
+   spend limit in the Anthropic console if not already.
+2. **TODO:** create a KV store (Vercel KV or Upstash) and add its env vars
    (`KV_REST_API_URL`/`KV_REST_API_TOKEN` or `UPSTASH_REDIS_REST_*`). Without it
    the endpoint runs but is **not** rate-limited.
-3. Deploy. Test with `…/the-standard-v60-recipe.html?ask=live`, ask a question.
-4. Flip `ASK_ENABLED=true` in both `build_assets.py`, rebuild, commit, push.
+3. ✅ Verified end-to-end: `GET /api/ask` → 405; a real question streams a
+   grounded, cited answer. Test in-browser via `…?ask=live`.
+4. **TODO:** flip `ASK_ENABLED=true` in both `build_assets.py`, rebuild, commit,
+   push — enables the live assistant for all visitors (do after step 2).
 
 ## Open items before build
 
