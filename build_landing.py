@@ -103,9 +103,25 @@ MARK_COFFEE = (
 
 HUBS = [
     {
+        "slug": "pour-over",
+        "src": "Pour Over Coffee/site",
+        "kicker": "Field Guide 01 · Coffee",
+        "title": "The Pour Over Knowledge Base",
+        "blurb": (
+            "From your first V60 to extraction theory, water chemistry, grind, "
+            "and championship recipes — a complete manual-brewing manual for "
+            "the first-time brewer and the competition barista alike."
+        ),
+        "accent": "#CE8A4F",
+        "accent2": "#E0A877",
+        "mark": MARK_COFFEE,
+        "art": ART_COFFEE,
+        "stats": [("+140", "notes"), ("26", "recipes")],
+    },
+    {
         "slug": "ipas",
         "src": "IPAs/site",
-        "kicker": "Field Guide 01 · Beer",
+        "kicker": "Field Guide 02 · Beer",
         "title": "The IPA Knowledge Base",
         "blurb": (
             "From its contested 18th-century origins to the haze-clouded, "
@@ -118,22 +134,6 @@ HUBS = [
         "mark": MARK_IPA,
         "art": ART_IPA,
         "stats": [("+150", "notes"), ("18", "IPA styles")],
-    },
-    {
-        "slug": "pour-over",
-        "src": "Pour Over Coffee/site",
-        "kicker": "Field Guide 02 · Coffee",
-        "title": "The Pour Over Knowledge Base",
-        "blurb": (
-            "From your first V60 to extraction theory, water chemistry, grind, "
-            "and championship recipes — a complete manual-brewing manual for "
-            "the first-time brewer and the competition barista alike."
-        ),
-        "accent": "#CE8A4F",
-        "accent2": "#E0A877",
-        "mark": MARK_COFFEE,
-        "art": ART_COFFEE,
-        "stats": [("+140", "notes"), ("26", "recipes")],
     },
 ]
 
