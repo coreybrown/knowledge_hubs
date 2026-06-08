@@ -35,7 +35,7 @@ Almost every variable is in play: grind, [[The Brew Ratio|ratio]], temperature, 
 
 ## Recipes
 
-Start with the [[AeroPress Official Recipe]], then explore the famous [[James Hoffmann Ultimate AeroPress]] method. The AeroPress is also a favorite platform for travel and [[Iced and Cold Pour Over|iced]] brewing — and, off the coffee menu, it moonlights as a single-serve [[AeroPress Soup Recipe|soup press]].
+Start with the [[AeroPress Official Recipe]], then explore the famous [[James Hoffmann Ultimate AeroPress]] method. The AeroPress is also a favorite platform for travel and [[Iced and Cold Pour Over|iced]] brewing — and, with a tamp and a slow, gentle press, it pulls an espresso-style [[AeroPress SOUP Recipe|SOUP shot]].
 
 ## Continue Reading
 

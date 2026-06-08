@@ -49,9 +49,9 @@ Because this knowledge base covers immersion as a contrast, several methods recu
 - **[[AeroPress]]** — a pressure-assisted hybrid; part immersion, part percolation, endlessly recipe-able. See [[AeroPress Official Recipe]].
 - **[[OXO Rapid Brewer]]** — a newer immersion-and-drain hybrid that steeps the bed before releasing through a flat filter, aiming for forgiving consistency.
 
-## 🍲 An Off-Label Branch
+## ☕ An Espresso-Style Branch — SOUP
 
-Because immersion brewers are really just *steep-and-strain* machines, they moonlight as soup makers — a genuine, if tongue-in-cheek, brew type covered in [[Brewing Soup with Coffee Gear]]. Swap coffee for miso, dashi, or dried aromatics and an [[AeroPress]] or [[OXO Rapid Brewer]] will press or drain a clean bowl of soup using the very same immersion-and-filter mechanics described above.
+A newer low-pressure cousin has grown up alongside these brewers: **SOUP**, an unpressurized take on espresso. Instead of forcing water through a fine puck at nine bars, SOUP uses a coarser grind and a gentle, sub-one-bar press to reach espresso-level strength with pour-over clarity — covered in [[The SOUP Method]]. It's usually pulled on an [[AeroPress]] or an [[OXO Rapid Brewer]].
 
 ## How to Read the Family
 

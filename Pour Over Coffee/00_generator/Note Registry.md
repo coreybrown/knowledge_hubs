@@ -131,9 +131,9 @@ Scope: **pour over (manual filter brewing)** is the focus, with **immersion meth
 - The Standard V60 Recipe
 - Iced and Cold Pour Over
 - Batch Pour Over Recipe
-- Brewing Soup with Coffee Gear
-- AeroPress Soup Recipe
-- OXO Rapid Brewer Soup Recipe
+- The SOUP Method
+- AeroPress SOUP Recipe
+- OXO Rapid Brewer SOUP Recipe
 
 ## 09_science_and_extraction
 - Science and Extraction

@@ -38,7 +38,7 @@ DOMAINS = [
     ("07_brewing_technique",       "Brewing Technique",   "🌀",
      "#9E5226", "Ratio, bloom, pour patterns, agitation, and drawdown — the levers you control."),
     ("08_recipes",                 "Recipes & Methods",   "📖",
-     "#A83C24", "Official, competition, community, and one off-label soup category — each a precise, repeatable spec."),
+     "#A83C24", "Official, competition, community, and SOUP — the low-pressure espresso method — each a precise, repeatable spec."),
     ("09_science_and_extraction",  "Science & Extraction","🔬",
      "#515E86", "Solubility, extraction yield, TDS, the brewing control chart, and refractometry."),
     ("10_tasting_and_sensory",     "Tasting & Sensory",   "👅",
