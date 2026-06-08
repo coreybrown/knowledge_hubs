@@ -23,6 +23,7 @@ const MAX_TOKENS = 400;
 const RELEVANCE_FLOOR = 3;
 
 const GUIDES = {
+  "pm-atlas": { name: "The Product Manager's Atlas", topic: "product management — the competencies, career ladder, and craft of being a PM, and how AI is changing the job" },
   "ipas": { name: "IPA Knowledge Base", topic: "the India Pale Ale (IPA) style of beer" },
   "pour-over": { name: "Pour Over Knowledge Base", topic: "pour over (manual filter) coffee" },
 };

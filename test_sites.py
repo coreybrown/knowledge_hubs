@@ -33,8 +33,8 @@ from urllib.parse import unquote, urlparse
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 DOCS = ROOT / "docs"
-HUB_SLUGS = ("ipas", "pour-over")
-VAULTS = ("IPAs", "Pour Over Coffee")
+HUB_SLUGS = ("ipas", "pour-over", "pm-atlas")
+VAULTS = ("IPAs", "Pour Over Coffee", "Product Management Atlas")
 
 
 # ---------------------------------------------------------------------------

@@ -101,11 +101,51 @@ MARK_COFFEE = (
 # THE HUB REGISTRY — add a new field guide by appending one entry.
 # ---------------------------------------------------------------------------
 
+MARK_PM = (
+    '<svg viewBox="0 0 32 32" aria-hidden="true">'
+    '<circle cx="16" cy="16" r="13" fill="currentColor"/>'
+    '<path d="M16 6 L20.5 16 L16 26 L11.5 16 Z" fill="var(--bg)"/>'
+    '<path d="M16 6 L20.5 16 L11.5 16 Z" fill="var(--bg)" opacity=".55"/>'
+    '<circle cx="16" cy="16" r="2.1" fill="currentColor"/>'
+    '</svg>'
+)
+
+ART_PM = """
+<circle cx="140" cy="92" r="78" fill="currentColor" opacity=".10"/>
+<ellipse cx="140" cy="166" rx="70" ry="7" fill="var(--art-ink)" opacity=".16"/>
+<circle cx="140" cy="88" r="58" fill="var(--art-glass)"/>
+<circle cx="140" cy="88" r="58" fill="none" stroke="var(--art-ink)" stroke-width="2.6"/>
+<circle cx="140" cy="88" r="46" fill="var(--art-fill)" opacity=".5"/>
+<path d="M140 50 L156 88 L140 126 L124 88 Z" fill="var(--art-fill)" stroke="var(--art-ink)" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M140 50 L156 88 L124 88 Z" fill="var(--art-foam)" stroke="var(--art-ink)" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="140" cy="88" r="5" fill="var(--art-ink)"/>
+<g stroke="var(--art-ink)" stroke-width="2.2" stroke-linecap="round" opacity=".55">
+<line x1="140" y1="34" x2="140" y2="42"/><line x1="140" y1="134" x2="140" y2="142"/>
+<line x1="86" y1="88" x2="94" y2="88"/><line x1="186" y1="88" x2="194" y2="88"/>
+</g>
+"""
+
 HUBS = [
+    {
+        "slug": "pm-atlas",
+        "src": "Product Management Atlas/site",
+        "kicker": "Field Guide 01 · Product",
+        "title": "The Product Manager's Atlas",
+        "blurb": (
+            "An opinionated field guide to the product management craft — the "
+            "competencies that define it at every level from APM to CPO, how to "
+            "assess and grow them, and how AI is rewriting the job."
+        ),
+        "accent": "#3B5BA5",
+        "accent2": "#5C7CC4",
+        "mark": MARK_PM,
+        "art": ART_PM,
+        "stats": [("+126", "notes"), ("12", "competencies")],
+    },
     {
         "slug": "pour-over",
         "src": "Pour Over Coffee/site",
-        "kicker": "Field Guide 01 · Coffee",
+        "kicker": "Field Guide 02 · Coffee",
         "title": "The Pour Over Knowledge Base",
         "blurb": (
             "From your first V60 to extraction theory, water chemistry, grind, "
@@ -121,7 +161,7 @@ HUBS = [
     {
         "slug": "ipas",
         "src": "IPAs/site",
-        "kicker": "Field Guide 02 · Beer",
+        "kicker": "Field Guide 03 · Beer",
         "title": "The IPA Knowledge Base",
         "blurb": (
             "From its contested 18th-century origins to the haze-clouded, "
