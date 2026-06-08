@@ -6,10 +6,10 @@ domain: Product Strategy
 
 # The North Star Framework
 
-The North Star Framework is the cleanest answer I know to a question every growing product faces: *what is the one number this whole team should orient around?* It was formalized by **John Cutler and the team at Amplitude** (building on a "North Star Metric" idea popularized by Sean Ellis and the growth community), and it's earned a permanent place in how I think about [[Business Outcome Ownership|outcome ownership]]. This note is the framework as its authors define it, plus where I push back.
+The North Star Framework is the cleanest answer I know to a question every growing product faces: *what is the one number this whole team should orient around?* It was formalized by **John Cutler and the team at Amplitude** (building on the "North Star Metric," a term coined by **Sean Ellis**), and it's earned a permanent place in how I think about [[Business Outcome Ownership|outcome ownership]]. This note is the framework as its authors define it, plus where I push back.
 
 > [!quote] Attribution
-> The North Star Framework as described here is the work of **John Cutler and Amplitude**. The broader "North Star Metric" concept is associated with **Sean Ellis** and the growth movement. I'm presenting their model, not mine.
+> The North Star Framework as described here is the work of **John Cutler and Amplitude**. The underlying "North Star Metric" term was coined by **Sean Ellis**. I'm presenting their model, not mine.
 
 ## The core idea: one value metric, plus its inputs
 

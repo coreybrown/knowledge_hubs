@@ -13,7 +13,7 @@ This is the part of AI product management that SaaS instincts get most wrong, an
 In classic SaaS, the marginal cost of one more user is ~zero — you've built the software, serving another customer is rounding-error cheap. That's why SaaS runs **80–90% gross margins**. AI breaks this. **Every single inference costs real money** — the model has to run, burning compute, every time a user does the thing. That marginal cost doesn't vanish at scale.
 
 > [!warning] The margin reset
-> AI products commonly run **~50–60% gross margins** versus SaaS's 80–90%. If you price and plan an AI product on SaaS-margin assumptions, your unit economics are upside down and you won't see it until usage scales. Orchestration — multi-step agents, retrieval, chained calls — can add another **30–60%** to per-request cost on top of the base model call. The "agent" that delights users in the demo may be three to five model calls per interaction in production.
+> AI products commonly run **~50–60% gross margins** versus SaaS's 80–90%. If you price and plan an AI product on SaaS-margin assumptions, your unit economics are upside down and you won't see it until usage scales. Orchestration — multi-step agents, retrieval, chained calls — can add another **30–60%** to per-request cost on top of the base model call. The "agent" that delights users in the demo may be three to five model calls per interaction in production. (Treat the margin and cost figures here as directional industry rules of thumb — they vary widely by product and shift fast as model prices fall.)
 
 ## The levers a PM controls
 

@@ -6,7 +6,7 @@ domain: AI and the Modern PM
 
 # AI in Prototyping and Delivery
 
-This is the change that surprised me most, because it ran the opposite direction from the consensus. For a decade the PM job moved *away* from building — we wrote docs, others built. AI reversed it. Aakash Gupta's phrase for it is that PMs got **"turned back into builders,"** and I think this is the single most exciting shift in the whole domain. I stopped writing documents *about* prototypes and started shipping the prototypes.
+This is the change that surprised me most, because it ran the opposite direction from the consensus. For a decade the PM job moved *away* from building — we wrote docs, others built. AI reversed it. Atlassian caught the shift in a line — AI **"turns product managers back into builders"** — and I think it's the single most exciting change in the whole domain. I stopped writing documents *about* prototypes and started shipping the prototypes.
 
 ## Vibe coding and the tool stack
 

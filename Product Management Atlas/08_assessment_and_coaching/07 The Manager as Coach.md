@@ -10,7 +10,7 @@ If you take one thing from this domain, take this: **coaching is the job.** Not 
 
 ## The Cagan claim I build on
 
-Marty Cagan, in *EMPOWERED*, argues that coaching is **a manager's number-one responsibility** — and that done right it consumes roughly **half a manager's time**. When I first read that I thought it was an exaggeration. Having run teams, I think it's an *under*-statement for anyone with junior reports. Cagan splits the manager role into two halves: **management** (coaching + staffing) and **leadership** (strategic context, vision, strategy). The coaching half is the one new managers neglect, because it's invisible, slow, and doesn't show up on a roadmap.
+Marty Cagan, in *EMPOWERED*, argues that coaching is **a manager's number-one responsibility** — and that, done right, coaching and staffing together take up the **majority of a first-level manager's week (Cagan puts it near 80%)**. When I first read that I thought it was an exaggeration. Having run teams, I don't anymore — for anyone with junior reports, it *is* the job. Cagan splits the manager role into two halves: **management** (coaching + staffing) and **leadership** (strategic context, vision, strategy). The coaching half is the one new managers neglect, because it's invisible, slow, and doesn't show up on a roadmap.
 
 > [!quote] Why it's #1
 > Cagan's logic: your team's results are capped by the *capability* of the people on it. You can't out-strategize a team you haven't grown. The highest-leverage thing a manager does isn't make better decisions — it's create more people who make better decisions. *(Marty Cagan, SVPG / EMPOWERED.)*

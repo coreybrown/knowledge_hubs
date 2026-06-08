@@ -13,7 +13,7 @@
 - PM at intersection of customer needs, business objectives, tech possibilities; deep knowledge of user/data/business/market. "Competent people with **character**."
 - **4 big product risks**: Value, Usability, Feasibility, Business Viability. Ownership: PM = value+viability, Designer = usability, Tech Lead = feasibility.
 - **Product vs feature teams** (outcomes & empowered vs output & not); missionaries vs mercenaries. PM ≠ Product Owner (PO ≈ 10% of PM); never split discovery from delivery.
-- **Product leader** = management (coaching + staffing) + leadership (strategic context/vision/strategy). Coaching = #1 manager responsibility (~50% time).
+- **Product leader** = management (coaching + staffing) + leadership (strategic context/vision/strategy). Coaching = #1 manager responsibility (coaching+staffing ~80% of a first-level manager's week).
 - svpg.com/four-big-risks · /product-vs-feature-teams · /product-manager-vs-product-owner-revisited
 
 ## 3. Petra Wille — Strong Product People / PMwheel

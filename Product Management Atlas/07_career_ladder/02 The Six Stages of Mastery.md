@@ -8,6 +8,9 @@ domain: The Product Career Ladder
 
 Titles are the surface of [[The Product Career Ladder]]. This is what runs underneath. When I level or coach a PM, I don't ask "are they a Senior?" — I ask "for each competency, what *stage of mastery* are they operating at?" That's a far more honest question, and it's the engine the whole ladder hangs off.
 
+> [!note] Lineage
+> The competencies these stages grade come from the **Reforge / Ravi Mehta "Peak Product Manager"** model (see [[The PM Competency Model]]). The six-stage mastery spine below — and the way I gate leveling on it — are my own layer on top.
+
 ## The spine
 
 Six stages, applied **per competency**, not per person:

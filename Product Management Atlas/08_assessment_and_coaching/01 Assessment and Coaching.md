@@ -39,7 +39,7 @@ I deliberately keep more than one tool, because different jobs need different pr
 | [[Score-Gated Leveling]] | Numeric bands, floor rules that tighten with level, tenure gates — and my critique of gating |
 | [[Identifying Growth Areas]] | Finding the two weakest competencies *that matter for your next level* |
 | [[Building a Growth Plan]] | The structure: 3 growth areas × 3 small concrete tasks, outcome-based |
-| [[The Manager as Coach]] | Cagan's claim that coaching is ~50% of a manager's job, and how I do it |
+| [[The Manager as Coach]] | Cagan's claim that coaching is the bulk of a manager's job, and how I do it |
 | [[Giving and Receiving Feedback]] | Direct, specific, first-hand; the appraisal Do's and Don'ts |
 | [[Calibration and Promotion]] | How promo decisions get made, calibrated, and defended |
 | [[Running a Performance Review]] | The appraisal process and the prep self-check |

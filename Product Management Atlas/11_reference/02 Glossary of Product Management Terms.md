@@ -82,7 +82,7 @@ A plain-language definition for the vocabulary used across the Atlas. Each entry
 
 ## J
 
-**Jobs To Be Done (JTBD)** — Clayton Christensen's lens: customers "hire" a product to make progress on a job; you compete with every other way they could get that job done. See [[Jobs To Be Done]].
+**Jobs To Be Done (JTBD)** — originated by Tony Ulwick and popularized by Clayton Christensen: customers "hire" a product to make progress on a job; you compete with every other way they could get that job done. See [[Jobs To Be Done]].
 
 **Journey Map** — A visualization of a user's end-to-end experience across stages, surfacing pain points. See [[User Personas and Journey Mapping]].
 

@@ -42,7 +42,7 @@ Notice none of these come from your title. They come from how you show up. This 
 
 ## Disagree and commit
 
-The mature endpoint of leading without authority. You won't win every argument — and shouldn't. When the decision goes against you and it's been made fairly (clear [[RACI and Decision Rights|decision rights]]), the move is to *commit fully* and execute as if it were your idea. Sulking or quietly undermining torches the trust your future influence depends on. Disagreeing well and committing fully is, paradoxically, one of the most influence-building things a PM can do.
+The mature endpoint of leading without authority. You won't win every argument — and shouldn't. When the decision goes against you and it's been made fairly (clear [[RACI and Decision Rights|decision rights]]), the move is to *commit fully* and execute as if it were your idea. Sulking or quietly undermining torches the trust your future influence depends on. Disagreeing well and committing fully is, paradoxically, one of the most influence-building things a PM can do. (The phrase *disagree and commit* traces to Intel's Andy Grove and was later popularized as an Amazon leadership principle.)
 
 ## How AI is changing it
 
