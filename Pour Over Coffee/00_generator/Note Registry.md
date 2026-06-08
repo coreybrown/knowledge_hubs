@@ -1,7 +1,7 @@
 # Pour Over Coffee Knowledge Base — Note Registry
 
 This is the canonical list of every note in the vault. Every `[[wikilink]]` MUST point at one
-of these exact names. Do not invent note names outside this list. ~145 notes total.
+of these exact names. Do not invent note names outside this list. ~148 notes total.
 
 The order of notes within each folder below **is the intended reading order** — front to
 back, like a book. Each note file on disk carries a two-digit reading-order prefix
@@ -131,6 +131,9 @@ Scope: **pour over (manual filter brewing)** is the focus, with **immersion meth
 - The Standard V60 Recipe
 - Iced and Cold Pour Over
 - Batch Pour Over Recipe
+- Brewing Soup with Coffee Gear
+- AeroPress Soup Recipe
+- OXO Rapid Brewer Soup Recipe
 
 ## 09_science_and_extraction
 - Science and Extraction

@@ -116,7 +116,7 @@ HUBS = [
         "accent2": "#E0A877",
         "mark": MARK_COFFEE,
         "art": ART_COFFEE,
-        "stats": [("+140", "notes"), ("26", "recipes")],
+        "stats": [("+140", "notes"), ("29", "recipes")],
     },
     {
         "slug": "ipas",

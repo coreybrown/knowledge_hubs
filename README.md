@@ -13,12 +13,12 @@ lists, industry & culture, and reference — connected by 3,163 verified wikilin
 *Added 2026-05-21.*
 
 ### [Pour Over Coffee](./Pour%20Over%20Coffee)
-A 144-note interlinked Obsidian knowledge base on **pour over coffee** — manual
+A 147-note interlinked Obsidian knowledge base on **pour over coffee** — manual
 filter brewing — with immersion methods (AeroPress, Clever, French press, OXO Rapid
 Brewer) covered as adjacent techniques. Spans history & origins, equipment & drippers,
-beans & roast, grinding, water, brewing technique, a deep recipes domain (26 official,
-competition, and community recipes with machine-readable specs), science & extraction,
-tasting & sensory, culture & industry, and reference — connected by 2,859 verified
+beans & roast, grinding, water, brewing technique, a deep recipes domain (29 recipes —
+official, competition, community, and off-label soup methods — with machine-readable specs), science & extraction,
+tasting & sensory, culture & industry, and reference — connected by 2,912 verified
 wikilinks. Ships with a generated static website in `site/`.
 
 *Added 2026-06-02.*

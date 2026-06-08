@@ -45,3 +45,4 @@ Brew it with the [[OXO Rapid Brewer Recipe]], which gives the dose, ratio, and s
 - [[Conical vs Flat Bottom Drippers]] — why its flat bed drains evenly
 - [[Brew Time and Total Contact Time]] — your main control here
 - [[AeroPress]] — another immersion hybrid
+- [[OXO Rapid Brewer Soup Recipe]] — steep a clean broth in it, off-label

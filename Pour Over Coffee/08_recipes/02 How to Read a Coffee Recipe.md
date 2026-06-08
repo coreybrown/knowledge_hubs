@@ -18,7 +18,7 @@ Near the top of each recipe you'll find a `> [!example] ☕ Recipe Card` callout
 > | Field | Meaning |
 > |---|---|
 > | `recipe` | Always `true` for an actual recipe note (false/absent on index notes). |
-> | `category` | `official`, `competition`, or `community`. |
+> | `category` | `official`, `competition`, `community`, or `soup` (off-label). |
 > | `brewer` | The device, e.g. `Hario V60`, `Kalita Wave`, `AeroPress`. |
 > | `dose_g` | Grams of dry coffee. |
 > | `water_g` | Total grams of brew water (including bloom). |

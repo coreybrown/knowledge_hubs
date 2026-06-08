@@ -10,7 +10,7 @@ This is the home of every brewing recipe in the knowledge base — the part buil
 
 Before diving in, read [[How to Read a Coffee Recipe]] — it explains the Recipe Card schema and every field you'll see repeated at the top of each note. Then [[Recipe Variables and Cup Outcomes]] teaches you how to bend any recipe to your taste by changing one variable at a time. Together they turn a list of numbers into something you can actually tune. ⚙️
 
-We sort recipes into **three categories**, each tagged in frontmatter so the app can filter them: **official** (the maker's own method), **competition** (World Brewers Cup routines), and **community** (popular creator and roaster recipes). Browse the category indexes — [[Official Brewer Recipes]], [[Competition Recipes]], and [[Community Recipes]] — or use the tables below.
+We sort recipes into **three serious categories**, each tagged in frontmatter so the app can filter them: **official** (the maker's own method), **competition** (World Brewers Cup routines), and **community** (popular creator and roaster recipes) — plus one **off-label** category just for fun: **soup** brewed in coffee gear. Browse the category indexes — [[Official Brewer Recipes]], [[Competition Recipes]], [[Community Recipes]], and [[Brewing Soup with Coffee Gear]] — or use the tables below.
 
 ## 🏭 Official Brewer Recipes
 
@@ -46,6 +46,15 @@ We sort recipes into **three categories**, each tagged in frontmatter so the app
 | [[The Standard V60 Recipe]] | Hario V60 | 1:16 | 94°C |
 | [[Iced and Cold Pour Over]] | V60 over ice | 1:15 | 93-96°C |
 | [[Batch Pour Over Recipe]] | Flat bottom / Chemex | 1:16 | 94-96°C |
+
+## 🍲 Off-Label Brews (Soup)
+
+Not coffee at all — the one novelty in the base. These repurpose immersion coffee brewers to make soup, written to the same Recipe Card schema so the app reads them like any other recipe. See [[Brewing Soup with Coffee Gear]] for why it works.
+
+| Recipe | Brewer | "Ratio" | Temp |
+|---|---|---|---|
+| [[AeroPress Soup Recipe]] | AeroPress | ~1:8 base to water | 80-90°C |
+| [[OXO Rapid Brewer Soup Recipe]] | OXO Rapid Brewer | ~1:10 base to water | 90-96°C |
 
 Every recipe here connects back to the fundamentals — when a number puzzles you, follow the link to the chapter that explains *why*. Start simple, brew often, and change one thing at a time.
 
