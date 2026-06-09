@@ -5,7 +5,7 @@ Place for deep learning — a collection of interlinked, in-depth knowledge base
 ## Knowledge Bases
 
 ### [The Product Manager's Atlas](./Product%20Management%20Atlas)
-A 126-note interlinked knowledge base on the **product management craft** — an
+A 126-note interlinked knowledge base on the **product management craft**. It is an
 opinionated competency system built on a 4-pillar / 12-competency model. It spans the
 foundations of the role, the four competency pillars (Product Execution, Customer
 Insight, Product Strategy, Influencing People), the full career ladder (APM → CPO),

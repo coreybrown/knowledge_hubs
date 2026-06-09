@@ -9,11 +9,11 @@ domain: The Product Career Ladder
 The product-leadership rungs of [[The Product Career Ladder]], above [[Group Product Manager|GPM]]. The defining shift here is altitude of *both people and strategy*: you stop managing ICs and start **leading through other managers**, and you move from *implementing* strategy to *setting* it. This is where the job becomes mostly about organizational design and direction, and barely at all about shipping features yourself.
 
 > [!tip] My one-line definition
-> A Director runs the product *function* for a domain — through managers — and translates company strategy into a coherent product strategy. A VP owns product strategy for a large slice (or all) of the business and leads through a management *team*. Both succeed or fail on whether the *organization* produces outcomes, not whether any one team does.
+> A Director runs the product *function* for a domain, through managers, and translates company strategy into a coherent product strategy. A VP owns product strategy for a large slice (or all) of the business and leads through a management *team*. Both succeed or fail on whether the *organization* produces outcomes, not whether any one team does.
 
 ## Scope, autonomy, complexity
 
-Master of Discipline on [[The Six Stages of Mastery]] — the level that *defines how the discipline is practiced* across the org.
+Master of Discipline on [[The Six Stages of Mastery]], the level that *defines how the discipline is practiced* across the org.
 
 | Rung | Complexity | Autonomy |
 |---|---|---|
@@ -42,21 +42,21 @@ The same [[The PM Competency Model|twelve]], at the highest org altitude. Two cl
 ## How to be a great product leader
 
 - **Set context, don't give answers.** The EMPOWERED-team model is right: your job is to provide strategic *context* (vision, strategy, principles, [[OKRs and Goal-Setting|objectives]]) and then let empowered teams solve problems. Hand teams problems to own, not solutions to build.
-- **Build the bench.** Your legacy is the managers and PMs you develop and the [[Hiring and Building a Product Team|team you build]] — not your own roadmap. Promote your replacement.
+- **Build the bench.** Your legacy is the managers and PMs you develop and the [[Hiring and Building a Product Team|team you build]], not your own roadmap. Promote your replacement.
 - **Defend product-team culture.** Hold the line against the [[Product Teams vs Feature Teams|feature-factory]] drift that pressure and scale invite. Culture is set by what leaders *tolerate*.
 - **Communicate as an executive.** [[Executive Communication]] and [[Storytelling with Data]] are now core craft; you sell strategy to peers and the board, not features to a team.
 
 > [!warning] The myth at this altitude
-> "A VP is just a really senior PM." No. The competencies are the same, but the *job* is organizational leadership — most of your day is people, strategy, and politics, and almost none of it is product execution. PMs who get promoted on execution and then keep executing make terrible Directors. The skill that got you here is not the skill that keeps you here. ([[What Changes at Each Level]].)
+> "A VP is just a really senior PM." No. The competencies are the same, but the *job* is organizational leadership. Most of your day is people, strategy, and politics, and almost none of it is product execution. PMs who get promoted on execution and then keep executing make terrible Directors, because the thing that earned the title is not the thing the title now asks for. ([[What Changes at Each Level]].)
 
 ## What's above
 
-The top product rung is [[The Chief Product Officer]] — product in the C-suite, owning the function company-wide and co-owning company strategy.
+The top product rung is [[The Chief Product Officer]]: product in the C-suite, owning the function company-wide and co-owning company strategy.
 
 ## Continue Reading
-- [[The Chief Product Officer]] — the rung above; product in the C-suite.
-- [[Group Product Manager]] — the rung below; first-line management.
-- [[Team Leadership]] — product-wide leadership at this altitude.
-- [[What Changes at Each Level]] — why the job, not just the scope, changes here.
-- [[Product Teams vs Feature Teams]] — the culture a leader must defend.
-- [[Hiring and Building a Product Team]] — building the org is the job.
+- [[The Chief Product Officer]] for the rung above, where product sits in the C-suite.
+- [[Group Product Manager]] for the rung below, first-line management.
+- [[Team Leadership]] for product-wide leadership at this altitude.
+- [[What Changes at Each Level]] for why the job, not just the scope, changes here.
+- [[Product Teams vs Feature Teams]] for the culture a leader must defend.
+- [[Hiring and Building a Product Team]] for why building the org is the job.

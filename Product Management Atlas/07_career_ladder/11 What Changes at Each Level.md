@@ -6,7 +6,7 @@ domain: The Product Career Ladder
 
 # What Changes at Each Level
 
-If the competencies don't change as you climb [[The Product Career Ladder]] — and I argue in the [[The Product Career Ladder|hub]] that they don't — then *something* has to. This note names that something. There are exactly four dials, and every promotion is a turn of some combination of them.
+If the competencies don't change as you climb [[The Product Career Ladder]], and I argue in the [[The Product Career Ladder|hub]] that they don't, then *something* has to. This note names that something. There are exactly four dials, and every promotion is a turn of some combination of them.
 
 > [!tip] The four escalation axes
 > **Scope · Autonomy · Ambiguity · Influence.** Master these and you can read any ladder, at any company, regardless of how the titles are spelled. They're the machinery under [[The Six Stages of Mastery]].
@@ -37,22 +37,22 @@ If the competencies don't change as you climb [[The Product Career Ladder]] — 
 This is the cleanest way to see why [[The IC and Manager Tracks|the two tracks]] are peers, not a ranking:
 
 > [!note] Same level, different dials maxed
-> After [[Senior Product Manager|Senior PM]], both tracks keep climbing — but on *different axes*. The **IC track** ([[Staff and Principal Product Manager]]) scales **ambiguity and influence** to their ceiling *without adding headcount* — a Principal's reach is enormous, but they manage nobody. The **manager track** ([[Group Product Manager]] → up) scales **scope and influence through people** — by managing, then managing managers. Neither is "higher." They turn different dials. Choosing which is [[The IC vs Manager Decision]].
+> After [[Senior Product Manager|Senior PM]], both tracks keep climbing, but on *different axes*. The **IC track** ([[Staff and Principal Product Manager]]) scales **ambiguity and influence** to their ceiling *without adding headcount*. A Principal's reach is enormous, yet they manage nobody. The **manager track** ([[Group Product Manager]] → up) scales **scope and influence through people**, by managing, then managing managers. Neither is "higher." They turn different dials. Choosing which is [[The IC vs Manager Decision]].
 
 ## Why this is the most useful note in the domain
 
 Two payoffs I lean on constantly:
 
-- **It diagnoses promotion-readiness.** When someone wants the next level, I don't ask "are they good?" — I ask *which dial they need to turn and whether they've shown it.* Most "ready for Senior" PMs are great at their current scope but haven't yet proven they can operate in *higher ambiguity*. That's the gap, named precisely. This is the substance behind [[Calibration and Promotion]] and [[Score-Gated Leveling]].
+- **It diagnoses promotion-readiness.** When someone wants the next level, I don't ask "are they good?" I ask *which dial they need to turn and whether they've shown it.* Most "ready for Senior" PMs are great at their current scope but haven't yet proven they can operate in *higher ambiguity*. That's the gap, named precisely. This is the substance behind [[Calibration and Promotion]] and [[Score-Gated Leveling]].
 - **It explains why people fail *after* promotion.** Almost always, they turned one dial (usually scope) but not another (usually autonomy or ambiguity). The new GPM who still does the work didn't turn the *influence-through-people* dial. The new VP who still executes didn't turn *autonomy/strategy*. ([[Identifying Growth Areas]].)
 
 > [!warning] The dials don't move in lockstep
 > A promotion is rarely all four dials at once. Senior→Staff cranks *ambiguity* and *influence* hard while *scope* barely moves. Senior→GPM cranks *influence-through-people* while the craft dials hold. Mistaking "more scope" for "promoted" is how companies over-level builders into the wrong jobs.
 
 ## Continue Reading
-- [[The Six Stages of Mastery]] — the progression these dials drive.
-- [[The IC vs Manager Decision]] — which dials each track maxes out.
-- [[The Product Career Ladder]] — the map these axes describe.
-- [[Calibration and Promotion]] — using the dials to judge readiness.
-- [[Score-Gated Leveling]] — the gate the dials feed.
-- [[Identifying Growth Areas]] — finding the dial you haven't turned.
+- [[The Six Stages of Mastery]] for the progression these dials drive.
+- [[The IC vs Manager Decision]] for which dials each track maxes out.
+- [[The Product Career Ladder]] for the map these axes describe.
+- [[Calibration and Promotion]] for using the dials to judge readiness.
+- [[Score-Gated Leveling]] for the gate the dials feed.
+- [[Identifying Growth Areas]] for finding the dial you haven't turned.

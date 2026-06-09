@@ -132,7 +132,7 @@ HUBS = [
         "kicker": "Field Guide 01 · Product",
         "title": "The Product Manager's Atlas",
         "blurb": (
-            "An opinionated field guide to the product management craft — the "
+            "An opinionated field guide to the product management craft. The "
             "competencies that define it at every level from APM to CPO, how to "
             "assess and grow them, and how AI is rewriting the job."
         ),

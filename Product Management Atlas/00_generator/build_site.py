@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-build_site.py — Static-site generator for The Product Manager's Atlas.
+build_site.py, Static-site generator for The Product Manager's Atlas.
 
 Converts the Obsidian vault (numbered domain folders of Markdown notes) into a
 fully interlinked, design-forward HTML website in ./site.
@@ -28,19 +28,19 @@ DOMAINS = [
     ("02_foundations",             "Foundations",           "🧱",
      "#5B6B8C", "The role, the trade-offs, product sense, and the four big risks the job manages."),
     ("03_product_execution",       "Product Execution",     "🛠️",
-     "#2F7E8C", "Specs, delivery, quality, and my 10-50-90 framework — the work of shipping."),
+     "#2F7E8C", "Specs, delivery, quality, and my 10-50-90 framework, the work of shipping."),
     ("04_customer_insight",        "Customer Insight",       "🔍",
-     "#3E8E7E", "Data, research, discovery, and UX — understanding what's worth building."),
+     "#3E8E7E", "Data, research, discovery, and UX, understanding what's worth building."),
     ("05_product_strategy",        "Product Strategy",      "🎯",
      "#7A5EA8", "Vision, roadmaps, prioritization, and tying product work to business outcomes."),
     ("06_influencing_people",      "Influencing People",    "🤝",
      "#B5734A", "Stakeholders, leadership, communication, and influence without authority."),
     ("07_career_ladder",           "The Career Ladder",     "🪜",
-     "#4666B0", "APM to CPO — the IC and manager tracks, and what changes at each level."),
+     "#4666B0", "APM to CPO, the IC and manager tracks, and what changes at each level."),
     ("08_assessment_and_coaching", "Assessment & Coaching", "📊",
      "#5C8A4E", "Score yourself against the model, find the gaps, and build a growth plan."),
     ("09_frameworks_toolkit",      "Frameworks Toolkit",    "🧰",
-     "#8A6D3B", "The frameworks I actually reach for — and when each one is just theater."),
+     "#8A6D3B", "The frameworks I actually reach for, and when each one is just theater."),
     ("10_ai_and_modern_pm",        "AI & the Modern PM",    "🤖",
      "#6E56CF", "Evals, vibe-coding, AI product sense, and the competencies AI is rewriting."),
     ("11_reference",               "Reference",             "📚",
@@ -104,7 +104,7 @@ def plain_text(body):
 
 
 # --------------------------------------------------------------------------
-# pass 1 — collect every note
+# pass 1, collect every note
 # --------------------------------------------------------------------------
 def collect_pages():
     pages = []        # ordered, book order
@@ -155,7 +155,7 @@ def collect_pages():
             }
             pages.append(page)
 
-    # build link resolution map — aliases first, canonical/title last (win)
+    # build link resolution map, aliases first, canonical/title last (win)
     for p in pages:
         for a in p["aliases"]:
             linkmap.setdefault(a.lower(), p)
@@ -467,7 +467,7 @@ PAGE_DIAGRAMS = DG.page_diagrams()
 # --------------------------------------------------------------------------
 # HTML chrome
 # --------------------------------------------------------------------------
-# Hop cone — a layered brewing hop flower, drawn inline so it inherits the
+# Hop cone, a layered brewing hop flower, drawn inline so it inherits the
 # accent color (currentColor) and theme like the previous mark.
 LOGO_SVG = (
     '<svg viewBox="0 0 32 32" class="logo-mark" aria-hidden="true">'
@@ -540,7 +540,7 @@ def sidebar(pages, active_slug):
             if p is moc:
                 cls += " nav-moc"
             elif p.get("is_recipe"):
-                cls += " nav-sub"          # recipe leaf — nest under its hub
+                cls += " nav-sub"          # recipe leaf, nest under its hub
             elif i + 1 < len(notes) and notes[i + 1].get("is_recipe"):
                 cls += " nav-parent"       # category hub for the recipes below
             parts.append(
@@ -731,7 +731,7 @@ def render_home(pages, linkmap):
             continue
         moc = notes[0]
         illus = DG.domain_illustration(folder, color)
-        # Introduction's MOC is the home page itself — link the card to the
+        # Introduction's MOC is the home page itself, link the card to the
         # next intro note instead so users move forward, not in a circle.
         target = notes[1] if moc["slug"] == "index" and len(notes) > 1 else moc
         cards.append(
@@ -750,13 +750,13 @@ def render_home(pages, linkmap):
     ctx = {"linkmap": linkmap, "slug": "index"}
     para = render_inline(
         "Product management is the discipline of being [[What Is Product Management|accountable "
-        "for whether a product succeeds]] — not for shipping features, but for the "
+        "for whether a product succeeds]], not for shipping features, but for the "
         "[[Outcomes Over Outputs|outcomes]] they produce. The job lives where "
         "[[The Four Big Product Risks|user value, business viability, usability, and feasibility]] "
         "meet, and the real work is [[Product Sense and Judgment|judgment under uncertainty]]: "
         "deciding which problems are worth solving and rallying a team to solve them. I organize "
-        "that ability into [[The PM Competency Model|four areas and twelve competencies]] — "
-        "[[Product Execution]], [[Customer Insight]], [[Product Strategy]], and [[Influencing People]] — "
+        "that ability into [[The PM Competency Model|four areas and twelve competencies]], "
+        "[[Product Execution]], [[Customer Insight]], [[Product Strategy]], and [[Influencing People]], "
         "that escalate from [[Associate Product Manager|APM]] to [[The Chief Product Officer|CPO]]. "
         "This Atlas maps all of it, including how [[AI and the Modern PM|AI is rewriting]] the craft.", ctx)
 
@@ -770,7 +770,7 @@ def render_home(pages, linkmap):
          [("The Competency Self-Assessment", "the-competency-self-assessment"),
           ("Building a Growth Plan", "building-a-growth-plan")]),
         ("\U0001F916", "Wondering about AI",
-         "See what's changing in the craft — and what isn't.",
+         "See what's changing in the craft, and what isn't.",
          [("How AI Is Reshaping Product Management", "how-ai-is-reshaping-product-management"),
           ("Competencies AI Commoditizes vs Elevates", "competencies-ai-commoditizes-vs-elevates")]),
         ("\U0001F3AF", "Want a framework",
@@ -794,12 +794,12 @@ def render_home(pages, linkmap):
         '<div class="hero-eyebrow">A field guide to the product management craft</div>'
         '<h1 class="hero-title">The <span class="hero-em">Product Manager&rsquo;s</span><br>'
         'Atlas</h1>'
-        '<p class="hero-sub">The competencies that define product management at every level — '
-        'from APM to CPO — how to assess and grow them, and how AI is rewriting the job. '
+        '<p class="hero-sub">The competencies that define product management at every level, '
+        'from APM to CPO, how to assess and grow them, and how AI is rewriting the job. '
         'The competency system I&rsquo;ve built and use to level and coach PMs.</p>'
         '<div class="hero-actions">'
         '<a class="btn btn-primary" href="what-is-product-management.html">'
-        'Start here — What is product management?</a>'
+        'Start here, What is product management?</a>'
         '<a class="btn btn-ghost" href="the-pm-competency-model.html">See the competency model</a>'
         '</div>'
         '<div class="hero-stats">'
@@ -815,11 +815,11 @@ def render_home(pages, linkmap):
         '<div class="sec-head"><span class="sec-kicker">The map</span>'
         '<h2>Explore the eleven domains</h2>'
         '<p>Each domain is a guided path. Follow it front-to-back like a book, '
-        'or dive straight to what you need — every note links onward.</p></div>'
+        'or dive straight to what you need, every note links onward.</p></div>'
         f'<div class="dcard-grid">{"".join(cards)}</div></section>'
         '<section class="home-sec home-sec-tint">'
         '<div class="sec-head"><span class="sec-kicker">In one paragraph</span>'
-        '<h2>So — what is product management?</h2></div>'
+        '<h2>So, what is product management?</h2></div>'
         f'<p class="lede">{para}</p></section>'
         '<section class="home-sec">'
         '<div class="sec-head"><span class="sec-kicker">Choose your path</span>'
@@ -834,7 +834,7 @@ def footer():
     return (
         '<footer class="site-footer">'
         '<div class="footer-mark">' + LOGO_SVG + '<b>The Product Manager&rsquo;s Atlas</b></div>'
-        '<p>An opinionated, interlinked field guide to the product management craft — '
+        '<p>An opinionated, interlinked field guide to the product management craft, '
         'the competencies, the career ladder, the frameworks, and the AI frontier.</p>'
         '<p class="footer-fine">Generated from an Obsidian vault · '
         '<a href="index.html">Return home</a></p></footer>')
@@ -867,7 +867,7 @@ def write_ask_corpus(pages):
 
     One entry per note, split into H2 sections so the backend can pull
     section-level snippets rather than whole notes. Navigation-only sections
-    are dropped. Public content only — no secrets. Served at
+    are dropped. Public content only, no secrets. Served at
     assets/ask-corpus.json and read server-side by /api/ask."""
     skip = {"continue reading"}
     corpus = []

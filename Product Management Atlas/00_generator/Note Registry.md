@@ -1,8 +1,8 @@
-# The Product Manager's Atlas — Note Registry
+# The Product Manager's Atlas, Note Registry
 
 Canonical list of every note. Every `[[wikilink]]` MUST match one of these names exactly.
 Do not invent names outside this list. Bullet order within each folder is the canonical
-**reading order** — it assigns each note its two-digit filename prefix. The hub/MOC note is
+**reading order**, it assigns each note its two-digit filename prefix. The hub/MOC note is
 always first (`01`).
 
 ## 01_introduction

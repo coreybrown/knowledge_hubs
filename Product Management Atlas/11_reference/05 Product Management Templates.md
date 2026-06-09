@@ -6,7 +6,7 @@ domain: Reference
 
 # Product Management Templates
 
-Copy-paste skeletons for the artifacts you'll write most. These are *formats*, not laws — the thinking matters more than the headings (see [[Feature Specification]] and [[Writing PRDs and Specs]]). Match the depth to the risk: a low-risk tweak gets a one-pager; a bet-the-quarter initiative gets the full strategy doc. Each template below is meant to be copied into your own doc and filled in.
+Copy-paste skeletons for the artifacts you'll write most. These are *formats*, not laws, and the thinking matters more than the headings (see [[Feature Specification]] and [[Writing PRDs and Specs]]). Match the depth to the risk: a low-risk tweak gets a one-pager; a bet-the-quarter initiative gets the full strategy doc. Each template below is meant to be copied into your own doc and filled in.
 
 > [!tip] Steal formats, not templates
 > A template is a checklist; a format is a way of thinking. Learn a few, then bend them to the situation. The fastest way to ruin any of these is to fill in every field out of obligation when the work doesn't need it.
@@ -21,7 +21,7 @@ Author · Date · Status (Draft / In Review / Approved) · Stakeholders
 
 ## Problem
 What user or business problem are we solving? For whom? Why now?
-(Evidence: link the research, data, or insight — see Continuous Discovery.)
+(Evidence: link the research, data, or insight; see Continuous Discovery.)
 
 ## Outcome / Success Metric
 The ONE number we expect to move, and the target. State this BEFORE the solution.
@@ -48,10 +48,10 @@ Out of scope (explicitly):
 
 ## 2. Product Strategy Doc
 
-For an area or product line. This is the "where are we going and why" artifact — see [[Product Strategy]] and [[The DHM Model]].
+For an area or product line. This is the "where are we going and why" artifact (see [[Product Strategy]] and [[The DHM Model]]).
 
 ```markdown
-# [Product / Area] Strategy — [Time Horizon]
+# [Product / Area] Strategy: [Time Horizon]
 
 ## Vision
 The compelling long-term picture. Where does this win in 3 years?
@@ -73,7 +73,7 @@ Objective 1: ...
 (see OKRs and Goal-Setting; tie to The North Star Framework)
 
 ## Roadmap (outcome-focused, not a dated feature list)
-- Now / Next / Later — and the outcome each bet targets.
+- Now / Next / Later, and the outcome each bet targets.
 (see Building and Managing a Roadmap)
 
 ## What we're explicitly NOT doing
@@ -87,7 +87,7 @@ The "no" list is the strategy. (see Prioritization Frameworks)
 My development-plan format, lifted directly from how I coach: pick the **three lowest competencies**, and give each three concrete, near-term tasks. Don't over-invest in your spikes. See [[Building a Growth Plan]] and [[Identifying Growth Areas]].
 
 ```markdown
-# Growth Plan — [Name] — [Quarter]
+# Growth Plan · [Name] · [Quarter]
 Current level: ___   Target: ___   (assessed via The Competency Self-Assessment)
 
 ## Growth Area 1: [lowest competency]
@@ -114,10 +114,10 @@ Evidence of progress:
 
 ## 4. Competency Self-Assessment
 
-A lightweight version of [[The Competency Self-Assessment]]. Score each competency, then look for your shape — not a flat profile. Use the [[The Proficiency Scale|proficiency scale]] (e.g., 1 Knows → 5 Teaches, or the 0–2 Needs Focus / On Track / Outperform rubric).
+A lightweight version of [[The Competency Self-Assessment]]. Score each competency, then look for your shape rather than a flat profile. Use the [[The Proficiency Scale|proficiency scale]] (e.g., 1 Knows → 5 Teaches, or the 0 to 2 Needs Focus / On Track / Outperform rubric).
 
 ```markdown
-# Self-Assessment — [Name] — [Date]
+# Self-Assessment · [Name] · [Date]
 Scale: 1 Inadequate · 2 Knows (supervised) · 3 Does (unsupervised) · 4 Masters · 5 Teaches/Leads
 
 ## Product Execution
@@ -145,11 +145,11 @@ My three lowest (→ feed the Growth Plan):
 ```
 
 > [!note] AI does the first draft now
-> Tools like ChatPRD will scaffold any of these in seconds, and that's fine — the typing was never the bottleneck. What AI *can't* supply is the judgment in the fields that matter: the problem you chose, the metric you committed to, and the "no" list. Let it draft; you do the thinking. See [[Competencies AI Commoditizes vs Elevates]].
+> Tools like ChatPRD will scaffold any of these in seconds, and that's fine, because the typing was never the bottleneck. What AI *can't* supply is the judgment in the fields that matter: the problem you chose, the metric you committed to, and the "no" list. Let it draft; you do the thinking. See [[Competencies AI Commoditizes vs Elevates]].
 
 ## Continue Reading
-- [[Writing PRDs and Specs]] — the craft behind the PRD format, and the anti-patterns.
-- [[Building a Growth Plan]] — the full method behind the growth-plan skeleton.
-- [[The Competency Self-Assessment]] — the complete assessment, scored against the model.
-- [[The Master Competency Matrix]] — what each score *means* at each level.
-- [[The PM Tool Landscape]] — where to put these docs and the AI tools that draft them.
+- [[Writing PRDs and Specs]] for the craft behind the PRD format, and the anti-patterns.
+- [[Building a Growth Plan]] for the full method behind the growth-plan skeleton.
+- [[The Competency Self-Assessment]] for the complete assessment, scored against the model.
+- [[The Master Competency Matrix]] for what each score *means* at each level.
+- [[The PM Tool Landscape]] for where to put these docs and the AI tools that draft them.
