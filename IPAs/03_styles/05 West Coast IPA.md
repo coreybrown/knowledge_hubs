@@ -33,7 +33,7 @@ additions hard. The result became the defining craft beer of its era.
 
 ### 1. Bitterness
 
-Firm, clean, and lingering — often 60–100 [[IBU and Perceived Bitterness|IBU]].
+Firm, clean, and lingering, often 60–100 [[IBU and Perceived Bitterness|IBU]].
 A sulfate-forward water profile sharpens the bitter edge; see
 [[Water Chemistry and the Sulfate-Chloride Ratio]].
 
@@ -51,10 +51,10 @@ avoiding the high-protein grists and ultra-late hop loads that cause haze.
 
 ## Sensory Profile
 
-- **Aroma** — grapefruit, orange peel, pine, resin, and dank "catty" notes.
-- **Flavor** — assertive hop flavor over a cracker-dry malt base.
-- **Mouthfeel** — light, crisp, almost spritzy — see [[The Science of Mouthfeel]].
-- **Finish** — long, dry, decisively bitter.
+- **Aroma**: grapefruit, orange peel, pine, resin, and dank "catty" notes.
+- **Flavor**: assertive hop flavor over a cracker-dry malt base.
+- **Mouthfeel**: light, crisp, almost spritzy; see [[The Science of Mouthfeel]].
+- **Finish**: long, dry, decisively bitter.
 
 ## West Coast vs. New England
 
@@ -68,13 +68,13 @@ avoiding the high-protein grists and ultra-late hop loads that cause haze.
 
 > [!tip] The "modern West Coast" revival
 > After years overshadowed by haze, the West Coast IPA returned around 2020 in a
-> slightly updated form — still clear and dry, but with brighter, more tropical
+> slightly updated form: still clear and dry, but with brighter, more tropical
 > hop bills. See [[Modern IPA Diversification]].
 
 ## Continue Reading
 
-- [[New England IPA]] — its great stylistic rival
-- [[Rise of the West Coast IPA]] — the history
-- [[West Coast IPA Recipe]] — a worked brewing recipe
-- [[Best West Coast IPAs]] — recommended examples
-- [[Clarification and Haze Management]] — achieving clarity
+- [[New England IPA]]: its great stylistic rival
+- [[Rise of the West Coast IPA]]: the history
+- [[West Coast IPA Recipe]]: a worked brewing recipe
+- [[Best West Coast IPAs]]: recommended examples
+- [[Clarification and Haze Management]]: achieving clarity

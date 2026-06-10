@@ -6,7 +6,7 @@ domain: Styles
 
 # Double IPA
 
-The **Double IPA** — also called the *Imperial IPA* or *DIPA* — is the
+The **Double IPA**, also called the *Imperial IPA* or *DIPA*, is the
 American IPA scaled up: 8–10% ABV, intensified hopping, and a malt base built
 to carry the extra weight without becoming sweet or heavy. It is a study in
 controlled excess, where the brewer's craft lies in making a very strong beer
@@ -18,12 +18,12 @@ taste dangerously drinkable.
 > | **ABV** | 8.0–10.0% |
 > | **IBU** | 60–120 |
 > | **Color** | 6–14 SRM (gold to amber) |
-> | **Key hops** | High-oil American — [[Simcoe]], [[Citra]], [[Mosaic]], [[Centennial]] |
+> | **Key hops** | High-oil American: [[Simcoe]], [[Citra]], [[Mosaic]], [[Centennial]] |
 > | **Glassware** | Tulip or snifter (smaller pour) |
 
 ## Origins
 
-The Double IPA was born in California in the mid-1990s — its origin story is
+The Double IPA was born in California in the mid-1990s. Its origin story is
 told in [[Origins of the Double IPA]], with Russian River's Pliny the Elder the
 most-cited landmark. It formalized "imperial" as a strength tier within the
 [[American IPA]] family and became a craft-beer status symbol.
@@ -35,7 +35,7 @@ lies in three balancing acts:
 
 1. **Hot alcohol vs. drinkability.** Too much crystal malt or under-attenuation
    leaves a cloying, boozy beer. Brewers often add simple sugar to boost ABV
-   while keeping the body lean — see [[Recipe Formulation]].
+   while keeping the body lean (see [[Recipe Formulation]]).
 2. **Bitterness vs. harshness.** Huge bittering charges can turn coarse;
    careful [[Hop Additions and Timing|timing]] and [[Whirlpool and Hop Stand|whirlpool additions]]
    shift emphasis toward flavor and aroma.
@@ -56,10 +56,10 @@ See [[West Coast IPA]] and [[New England IPA]] for the parent expressions.
 
 ## Sensory Profile
 
-- **Aroma** — intense and layered: citrus, tropical fruit, resin, dank.
-- **Flavor** — concentrated hop flavor; bitterness firm but not punishing.
-- **Mouthfeel** — medium to full with a gentle alcohol warmth.
-- **Finish** — dry, despite the strength.
+- **Aroma**: intense and layered citrus, tropical fruit, resin, dank.
+- **Flavor**: concentrated hop flavor; bitterness firm but not punishing.
+- **Mouthfeel**: medium to full with a gentle alcohol warmth.
+- **Finish**: dry, despite the strength.
 
 > [!warning] Respect the strength
 > At 8–10% ABV a Double IPA delivers roughly twice the alcohol of a standard
@@ -67,8 +67,8 @@ See [[West Coast IPA]] and [[New England IPA]] for the parent expressions.
 
 ## Continue Reading
 
-- [[Triple IPA]] — the next strength tier
-- [[Origins of the Double IPA]] — the history
-- [[Double IPA Recipe]] — a worked brewing recipe
-- [[American IPA]] — the parent style
-- [[Best Double IPAs]] — recommended examples
+- [[Triple IPA]]: the next strength tier
+- [[Origins of the Double IPA]]: the history
+- [[Double IPA Recipe]]: a worked brewing recipe
+- [[American IPA]]: the parent style
+- [[Best Double IPAs]]: recommended examples

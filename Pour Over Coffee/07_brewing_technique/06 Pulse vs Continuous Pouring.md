@@ -23,11 +23,11 @@ Once the [[The Bloom|bloom]] is done, you face a choice that defines the rest of
 
 ## Why Pulse?
 
-Pulsing breaks the brew into stages you can monitor. Each new pour re-saturates the bed, refreshes the [[Water Temperature for Brewing|temperature]], and adds a burst of [[Agitation and Turbulence|agitation]] that lifts [[Extraction Yield and Strength|extraction]]. Because the bed draws down between pours, you get multiple chances to read the brew and adjust. The famous [[Tetsu Kasuya 4:6 Method|4:6 method]] is pure pulse pouring — five pours, each a deliberate lever on strength and flavor. The trade-off is a longer, more involved brew and more total agitation, which can over-extract a fine grind.
+Pulsing breaks the brew into stages you can monitor. Each new pour re-saturates the bed, refreshes the [[Water Temperature for Brewing|temperature]], and adds a burst of [[Agitation and Turbulence|agitation]] that lifts [[Extraction Yield and Strength|extraction]]. Because the bed draws down between pours, you get multiple chances to read the brew and adjust. The famous [[Tetsu Kasuya 4:6 Method|4:6 method]] is pure pulse pouring: five pours, each a deliberate lever on strength and flavor. The trade-off is a longer, more involved brew and more total agitation, which can over-extract a fine grind.
 
 ## Why Continuous?
 
-A continuous pour keeps the slurry level high and the extraction steady. With less stop-start turbulence, it tends to be **gentler** and very repeatable — fewer moments to get wrong. Many modern recipes, including [[James Hoffmann V60 Technique|Hoffmann's V60]] in its later phase, blend the two: a couple of pulses early, then a more continuous top-up. The risk is that a single long pour gives you fewer chances to correct course mid-brew.
+A continuous pour keeps the slurry level high and the extraction steady. With less stop-start turbulence, it tends to be **gentler** and very repeatable, with fewer moments to get wrong. Many modern recipes, including [[James Hoffmann V60 Technique|Hoffmann's V60]] in its later phase, blend the two: a couple of pulses early, then a more continuous top-up. The risk is that a single long pour gives you fewer chances to correct course mid-brew.
 
 > [!tip] Match the style to your grind
 > Pulse pouring adds agitation, so it pairs well with a slightly **coarser** grind. Continuous pouring is gentler, so it tolerates a **finer** grind. If you switch styles, expect to re-[[Dialing In Grind Size|dial in]].
@@ -38,7 +38,7 @@ Neither is "correct." Pulse gives control and a brighter, more layered cup; cont
 
 ## Continue Reading
 
-- [[Pouring Technique]] — the mechanics each style relies on.
-- [[Tetsu Kasuya 4:6 Method]] — pulse pouring elevated to a competition method.
-- [[James Hoffmann V60 Technique]] — a popular blended approach.
-- [[Agitation and Turbulence]] — why pulses extract more aggressively.
+- [[Pouring Technique]]: the mechanics each style relies on.
+- [[Tetsu Kasuya 4:6 Method]]: pulse pouring elevated to a competition method.
+- [[James Hoffmann V60 Technique]]: a popular blended approach.
+- [[Agitation and Turbulence]]: why pulses extract more aggressively.

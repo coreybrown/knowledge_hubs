@@ -29,7 +29,7 @@ The [[The Clever Dripper|Clever Dripper]] solves immersion's one inconvenience w
 > | Water | 290 g total |
 > | Ratio | 1:16 |
 > | Temp | 93-96°C |
-> | Grind | medium, drip-filter size — see [[Grind Size for Pour Over]] |
+> | Grind | medium, drip-filter size (see [[Grind Size for Pour Over]]) |
 > | Bloom | 40 g for 30 s (optional) |
 > | Brew time | ~3:30-4:00 steep, then drain |
 > | Roast | medium; flatters light and dark too |
@@ -38,22 +38,22 @@ The [[The Clever Dripper|Clever Dripper]] solves immersion's one inconvenience w
 
 ## Pour Schedule
 
-1. **Setup** — Rinse a paper filter in the closed Clever (off the cup so the valve stays shut). Add 18 g coffee.
-2. **0:00** — Pour **40 g** (cumulative 40 g) and stir gently; [[The Bloom|bloom]] 30 s.
-3. **0:30** — Pour to **290 g** (cumulative 290 g); give one gentle stir to wet all grounds.
-4. **0:30-3:30** — **Steep** undisturbed (lid on to hold heat).
-5. **~3:30** — Optional gentle stir, then **place on the mug to open the valve** and drain (~30-45 s).
+1. **Setup**: Rinse a paper filter in the closed Clever (off the cup so the valve stays shut). Add 18 g coffee.
+2. **0:00**: Pour **40 g** (cumulative 40 g) and stir gently; [[The Bloom|bloom]] 30 s.
+3. **0:30**: Pour to **290 g** (cumulative 290 g); give one gentle stir to wet all grounds.
+4. **0:30-3:30**: **Steep** undisturbed (lid on to hold heat).
+5. **~3:30**: Optional gentle stir, then **place on the mug to open the valve** and drain (~30-45 s).
 
 ## Why It Works
 
-Because the coffee **steeps fully submerged**, extraction is even and time-driven rather than pour-driven — there is no [[Pouring Technique|pour technique]] to master and almost no [[Bypass and Channeling|channeling]] to worry about. That makes the Clever ideal for beginners, for batch-testing beans, and for tea-like delicate coffees. Total **steep time** is your main lever: shorter for a brighter, lighter cup, longer for more body and sweetness, with grind as the secondary adjustment. Keep the lid on to protect [[Water Temperature for Brewing|temperature]] during the steep.
+Because the coffee **steeps fully submerged**, extraction is even and time-driven rather than pour-driven. There is no [[Pouring Technique|pour technique]] to master and almost no [[Bypass and Channeling|channeling]] to worry about. That makes the Clever ideal for beginners, for batch-testing beans, and for tea-like delicate coffees. Total **steep time** is your main lever: shorter for a brighter, lighter cup, longer for more body and sweetness, with grind as the secondary adjustment. Keep the lid on to protect [[Water Temperature for Brewing|temperature]] during the steep.
 
-The Clever sits at the heart of the **immersion family** and pairs naturally with the switch-valve [[The Hario Switch Hybrid Method]], which adds percolation pours on top of the same idea. The bloom is optional and the exact steep time is approximate — many brewers simply pour all the water at once and steep 4 minutes.
+The Clever sits at the heart of the **immersion family** and pairs naturally with the switch-valve [[The Hario Switch Hybrid Method]], which adds percolation pours on top of the same idea. The bloom is optional and the exact steep time is approximate; many brewers simply pour all the water at once and steep 4 minutes.
 
 ## Continue Reading
 
-- [[The Clever Dripper]] — the valve and how it works
-- [[The Hario Switch Hybrid Method]] — the switch-valve evolution
-- [[French Press]] — full immersion without paper
-- [[OXO Rapid Brewer Recipe]] — another steep-and-release brewer
-- [[Brew Method Family Tree]] — immersion versus percolation
+- [[The Clever Dripper]]: the valve and how it works
+- [[The Hario Switch Hybrid Method]]: the switch-valve evolution
+- [[French Press]]: full immersion without paper
+- [[OXO Rapid Brewer Recipe]]: another steep-and-release brewer
+- [[Brew Method Family Tree]]: immersion versus percolation

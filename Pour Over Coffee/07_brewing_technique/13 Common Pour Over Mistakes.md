@@ -6,7 +6,7 @@ domain: Brewing Technique
 
 # 🚧 Common Pour Over Mistakes
 
-Most bad cups come from a short list of recurring errors — and nearly all have quick fixes once you can name them. This note is the field guide to the frequent stumbles. For a symptom-first diagnostic walkthrough, pair it with the [[Pour Over Troubleshooting Guide]].
+Most bad cups come from a short list of recurring errors, and nearly all have quick fixes once you can name them. This note is the field guide to the frequent stumbles. For a symptom-first diagnostic walkthrough, pair it with the [[Pour Over Troubleshooting Guide]].
 
 ## The Usual Suspects ⚠️
 
@@ -29,23 +29,23 @@ Most bad cups come from a short list of recurring errors — and nearly all have
 
 **Grind is the master dial.** A sour, thin cup usually means too coarse; a bitter, draggy one means too fine. Before you touch anything else, get the [[Grind Size for Pour Over|grind]] right and confirm your grinder gives a [[Particle Distribution and Uniformity|uniform]] particle spread.
 
-**Skipping the bloom** is the most common beginner error. Without it, escaping [[CO2, Degassing, and the Bloom Science|CO₂]] pushes water away from dry grounds and you get patchy extraction. Thirty seconds fixes it — see [[The Bloom]].
+**Skipping the bloom** is the most common beginner error. Without it, escaping [[CO2, Degassing, and the Bloom Science|CO₂]] pushes water away from dry grounds and you get patchy extraction. Thirty seconds fixes it. See [[The Bloom]].
 
 **Wrong water temperature** sabotages good technique silently. Brew with off-the-boil water that's too cool and the cup sours; brew too hot with a [[Light Roast and Specialty Coffee|light roast]] you may scorch it. Aim for the [[Water Temperature for Brewing|right temperature]] for your roast.
 
 ## Subtler Mistakes
 
 > [!tip] Once the basics are clean, look here
-> - **Inconsistent pours** between brews — you can't [[Dialing In Grind Size|dial in]] a moving target.
-> - **Ignoring [[The Drawdown|drawdown]]** — a fast or stalled drain is telling you something.
-> - **Chasing a timer** instead of taste — see [[Brew Time and Total Contact Time]].
-> - **Reusing or not rinsing filters** inconsistently — see [[Pre-Wetting the Filter]].
+> - **Inconsistent pours** between brews: you can't [[Dialing In Grind Size|dial in]] a moving target.
+> - **Ignoring [[The Drawdown|drawdown]]**, when a fast or stalled drain is telling you something.
+> - **Chasing a timer** instead of taste (see [[Brew Time and Total Contact Time]]).
+> - **Reusing or not rinsing filters** inconsistently (see [[Pre-Wetting the Filter]]).
 
 The thread running through all of these is **consistency**: change one variable at a time, keep everything else fixed, and taste deliberately. That discipline turns mistakes into a feedback loop instead of a mystery.
 
 ## Continue Reading
 
-- [[Pour Over Troubleshooting Guide]] — start from the symptom, work to the cause.
-- [[Under-Extraction and Over-Extraction]] — the taste signatures to recognize.
-- [[Dialing In Grind Size]] — the highest-leverage fix of all.
-- [[The Bloom]] — undo the single most common beginner error.
+- [[Pour Over Troubleshooting Guide]]: start from the symptom, work to the cause.
+- [[Under-Extraction and Over-Extraction]]: the taste signatures to recognize.
+- [[Dialing In Grind Size]]: the highest-leverage fix of all.
+- [[The Bloom]]: undo the single most common beginner error.

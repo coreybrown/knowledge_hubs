@@ -6,7 +6,7 @@ domain: Styles
 
 # BJCP and Style Guidelines
 
-Beer "styles" are not laws of nature — they are *descriptive frameworks*
+Beer "styles" are not laws of nature; they are *descriptive frameworks*
 written by humans to bring order to a sprawling, evolving craft. The most
 influential of these frameworks is the **BJCP Style Guidelines**, produced by
 the Beer Judge Certification Program. This note explains how the BJCP and
@@ -31,24 +31,24 @@ collecting them in one place:
 | Specialty IPA (21B)      | [[Black IPA]], [[Red IPA]], [[Rye IPA]], [[White IPA]], [[Belgian IPA]], Brown, [[Brut IPA]] |
 | Strong American Ale      | [[Double IPA]] (Imperial IPA)                                                                |
 
-Newer styles — the [[New England IPA]] (added as "Hazy IPA"), [[Cold IPA]],
-[[Sour IPA]], [[Milkshake IPA]] — entered the guidelines later or remain in
-provisional and "experimental" categories.
+Newer styles entered the guidelines later or remain in provisional and
+"experimental" categories: the [[New England IPA]] (added as "Hazy IPA"),
+[[Cold IPA]], [[Sour IPA]], and [[Milkshake IPA]].
 
 ## The Vital Statistics
 
 Every style entry specifies measurable ranges. The four core metrics:
 
-- **OG / FG** — original and final gravity, indicating fermentable sugar and
+- **OG / FG**: original and final gravity, indicating fermentable sugar and
   attenuation; see [[Recipe Formulation]].
-- **ABV** — alcohol by volume.
-- **IBU** — bitterness; see [[IBU and Perceived Bitterness]].
-- **SRM** — color, from pale to black.
+- **ABV**: alcohol by volume.
+- **IBU**: bitterness; see [[IBU and Perceived Bitterness]].
+- **SRM**: color, from pale to black.
 
 > [!warning] Guidelines describe; they do not dictate
 > A guideline range is a *typical* window, not a rule. Many celebrated
 > commercial IPAs fall outside their nominal category. The lag between a style
-> emerging and being codified is real — see [[Modern IPA Diversification]].
+> emerging and being codified is real; see [[Modern IPA Diversification]].
 
 ## Why Style Boundaries Matter
 
@@ -64,8 +64,8 @@ being "out of style," not for being a bad beer. See
 
 ## Continue Reading
 
-- [[IPA Style Comparison Table]] — the vital-stats ranges in one table
-- [[IPA Styles]] — the navigational hub
-- [[Tasting and Evaluating IPAs]] — judging beer to style
-- [[IPA Festivals and Competitions]] — where guidelines are applied
-- [[Style Index]] — alphabetical reference
+- [[IPA Style Comparison Table]]: the vital-stats ranges in one table
+- [[IPA Styles]]: the navigational hub
+- [[Tasting and Evaluating IPAs]]: judging beer to style
+- [[IPA Festivals and Competitions]]: where guidelines are applied
+- [[Style Index]]: alphabetical reference

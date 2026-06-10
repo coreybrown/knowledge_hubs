@@ -6,8 +6,8 @@ domain: Drinking
 
 # IPA and Cheese Pairing
 
-Cheese and beer are old companions, and the IPA may be the most rewarding — and most
-dangerous — beer to pair with cheese. Hop bitterness can either cut beautifully through
+Cheese and beer are old companions, and the IPA may be both the most rewarding and the
+most dangerous beer to pair with cheese. Hop bitterness can either cut beautifully through
 fat or collide with it. This note drills into the pairing introduced in
 [[Food Pairing with IPAs]].
 
@@ -45,26 +45,26 @@ a cheese's own bitterness or its rind, producing a harsh, metallic clash.
 ## Practical Tips
 
 - **Serve cheese near room temperature.** Cold cheese hides its flavor, just as cold beer
-  hides hop aroma — see [[Serving Temperature]].
+  hides hop aroma; see [[Serving Temperature]].
 - **Move from mild to strong.** Taste fresh and delicate cheeses first; finish with blue.
   The same ordering logic governs a [[Building an IPA Tasting Flight|tasting flight]].
-- **Add a bridge.** Honey, fruit, or nuts on the board can soften a tricky pairing — fruit
+- **Add a bridge.** Honey, fruit, or nuts on the board can soften a tricky pairing. Fruit
   preserves are excellent peacemakers between hop bitterness and a salty cheese.
-- **Mind freshness.** A faded IPA loses the hop fruit that makes these pairings sing —
-  see [[IPA Freshness and Shelf Life]].
+- **Mind freshness.** A faded IPA loses the hop fruit that makes these pairings sing
+  (see [[IPA Freshness and Shelf Life]]).
 
 > [!tip] The reliable starter pair
 > If you try only one combination, choose **sharp cheddar with a fresh West Coast IPA**.
-> It is the cleanest demonstration of bitterness cutting fat — a near-foolproof entry
+> It is the cleanest demonstration of bitterness cutting fat, a near-foolproof entry
 > point into beer-and-cheese pairing.
 
 > [!example] A simple IPA cheese board
 > Goat cheese, aged gouda, and a wedge of blue, served with a [[Session IPA]], an
-> [[American IPA]], and a [[Double IPA]] — a guided progression from light to bold.
+> [[American IPA]], and a [[Double IPA]]: a guided progression from light to bold.
 
 ## Continue Reading
 
-- [[Food Pairing with IPAs]] — the broader pairing framework
-- [[Building an IPA Tasting Flight]] — a flight built around a board
-- [[Serving Temperature]] — serve both partners correctly
-- [[IPA Styles]] — choosing the right beer for each cheese
+- [[Food Pairing with IPAs]]: the broader pairing framework
+- [[Building an IPA Tasting Flight]]: a flight built around a board
+- [[Serving Temperature]]: serve both partners correctly
+- [[IPA Styles]]: choosing the right beer for each cheese

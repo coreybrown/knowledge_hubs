@@ -37,7 +37,7 @@ is a single style with many local dialects.
 > [!note] The cask vs cold divide
 > Traditional British cask IPA is served **cellar-cool and softly carbonated**, sipped
 > over a relaxed pint. American craft IPA is served **cold, fizzy, and fresh**, often
-> sampled across many beers. Neither is wrong — they are different philosophies of the
+> sampled across many beers. Neither is wrong; they are different philosophies of the
 > same style. See [[Serving Temperature]] and [[Draft vs Can vs Bottle]].
 
 The American taproom encourages tasting flights and constant new releases; the British
@@ -51,7 +51,7 @@ high prices, lean toward smaller, more deliberate pours.
 
 ## A Style That Travels
 
-As IPA spread, each region exported its hops and habits back into the global pool — see
+As IPA spread, each region exported its hops and habits back into the global pool. See
 [[Modern IPA Diversification]] and [[Hop Terroir]]. Today a drinker in Tokyo, Melbourne,
 and Manchester can all order an "IPA" and receive something locally distinct.
 
@@ -61,8 +61,8 @@ and Manchester can all order an "IPA" and receive something locally distinct.
 
 ## Continue Reading
 
-- [[Globalization of IPA]] — how the style spread
-- [[IPA in Bars and Taprooms]] — where culture happens
-- [[Serving Temperature]] — the cask-vs-cold divide
-- [[Draft vs Can vs Bottle]] — format preferences by region
-- [[Modern IPA Diversification]] — local styles feeding back
+- [[Globalization of IPA]]: how the style spread
+- [[IPA in Bars and Taprooms]]: where culture happens
+- [[Serving Temperature]]: the cask-vs-cold divide
+- [[Draft vs Can vs Bottle]]: format preferences by region
+- [[Modern IPA Diversification]]: local styles feeding back

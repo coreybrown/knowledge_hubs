@@ -3,7 +3,7 @@
 
 CSS = r"""
 /* ============================================================
-   IPA Knowledge Base — design system
+   IPA Knowledge Base: design system
    ============================================================ */
 :root{
   --bg:#FBF6EA; --bg-grad:#F4EAD2;
@@ -618,7 +618,7 @@ html[data-theme="dark"] .sr-title b{background:var(--accent);color:#15110B}
   color-mix(in srgb,var(--dc) 40%,transparent))}
 
 /* ============================================================
-   HOME — illustrated domain cards
+   HOME: illustrated domain cards
    ============================================================ */
 .dcard{padding:0;overflow:hidden}
 .dcard-art{position:relative;height:140px;display:flex;align-items:flex-end;
@@ -710,7 +710,7 @@ html[data-theme="dark"] .bp-glyph{color:var(--accent-2)}
 html[data-theme="dark"] .bp-step:hover .bp-step-label{fill:var(--accent-2)}
 
 /* ============================================================
-   HOP TIMING — five-window infographic
+   HOP TIMING: five-window infographic
    ============================================================ */
 .hopline{font-family:var(--sans)}
 .hl-band{fill:var(--surface);stroke:var(--border);stroke-width:1.4}
@@ -797,7 +797,7 @@ html[data-theme="dark"] .fw-class-link:hover .fw-class{fill:#15110B}
   letter-spacing:.18em;fill:var(--ink-3);text-anchor:middle}
 
 /* ============================================================
-   STYLE MAP — clarity vs strength scatter
+   STYLE MAP: clarity vs strength scatter
    ============================================================ */
 .smap{font-family:var(--sans);background:var(--surface);
   border-radius:14px}
@@ -894,7 +894,7 @@ html[data-theme="dark"] .vs-gpin{background:var(--accent-2)}
 """
 
 JS = r"""
-/* IPA Knowledge Base — interactivity */
+/* IPA Knowledge Base: interactivity */
 (function(){
   "use strict";
   var root=document.documentElement;
@@ -1001,7 +1001,7 @@ JS = r"""
     if(!q){
       results.innerHTML='<div class="sr-intro"><div class="sr-intro-h">'+
         'Ask anything about '+esc(ASK_TOPIC)+'</div><div class="sr-intro-p">'+
-        'Get a short, sourced answer drawn from the guide — or keep typing to '+
+        'Get a short, sourced answer drawn from the guide, or keep typing to '+
         'jump straight to a note.</div>'+chipsHTML()+'</div>'+hint();
       rows=[];bindChips();return;
     }
@@ -1060,7 +1060,7 @@ JS = r"""
   }
   function askState(kind){
     var msg=kind==="resting"
-      ? "The assistant is resting — it’s reached today’s question limit. Keyword search still works below."
+      ? "The assistant is resting: it’s reached today’s question limit. Keyword search still works below."
       : "Couldn’t reach the assistant just now. Try again, or use keyword search below.";
     panel.innerHTML='<div class="ask-note ask-note-'+kind+'">'+esc(msg)+'</div>';
     asking=false;
@@ -1087,7 +1087,7 @@ JS = r"""
         var s=document.getElementById("askSources");
         if(s&&s.parentNode){var f=document.createElement("div");
           f.className="ask-foot";
-          f.textContent="Preview answer — live AI responses arrive once the backend is connected.";
+          f.textContent="Preview answer. Live AI responses arrive once the backend is connected.";
           s.parentNode.insertBefore(f,s);}
       }
       asking=false;

@@ -6,7 +6,7 @@ domain: Ingredients
 
 # Hop Oils and Terpenes
 
-If [[Alpha Acids and Bitterness|alpha acids]] are the bones of an [[What Is an IPA|IPA]], **essential oils** are its soul. This volatile fraction — under 4% of a [[Hops|hop cone]] by weight — carries nearly all of the flavor and aroma that make modern hop-forward beer addictive.
+If [[Alpha Acids and Bitterness|alpha acids]] are the bones of an [[What Is an IPA|IPA]], **essential oils** are its soul. This volatile fraction, under 4% of a [[Hops|hop cone]] by weight, carries nearly all of the flavor and aroma that make modern hop-forward beer addictive.
 
 ## A Volatile Cocktail
 
@@ -32,18 +32,18 @@ This is why aroma-driven styles like the [[New England IPA]] push the bulk of th
 
 ## Terpenes Beyond Aroma
 
-Terpenes are not unique to hops — they occur across cannabis, citrus, and conifers, which is why hop descriptors borrow that vocabulary. Myrcene also appears in mango and lemongrass; humulene gives both hops and certain woods their character. The shared chemistry explains why hops can smell convincingly of fruit they have never touched.
+Terpenes are not unique to hops. They occur across cannabis, citrus, and conifers, which is why hop descriptors borrow that vocabulary. Myrcene also appears in mango and lemongrass; humulene gives both hops and certain woods their character. The shared chemistry explains why hops can smell convincingly of fruit they have never touched.
 
 > [!note] Oils alone do not tell the whole story
-> A spec sheet's "total oil" and oil breakdown are useful but incomplete. **Thiols** and other trace compounds — discussed in [[Thiols and Hop Burst]] and [[Hop Aroma Compounds]] — punch far above their measurable concentration, and yeast-driven [[Biotransformation]] reshapes the profile during fermentation.
+> A spec sheet's "total oil" and oil breakdown are useful but incomplete. **Thiols** and other trace compounds (discussed in [[Thiols and Hop Burst]] and [[Hop Aroma Compounds]]) punch far above their measurable concentration, and yeast-driven [[Biotransformation]] reshapes the profile during fermentation.
 
 ## Oxidation: The Enemy
 
-Oils oxidize. Fresh, bright citrus and tropical notes degrade into cheesy, oniony, and cardboard tones — the slow death described in [[Hop Fade and Oxidation]]. Cold, dark, oxygen-free storage of both hops and finished beer is the only defense, which is why [[IPA Freshness and Shelf Life]] matters so much for this style.
+Oils oxidize. Fresh, bright citrus and tropical notes degrade into cheesy, oniony, and cardboard tones: the slow death described in [[Hop Fade and Oxidation]]. Cold, dark, oxygen-free storage of both hops and finished beer is the only defense, which is why [[IPA Freshness and Shelf Life]] matters so much for this style.
 
 ## Continue Reading
 
-- [[Hop Aroma Compounds]] — aroma chemistry in depth
-- [[Thiols and Hop Burst]] — the trace compounds that punch hardest
-- [[Biotransformation]] — how yeast rewrites the oil profile
-- [[Dry Hopping]] — capturing oils without heat
+- [[Hop Aroma Compounds]]: aroma chemistry in depth
+- [[Thiols and Hop Burst]]: the trace compounds that punch hardest
+- [[Biotransformation]]: how yeast rewrites the oil profile
+- [[Dry Hopping]]: capturing oils without heat

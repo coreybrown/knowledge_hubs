@@ -6,11 +6,11 @@ domain: History
 
 # History of IPAs
 
-The **India Pale Ale** has one of the most misunderstood histories in beer. Its story is not a single invention but a two-and-a-half-century chain of accidents, trade economics, water chemistry, taxation, and — twice — outright reinvention. This note is the hub for the History domain; every era below has its own dedicated note.
+The **India Pale Ale** has one of the most misunderstood histories in beer. Its story is not a single invention but a two-and-a-half-century chain of accidents, trade economics, water chemistry, taxation, and outright reinvention (twice). This note is the hub for the History domain; every era below has its own dedicated note.
 
 ## Why the History Matters
 
-Most of what casual drinkers "know" about IPA is wrong. The style was not designed for a sea voyage, was not unusually strong for its era, and was not even called "IPA" when it first sailed to India. Separating fact from folklore — see [[The October Beer Myth]] — is the first job of any honest IPA history.
+Most of what casual drinkers "know" about IPA is wrong. The style was not designed for a sea voyage, was not unusually strong for its era, and was not even called "IPA" when it first sailed to India. Separating fact from folklore (see [[The October Beer Myth]]) is the first job of any honest IPA history.
 
 ## The Eras at a Glance
 
@@ -35,12 +35,12 @@ Most of what casual drinkers "know" about IPA is wrong. The style was not design
 
 ## A Style Defined by Reinvention
 
-No other beer has been declared "dead" and then resurrected as a market leader. The British IPA faded to a weak supermarket label by the mid-20th century. American brewers, lacking the cultural baggage, treated "IPA" as a blank canvas for [[Hops|hop]] expression — and in doing so created something the Victorians would barely recognize. For the dates in one place, see the [[Timeline of IPA History]].
+No other beer has been declared "dead" and then resurrected as a market leader. The British IPA faded to a weak supermarket label by the mid-20th century. American brewers, lacking the cultural baggage, treated "IPA" as a blank canvas for [[Hops|hop]] expression, and in doing so created something the Victorians would barely recognize. For the dates in one place, see the [[Timeline of IPA History]].
 
 ## Continue Reading
 
-- [[Origins of Pale Ale]] — where it all begins, before the name existed
-- [[The October Beer Myth]] — the legend, debunked
-- [[Timeline of IPA History]] — every date on one page
-- [[Key Figures in IPA History]] — the people behind the pivots
-- [[Iconic IPAs That Defined the Style]] — the beers that mattered
+- [[Origins of Pale Ale]]: where it all begins, before the name existed
+- [[The October Beer Myth]]: the legend, debunked
+- [[Timeline of IPA History]]: every date on one page
+- [[Key Figures in IPA History]]: the people behind the pivots
+- [[Iconic IPAs That Defined the Style]]: the beers that mattered

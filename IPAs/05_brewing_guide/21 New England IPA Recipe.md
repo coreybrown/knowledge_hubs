@@ -6,7 +6,7 @@ domain: Brewing
 
 # New England IPA Recipe
 
-A worked, brew-ready recipe for a **[[New England IPA]]** — opaque, soft, pillowy, and saturated with tropical and stone-fruit aroma, with bitterness pushed firmly into the background. Batch size: **5 gallons / 19 L**, ~72% efficiency.
+A worked, brew-ready recipe for a **[[New England IPA]]**: opaque, soft, pillowy, and saturated with tropical and stone-fruit aroma, with bitterness pushed firmly into the background. Batch size: **5 gallons / 19 L**, ~72% efficiency.
 
 ## Target Stats
 
@@ -27,15 +27,15 @@ A worked, brew-ready recipe for a **[[New England IPA]]** — opaque, soft, pill
 | Flaked wheat | 0.50 kg | 9% |
 
 > [!note] Why this grist
-> Heavy flaked oats and wheat build the protein-rich body and stable haze the style demands. Add rice hulls — these adjuncts have no husk. See [[Milling and the Grain Bill]] and [[Clarification and Haze Management]].
+> Heavy flaked oats and wheat build the protein-rich body and stable haze the style demands. Add rice hulls, since these adjuncts have no husk. See [[Milling and the Grain Bill]] and [[Clarification and Haze Management]].
 
 ## Mash
 
-Single infusion at **67–68 °C for 60 minutes** — high, to leave dextrins for a full, soft mouthfeel. See [[Mashing]] and [[The Science of Mouthfeel]].
+Single infusion at **67–68 °C for 60 minutes**, deliberately high to leave dextrins for a full, soft mouthfeel. See [[Mashing]] and [[The Science of Mouthfeel]].
 
 ## Water Profile
 
-Chloride-forward for a pillowy, almost sweet softness — the inverse of West Coast. See [[Water Treatment for Brewing]] and the [[Water Chemistry and the Sulfate-Chloride Ratio]].
+Chloride-forward for a pillowy, almost sweet softness (the inverse of West Coast). See [[Water Treatment for Brewing]] and the [[Water Chemistry and the Sulfate-Chloride Ratio]].
 
 | Ion | Target (ppm) |
 |---|---|
@@ -46,7 +46,7 @@ Chloride-forward for a pillowy, almost sweet softness — the inverse of West Co
 
 ## Hop Schedule
 
-Almost all hops are added on the cold side — minimal bittering. See [[Hop Additions and Timing]].
+Almost all hops are added on the cold side, with minimal bittering. See [[Hop Additions and Timing]].
 
 | Timing | Hop | Amount | Purpose |
 |---|---|---|---|
@@ -58,11 +58,11 @@ Almost all hops are added on the cold side — minimal bittering. See [[Hop Addi
 | Dry hop 2 (cold) | [[Galaxy]] | 56 g | Aroma retention |
 | Dry hop 2 (cold) | [[Mosaic]] | 56 g | Aroma retention |
 
-This is a [[Double Dry Hopping|double dry hop]] — see [[Dry Hopping]] and [[Biotransformation]].
+This is a [[Double Dry Hopping|double dry hop]]; see [[Dry Hopping]] and [[Biotransformation]].
 
 ## Yeast & Fermentation
 
-- **Yeast:** an expressive, low-flocculating "juicy" English/hazy strain — see [[IPA Yeast Strains]].
+- **Yeast:** an expressive, low-flocculating "juicy" English/hazy strain. See [[IPA Yeast Strains]].
 - **Ferment:** 20–22 °C for ester expression.
 - **First dry hop:** during active fermentation for [[Biotransformation]] and [[Thiols and Hop Burst|thiol]] release.
 

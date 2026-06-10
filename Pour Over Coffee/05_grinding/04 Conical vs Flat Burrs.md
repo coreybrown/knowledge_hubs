@@ -6,7 +6,7 @@ domain: Grinding
 
 # 🔺 Conical vs Flat Burrs
 
-Once you have committed to a [[Burr Grinders vs Blade Grinders|burr grinder]], the next fork is **geometry**: conical or flat. Both crush beans between abrasive surfaces, but their shapes route coffee through the grinding zone differently, and that shapes the [[Particle Distribution and Uniformity|particle distribution]] — and, many argue, the flavor. This is one of the more **contested** topics in coffee, so treat the broad strokes as reliable and the flavor claims as debated.
+Once you have committed to a [[Burr Grinders vs Blade Grinders|burr grinder]], the next fork is **geometry**: conical or flat. Both crush beans between abrasive surfaces, but their shapes route coffee through the grinding zone differently, and that shapes the [[Particle Distribution and Uniformity|particle distribution]] and, many argue, the flavor. This is one of the more **contested** topics in coffee, so treat the broad strokes as reliable and the flavor claims as debated.
 
 ## The Two Geometries
 
@@ -24,7 +24,7 @@ A **flat burr** set is two parallel rings of teeth facing each other, one spinni
 
 ## The Clarity-vs-Body Debate ⚖️
 
-The popular framing is that **flat burrs deliver clarity** — bright, well-separated, distinct flavors — while **conical burrs deliver body** — rounder, sweeter, heavier cups. The proposed mechanism is that flats produce a tighter, more uniform grind that extracts more evenly, whereas conicals produce a slightly wider spread (sometimes a mild [[Fines and Boulders|fines]]-heavy second peak) that adds texture and complexity.
+The popular framing is that **flat burrs deliver clarity** (bright, well-separated, distinct flavors) while **conical burrs deliver body** (rounder, sweeter, heavier cups). The proposed mechanism is that flats produce a tighter, more uniform grind that extracts more evenly, whereas conicals produce a slightly wider spread (sometimes a mild [[Fines and Boulders|fines]]-heavy second peak) that adds texture and complexity.
 
 > [!warning] This is contested, not settled
 > Blind tastings and particle-size studies give **mixed** results, and burr quality, alignment, model, and RPM often matter more than geometry alone. Plenty of conical grinders out-clarify cheap flats, and vice versa. Treat "flat = clarity, conical = body" as a useful starting heuristic, **not** a law. The individual grinder beats the category.
@@ -34,12 +34,12 @@ The popular framing is that **flat burrs deliver clarity** — bright, well-sepa
 
 ## Choosing for Pour Over
 
-For filter brewing, a well-made grinder of either geometry can produce an excellent, clean cup. If you chase ultimate [[How to Taste Coffee|cup clarity]] and complexity and have the budget, a quality flat-burr electric is the enthusiast's classic pick; if you value sweetness, portability, and value, a good conical — including most [[Hand Grinders vs Electric Grinders|hand grinders]] — serves pour over beautifully.
+For filter brewing, a well-made grinder of either geometry can produce an excellent, clean cup. If you chase ultimate [[How to Taste Coffee|cup clarity]] and complexity and have the budget, a quality flat-burr electric is the enthusiast's classic pick; if you value sweetness, portability, and value, a good conical, including most [[Hand Grinders vs Electric Grinders|hand grinders]], serves pour over beautifully.
 
 ## Continue Reading
 
-- [[Particle Distribution and Uniformity]] — the data behind the flavor claims
-- [[Burr Grinders vs Blade Grinders]] — why any burr beats a blade
-- [[Hand Grinders vs Electric Grinders]] — where each geometry tends to live
-- [[Fines and Boulders]] — the particle extremes that shape body
-- [[Coffee Gear Brands]] — who makes notable burr sets
+- [[Particle Distribution and Uniformity]]: the data behind the flavor claims
+- [[Burr Grinders vs Blade Grinders]]: why any burr beats a blade
+- [[Hand Grinders vs Electric Grinders]]: where each geometry tends to live
+- [[Fines and Boulders]]: the particle extremes that shape body
+- [[Coffee Gear Brands]]: who makes notable burr sets

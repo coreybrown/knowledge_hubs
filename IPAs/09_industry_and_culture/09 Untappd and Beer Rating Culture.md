@@ -6,14 +6,14 @@ domain: Industry
 
 # Untappd and Beer Rating Culture
 
-The smartphone changed how people drink IPA. **Untappd** — the dominant beer check-in and rating app — turned drinking into a logged, scored, and socially shared activity, creating a feedback loop that now influences what breweries brew.
+The smartphone changed how people drink IPA. **Untappd**, the dominant beer check-in and rating app, turned drinking into a logged, scored, and socially shared activity, creating a feedback loop that now influences what breweries brew.
 
 > [!note] More than one platform
 > Untappd is the most visible, but rating culture also runs through older sites like RateBeer and BeerAdvocate. Together they form the digital layer of modern [[Industry and Culture|beer culture]].
 
 ## How the Check-in Works
 
-A user "checks in" a beer — logging it, scoring it (typically out of 5), adding a photo and notes, and sharing it to a feed of friends. Aggregated, these check-ins produce a public **average rating** for every beer and brewery.
+A user "checks in" a beer by logging it, scoring it (typically out of 5), adding a photo and notes, and sharing it to a feed of friends. Aggregated, these check-ins produce a public **average rating** for every beer and brewery.
 
 ## Why It Matters Commercially
 
@@ -25,16 +25,16 @@ A user "checks in" a beer — logging it, scoring it (typically out of 5), addin
 | Feedback | Brewers read check-ins as informal sensory data |
 
 > [!example] The rating feedback loop
-> If soft, juicy [[New England IPA|hazy IPAs]] reliably score higher than bitter ones, breweries notice — and brew more of them. Rating culture has measurably accelerated the [[Modern IPA Diversification|drift toward sweeter, fruitier, novelty styles]]. The app is not a neutral observer; it shapes the market it measures.
+> If soft, juicy [[New England IPA|hazy IPAs]] reliably score higher than bitter ones, breweries notice and brew more of them. Rating culture has measurably accelerated the [[Modern IPA Diversification|drift toward sweeter, fruitier, novelty styles]]. The app is not a neutral observer; it shapes the market it measures.
 
 ## Rating Dynamics and Biases
 
 Crowd-sourced scores are not objective. Known distortions include:
 
-- **Hype inflation** — rare, hard-to-get beers score higher partly *because* they are rare (see [[The Hype Beer Phenomenon]]).
-- **Style compression** — most beers cluster in a narrow band (roughly 3.5–4.2), making small differences look large.
-- **Freshness blindness** — a check-in cannot tell whether an IPA was tasted fresh or [[Hop Fade and Oxidation|oxidized]].
-- **Novelty bias** — extreme [[Milkshake IPA|adjunct-heavy beers]] can over-score on first impression.
+- **Hype inflation**: rare, hard-to-get beers score higher partly *because* they are rare (see [[The Hype Beer Phenomenon]]).
+- **Style compression**: most beers cluster in a narrow band (roughly 3.5–4.2), making small differences look large.
+- **Freshness blindness**: a check-in cannot tell whether an IPA was tasted fresh or [[Hop Fade and Oxidation|oxidized]].
+- **Novelty bias**: extreme [[Milkshake IPA|adjunct-heavy beers]] can over-score on first impression.
 
 > [!warning] Ratings are not [[Sensory Training and Panels|sensory evaluation]]
 > An Untappd average reflects *enthusiasm*, not trained analysis. It is a measure of popularity and hype, not a substitute for the disciplined [[Tasting and Evaluating IPAs|tasting]] and [[BJCP and Style Guidelines|style judging]] used in [[IPA Festivals and Competitions|competition]].
@@ -49,7 +49,7 @@ Check-in culture also reshaped the physical product. Breweries now design [[IPA 
 
 ## Continue Reading
 
-- [[The Hype Beer Phenomenon]] — how ratings fuel scarcity culture
-- [[IPA Branding and Label Art]] — designing for the camera
-- [[Tasting and Evaluating IPAs]] — disciplined evaluation as contrast
-- [[Modern IPA Diversification]] — how feedback loops drive style change
+- [[The Hype Beer Phenomenon]]: how ratings fuel scarcity culture
+- [[IPA Branding and Label Art]]: designing for the camera
+- [[Tasting and Evaluating IPAs]]: disciplined evaluation as contrast
+- [[Modern IPA Diversification]]: how feedback loops drive style change

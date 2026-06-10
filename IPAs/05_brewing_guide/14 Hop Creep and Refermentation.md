@@ -6,17 +6,17 @@ domain: Brewing
 
 # Hop Creep and Refermentation
 
-**Hop creep** is an unwelcome surprise of heavy [[Dry Hopping]]: dry hops carry enzymes that break dextrins into fermentable sugar, restarting fermentation in a beer the brewer believed was finished. The result — **refermentation** — can over-carbonate, dry out, and even burst packaged beer.
+**Hop creep** is an unwelcome surprise of heavy [[Dry Hopping]]: dry hops carry enzymes that break dextrins into fermentable sugar, restarting fermentation in a beer the brewer believed was finished. The result, **refermentation**, can over-carbonate, dry out, and even burst packaged beer.
 
 ## The Mechanism
 
-Hops contain **amylolytic enzymes** — chiefly diastatic amylases — that survive into the dry-hop addition because no boil destroys them.
+Hops contain **amylolytic enzymes** (chiefly diastatic amylases) that survive into the dry-hop addition because no boil destroys them.
 
 > [!example] How creep unfolds
 > 1. Beer reaches a stable terminal gravity after [[Fermentation]].
 > 2. Dry hops are added; their enzymes contact residual **dextrins** (unfermentable in the original mash).
-> 3. Enzymes cleave dextrins into maltose and glucose — **newly fermentable** sugar.
-> 4. Surviving yeast consumes that sugar — fermentation restarts.
+> 3. Enzymes cleave dextrins into maltose and glucose: **newly fermentable** sugar.
+> 4. Surviving yeast consumes that sugar, and fermentation restarts.
 > 5. Gravity drops further, CO2 and diacetyl are produced.
 
 The science is explored further in [[Dry Hop Creep Explained]].
@@ -30,15 +30,15 @@ The science is explored further in [[Dry Hop Creep Explained]].
 | Diacetyl | Butterscotch off-flavor; see [[Off-Flavors in IPA]] |
 | Safety risk | Pressurized glass bottles can explode |
 
-This is most acute in [[New England IPA]] and [[Double IPA]] brewing, where dry-hop rates are highest — see [[Double Dry Hopping]].
+This is most acute in [[New England IPA]] and [[Double IPA]] brewing, where dry-hop rates are highest; see [[Double Dry Hopping]].
 
 ## Managing Hop Creep
 
 > [!tip] Controls that work
-> - **Dry hop warm, early** — add during active fermentation so creep happens *before* packaging and the yeast cleans up diacetyl.
-> - **Diacetyl-rest then crash** — give the beer time at ~20 °C after dry hopping, then cold-crash to drop yeast out.
-> - **Confirm a new terminal gravity** — measure gravity after dry hopping, not before.
-> - **Cold dry hop** — low temperature slows enzyme activity (slows, not stops).
+> - **Dry hop warm, early**: add during active fermentation so creep happens *before* packaging and the yeast cleans up diacetyl.
+> - **Diacetyl-rest then crash**: give the beer time at ~20 °C after dry hopping, then cold-crash to drop yeast out.
+> - **Confirm a new terminal gravity**: measure gravity after dry hopping, not before.
+> - **Cold dry hop**: low temperature slows enzyme activity (slows, not stops).
 > - **Filter or fine** before packaging to reduce viable yeast.
 
 > [!warning] Don't package on the old FG

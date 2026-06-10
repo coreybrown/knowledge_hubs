@@ -7,7 +7,7 @@ domain: Best IPAs
 # Best IPAs by Region - Europe
 
 Europe both invented the IPA and, much later, re-imported it. Today the continent
-hosts a distinctive scene — part heritage, part American-influenced craft, part
+hosts a distinctive scene: part heritage, part American-influenced craft, part
 Nordic experimentalism. This note maps Europe's IPA regions with a flagship pick for
 each.
 
@@ -30,8 +30,8 @@ each.
 
 ## Reading the map
 
-**England** is the historic homeland — see [[Burton-on-Trent and Burton Pale Ale]] and
-[[IPA in the British Empire]] — and still brews characterful traditional IPAs.
+**England** is the historic homeland (see [[Burton-on-Trent and Burton Pale Ale]] and
+[[IPA in the British Empire]]) and still brews characterful traditional IPAs.
 **Scotland's** BrewDog did more than anyone to put modern hop-forward IPA on UK
 shelves. **Scandinavia** punches far above its size: Denmark and Sweden's "gypsy"
 brewers (brewing at host facilities) made the region a lab for experimental and
@@ -41,16 +41,16 @@ but acclaimed scene known for elegance and balance.
 
 > [!tip] Germany's purity law and the IPA
 > The Reinheitsgebot shaped German brewing for centuries. Modern German craft brewers
-> work around or outside it — context for why the [[India Pale Lager]] feels natural
+> work around or outside it, context for why the [[India Pale Lager]] feels natural
 > there. See [[Globalization of IPA]].
 
 > [!example] The round trip
 > The IPA sailed *from* Britain, nearly died there in the [[Decline of IPA in Britain]], was reinvented in America, and then sailed *back* to a Europe that
-> embraced it anew. Few styles have such a circular history — see [[History of IPAs]].
+> embraced it anew. Few styles have such a circular history; see [[History of IPAs]].
 
 ## Continue Reading
 
-- [[Best English IPAs]] — the heritage tradition in depth
-- [[Best IPAs by Region - United States]] — the American picture
-- [[Globalization of IPA]] — how IPA spread worldwide
-- [[India Pale Lager]] — Europe's hybrid contribution
+- [[Best English IPAs]]: the heritage tradition in depth
+- [[Best IPAs by Region - United States]]: the American picture
+- [[Globalization of IPA]]: how IPA spread worldwide
+- [[India Pale Lager]]: Europe's hybrid contribution

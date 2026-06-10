@@ -6,7 +6,7 @@ domain: Science & Extraction
 
 # 💧 Total Dissolved Solids (TDS)
 
-**Total Dissolved Solids (TDS)** is the share of a brewed coffee's mass that is *dissolved coffee* rather than water. If a cup is **1.35% TDS**, then 1.35% of the liquid's weight is dissolved solids and the remaining 98.65% is water. TDS is the scientific name for what tasters call **strength** or **concentration** — and it is one of the two numbers, alongside [[Extraction Yield and Strength|extraction yield]], that define any brew. 🔬
+**Total Dissolved Solids (TDS)** is the share of a brewed coffee's mass that is *dissolved coffee* rather than water. If a cup is **1.35% TDS**, then 1.35% of the liquid's weight is dissolved solids and the remaining 98.65% is water. TDS is the scientific name for what tasters call **strength** or **concentration**. It is one of the two numbers, alongside [[Extraction Yield and Strength|extraction yield]], that define any brew. 🔬
 
 > [!note] Two TDS, don't confuse them
 > Brew TDS (this note) measures *dissolved coffee* in your cup. [[TDS and Mineral Content|Water TDS]] measures *minerals* in your brewing water before any coffee touches it. Same acronym, completely different quantity.
@@ -24,7 +24,7 @@ Pour over generally lives around **1.2–1.45%**. The [[The Specialty Coffee Mov
 
 ## What Sets TDS 🎚️
 
-Strength is dominated by the **[[The Brew Ratio|brew ratio]]** — how much water you use per gram of coffee. A tight ratio (say 1:15) gives a stronger, higher-TDS cup; a loose one (1:17) a weaker, lower-TDS cup. Because [[Bypass and Channeling|bypass water]] (water that skirts the bed without extracting) dilutes the brew, dripper geometry and pour style nudge TDS too. Extraction yield also raises TDS — dissolving more coffee puts more solids in the same water — which is why the two numbers, though independent, move together when you change grind or temperature.
+Strength is dominated by the **[[The Brew Ratio|brew ratio]]**: how much water you use per gram of coffee. A tight ratio (say 1:15) gives a stronger, higher-TDS cup; a loose one (1:17) a weaker, lower-TDS cup. Because [[Bypass and Channeling|bypass water]] (water that skirts the bed without extracting) dilutes the brew, dripper geometry and pour style nudge TDS too. Extraction yield also raises TDS (dissolving more coffee puts more solids in the same water), which is why the two numbers, though independent, move together when you change grind or temperature.
 
 ## How TDS Is Measured
 
@@ -39,8 +39,8 @@ Knowing TDS lets you separate two questions that feel like one: *"is this too st
 
 ## Continue Reading
 
-- [[Extraction Yield and Strength]] — the other axis, and how they relate
-- [[Refractometers and Measuring Extraction]] — putting a number on TDS
-- [[The Coffee Brewing Control Chart]] — TDS plotted against extraction
-- [[The Brew Ratio]] — the main dial for strength
-- [[TDS and Mineral Content]] — the *water* sense of TDS
+- [[Extraction Yield and Strength]]: the other axis, and how they relate
+- [[Refractometers and Measuring Extraction]]: putting a number on TDS
+- [[The Coffee Brewing Control Chart]]: TDS plotted against extraction
+- [[The Brew Ratio]]: the main dial for strength
+- [[TDS and Mineral Content]]: the *water* sense of TDS

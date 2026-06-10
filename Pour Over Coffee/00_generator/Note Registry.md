@@ -1,12 +1,12 @@
-# Pour Over Coffee Knowledge Base — Note Registry
+# Pour Over Coffee Knowledge Base: Note Registry
 
 This is the canonical list of every note in the vault. Every `[[wikilink]]` MUST point at one
 of these exact names. Do not invent note names outside this list. ~148 notes total.
 
-The order of notes within each folder below **is the intended reading order** — front to
+The order of notes within each folder below **is the intended reading order**, front to
 back, like a book. Each note file on disk carries a two-digit reading-order prefix
 (`NN <name>.md`, e.g. `01 History of Pour Over Coffee.md`) so the Obsidian file explorer lists
-it in that order. The names below are the **canonical names** — the filename with the `NN `
+it in that order. The names below are the **canonical names**: the filename with the `NN `
 prefix stripped. Wikilinks and this registry always use the canonical name; every note also
 carries its canonical name as a frontmatter `alias` so those links resolve in Obsidian.
 
@@ -42,19 +42,19 @@ Scope: **pour over (manual filter brewing)** is the focus, with **immersion meth
 - Kalita Wave
 - Chemex
 - Origami Dripper
-- Flat Bottom Drippers — April and Orea
+- April and Orea Drippers
 - Melitta and Wedge Drippers
 - The Clever Dripper
 - AeroPress
 - OXO Rapid Brewer
 - French Press
-- Coffee Filters — Paper, Metal, and Cloth
+- Coffee Filters
 - Gooseneck Kettles
 - Scales, Timers, and Servers
 
 ## 04_coffee_beans
 - Coffee Beans and Roast
-- The Coffee Plant — Arabica and Robusta
+- The Coffee Plant
 - Coffee Varietals
 - Coffee Growing Regions and Terroir
 - Coffee Processing Methods
@@ -82,11 +82,11 @@ Scope: **pour over (manual filter brewing)** is the focus, with **immersion meth
 ## 06_water
 - Water for Coffee
 - Why Water Matters
-- Water Chemistry — Hardness and Alkalinity
+- Water Hardness and Alkalinity
 - TDS and Mineral Content
 - The SCA Water Standard
 - Water Temperature for Brewing
-- Building Water — Recipes and Remineralization
+- Building Brew Water
 - Filtered, Bottled, and Tap Water
 
 ## 07_brewing_technique
@@ -159,7 +159,7 @@ Scope: **pour over (manual filter brewing)** is the focus, with **immersion meth
 - Aroma and Flavor Compounds
 - Identifying Defects and Off-Flavors
 - Building Your Palate
-- Describing Coffee — The Vocabulary
+- Describing Coffee
 
 ## 11_culture_and_industry
 - Culture and Industry
@@ -171,7 +171,7 @@ Scope: **pour over (manual filter brewing)** is the focus, with **immersion meth
 - Baristas and Home Brewers
 - Direct Trade and Coffee Sourcing
 - Sustainability in Coffee
-- Coffee Online — Communities and Content
+- Online Coffee Communities and Content
 
 ## 12_reference
 - Reference

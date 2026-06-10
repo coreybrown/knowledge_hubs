@@ -6,7 +6,7 @@ domain: Reference
 
 # 🗂️ Master Index
 
-The complete map of the knowledge base — every note, grouped by its domain and listed in reading order. Use this as the table of contents for the whole vault: skim a domain heading, then jump straight to the note you need. Each domain also has its own hub note (the first link under each heading) that introduces and connects the rest. New here? Start with [[Home]] and [[How to Use This Knowledge Base]].
+The complete map of the knowledge base: every note, grouped by its domain and listed in reading order. Use this as the table of contents for the whole vault: skim a domain heading, then jump straight to the note you need. Each domain also has its own hub note (the first link under each heading) that introduces and connects the rest. New here? Start with [[Home]] and [[How to Use This Knowledge Base]].
 
 > [!note] How this index is organized
 > The twelve domains mirror the folders on disk. Within each, notes appear in the intended front-to-back reading order. Hub notes (e.g. [[Equipment and Drippers]]) sit first and link the rest of their domain.
@@ -43,20 +43,20 @@ The complete map of the knowledge base — every note, grouped by its domain and
 - [[Kalita Wave]]
 - [[Chemex]]
 - [[Origami Dripper]]
-- [[Flat Bottom Drippers — April and Orea]]
+- [[April and Orea Drippers]]
 - [[Melitta and Wedge Drippers]]
 - [[The Clever Dripper]]
 - [[AeroPress]]
 - [[OXO Rapid Brewer]]
 - [[French Press]]
-- [[Coffee Filters — Paper, Metal, and Cloth]]
+- [[Coffee Filters]]
 - [[Gooseneck Kettles]]
 - [[Scales, Timers, and Servers]]
 
 ## 04 · Coffee Beans & Roast
 
 - [[Coffee Beans and Roast]]
-- [[The Coffee Plant — Arabica and Robusta]]
+- [[The Coffee Plant]]
 - [[Coffee Varietals]]
 - [[Coffee Growing Regions and Terroir]]
 - [[Coffee Processing Methods]]
@@ -86,11 +86,11 @@ The complete map of the knowledge base — every note, grouped by its domain and
 
 - [[Water for Coffee]]
 - [[Why Water Matters]]
-- [[Water Chemistry — Hardness and Alkalinity]]
+- [[Water Hardness and Alkalinity]]
 - [[TDS and Mineral Content]]
 - [[The SCA Water Standard]]
 - [[Water Temperature for Brewing]]
-- [[Building Water — Recipes and Remineralization]]
+- [[Building Brew Water]]
 - [[Filtered, Bottled, and Tap Water]]
 
 ## 07 · Brewing Technique
@@ -167,7 +167,7 @@ The complete map of the knowledge base — every note, grouped by its domain and
 - [[Aroma and Flavor Compounds]]
 - [[Identifying Defects and Off-Flavors]]
 - [[Building Your Palate]]
-- [[Describing Coffee — The Vocabulary]]
+- [[Describing Coffee]]
 
 ## 11 · Culture & Industry
 
@@ -180,7 +180,7 @@ The complete map of the knowledge base — every note, grouped by its domain and
 - [[Baristas and Home Brewers]]
 - [[Direct Trade and Coffee Sourcing]]
 - [[Sustainability in Coffee]]
-- [[Coffee Online — Communities and Content]]
+- [[Online Coffee Communities and Content]]
 
 ## 12 · Reference
 
@@ -196,7 +196,7 @@ The complete map of the knowledge base — every note, grouped by its domain and
 
 ## Continue Reading
 
-- [[Home]] — the front door of the knowledge base
-- [[How to Use This Knowledge Base]] — how the domains fit together
-- [[Reference]] — the quick-lookup toolkit this index belongs to
-- [[Glossary of Coffee Terms]] — definitions for anything unfamiliar here
+- [[Home]]: the front door of the knowledge base
+- [[How to Use This Knowledge Base]]: how the domains fit together
+- [[Reference]]: the quick-lookup toolkit this index belongs to
+- [[Glossary of Coffee Terms]]: definitions for anything unfamiliar here

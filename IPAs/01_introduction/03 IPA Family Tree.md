@@ -32,19 +32,19 @@ each branch in detail.
 
 ## The Three Generations
 
-### 1. The Ancestor — English Pale Ale → [[English IPA]]
+### 1. The Ancestor: English Pale Ale → [[English IPA]]
 Earthy, marmalade-like English hops over a biscuity malt base; balanced, moderate.
-The historical root — see [[Origins of Pale Ale]].
+The historical root (see [[Origins of Pale Ale]]).
 
-### 2. The American Reinvention — [[American IPA]]
+### 2. The American Reinvention: [[American IPA]]
 The [[The American Craft Beer Revolution|craft revolution]] swapped English hops for
 punchy American varieties like [[Cascade]] and [[Centennial]]. This split into two
 dominant modern poles:
 
-- **[[West Coast IPA]]** — clear, dry, aggressively bitter, citrus-and-pine.
-- **[[New England IPA]]** — hazy, soft, low bitterness, saturated tropical aroma.
+- **[[West Coast IPA]]**: clear, dry, aggressively bitter, citrus-and-pine.
+- **[[New England IPA]]**: hazy, soft, low bitterness, saturated tropical aroma.
 
-### 3. The Frontier — Specialty & Experimental
+### 3. The Frontier: Specialty & Experimental
 Each modern pole spawned offshoots:
 
 | Branch | Notable offshoots |
@@ -63,13 +63,13 @@ See [[Specialty and Experimental IPAs]] for the long tail and
 
 Two axes explain almost every IPA:
 
-1. **Clarity / mouthfeel** — bitter & clear (West Coast lineage) ↔ soft & hazy
+1. **Clarity / mouthfeel**: bitter & clear (West Coast lineage) ↔ soft & hazy
    (New England lineage). Driven by [[Water Chemistry and the Sulfate-Chloride Ratio]]
    and [[Hop Haze and Colloidal Stability]].
-2. **Intensity** — session → standard → double → triple, scaling [[Alpha Acids and Bitterness|bitterness]], malt, and [[Hops]].
+2. **Intensity**: session → standard → double → triple, scaling [[Alpha Acids and Bitterness|bitterness]], malt, and [[Hops]].
 
 ## Continue Reading
 
-- [[IPA Styles]] — the full styles MOC
-- [[IPA Style Comparison Table]] — every style, side by side
-- [[Modern IPA Diversification]] — why the family exploded
+- [[IPA Styles]]: the full styles MOC
+- [[IPA Style Comparison Table]]: every style, side by side
+- [[Modern IPA Diversification]]: why the family exploded

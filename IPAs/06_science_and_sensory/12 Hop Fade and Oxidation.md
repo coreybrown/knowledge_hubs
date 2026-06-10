@@ -7,15 +7,15 @@ domain: Science
 # Hop Fade and Oxidation
 
 A fresh IPA is a perishable product. The bright citrus and tropical aromatics that
-make it special begin fading the moment the beer is packaged — a process called
-**hop fade** — while parallel **oxidation** reactions actively generate stale,
+make it special begin fading the moment the beer is packaged, a process called
+**hop fade**, while parallel **oxidation** reactions actively generate stale,
 unpleasant flavors. Together they are the central reason an IPA is best drunk young.
 
 ## Two Processes, One Decline
 
 > [!note] Fade vs. oxidation
-> **Hop fade** is the *loss* of desirable aroma — volatile compounds evaporating,
-> degrading, or re-binding. **Oxidation** is the *gain* of undesirable flavor —
+> **Hop fade** is the *loss* of desirable aroma: volatile compounds evaporating,
+> degrading, or re-binding. **Oxidation** is the *gain* of undesirable flavor:
 > oxygen-driven reactions creating new stale compounds. A staling IPA suffers both
 > at once.
 
@@ -24,12 +24,12 @@ unpleasant flavors. Together they are the central reason an IPA is best drunk yo
 The [[Hop Aroma Compounds|volatile compounds]] behind hop character are inherently
 unstable in finished beer:
 
-1. **Volatility** — light terpenes like myrcene slowly escape into headspace.
-2. **Oxidation of terpenoids** — fresh "citrus/pine" notes oxidize into dull,
+1. **Volatility**: light terpenes like myrcene slowly escape into headspace.
+2. **Oxidation of terpenoids**: fresh "citrus/pine" notes oxidize into dull,
    "old hop," cheesy, or vegetal tones.
-3. **Thiol loss** — reactive [[Thiols and Hop Burst|polyfunctional thiols]] are
+3. **Thiol loss**: reactive [[Thiols and Hop Burst|polyfunctional thiols]] are
    exceptionally fragile and fade within weeks.
-4. **Re-binding and precipitation** — some aromatics drop out with sediment.
+4. **Re-binding and precipitation**: some aromatics drop out with sediment.
 
 ## Why Oxidation Creates Off-Flavors
 
@@ -54,10 +54,10 @@ during transfer and [[Carbonation and Packaging|packaging]].
 ## Slowing the Decline
 
 > [!tip] Brewer's controls
-> - **Low-oxygen packaging** — purge cans/kegs; minimize headspace O2.
-> - **Antioxidant management** — yeast and SO2 scavenge some oxygen.
-> - **Cold storage** — every reaction here is temperature-driven.
-> - **Fresh hops in, fresh beer out** — start with well-stored hops; see
+> - **Low-oxygen packaging**: purge cans/kegs; minimize headspace O2.
+> - **Antioxidant management**: yeast and SO2 scavenge some oxygen.
+> - **Cold storage**: every reaction here is temperature-driven.
+> - **Fresh hops in, fresh beer out**: start with well-stored hops; see
 >   [[Hop Products and Formats]].
 
 > [!tip] Drinker's controls
@@ -67,13 +67,13 @@ during transfer and [[Carbonation and Packaging|packaging]].
 
 ## The Bigger Picture
 
-Hop fade and oxidation are why "freshness culture" dominates the IPA world — why
+Hop fade and oxidation are why "freshness culture" dominates the IPA world, why
 breweries print packaging dates and why drinkers chase recent releases. They also
 underpin several entries in [[Off-Flavors in IPA]].
 
 ## Continue Reading
 
-- [[IPA Freshness and Shelf Life]] — the drinker's perspective
-- [[Off-Flavors in IPA]] — oxidation among the faults
-- [[Hop Haze and Colloidal Stability]] — why hazy beer is fragile
-- [[Carbonation and Packaging]] — controlling oxygen pickup
+- [[IPA Freshness and Shelf Life]]: the drinker's perspective
+- [[Off-Flavors in IPA]]: oxidation among the faults
+- [[Hop Haze and Colloidal Stability]]: why hazy beer is fragile
+- [[Carbonation and Packaging]]: controlling oxygen pickup

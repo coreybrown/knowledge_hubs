@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-diagrams.py — hand-crafted SVG illustrations and infographics
+diagrams.py: hand-crafted SVG illustrations and infographics
 for the IPA Knowledge Base site.
 
 Exports:
@@ -64,7 +64,7 @@ def _wrap(inner, color):
     )
 
 
-# 1. Introduction — pint glass with foam
+# 1. Introduction: pint glass with foam
 _INTRO = '''
 <ellipse cx="140" cy="166" rx="76" ry="7" fill="var(--il-ink)" opacity=".18"/>
 <path d="M96 48 L188 48 L181 158 L103 158 Z" fill="var(--il-glass)"/>
@@ -78,7 +78,7 @@ _INTRO = '''
 <path d="M96 48 L188 48 L181 158 L103 158 Z" fill="none" stroke="var(--il-ink)" stroke-width="2.6" stroke-linejoin="round"/>
 '''
 
-# 2. History — clipper ship + sun
+# 2. History: clipper ship + sun
 _HISTORY = '''
 <circle cx="200" cy="74" r="22" fill="currentColor" opacity=".5"/>
 <circle cx="200" cy="74" r="22" fill="none" stroke="var(--il-ink)" stroke-width="2.2"/>
@@ -100,7 +100,7 @@ _HISTORY = '''
   stroke="var(--il-ink)" stroke-width="2.2" stroke-linecap="round" opacity=".5"/>
 '''
 
-# 3. Styles — three taster glasses
+# 3. Styles: three taster glasses
 def _taster(x, fill):
     return (
         f'<path d="M{x-18} 70 L{x+18} 70 L{x+12} 138 L{x-12} 138 Z" fill="var(--il-glass)"/>'
@@ -115,7 +115,7 @@ _STYLES = (
     _taster(202, "#6B3000")
 )
 
-# 4. Ingredients — hop cone
+# 4. Ingredients: hop cone
 _INGREDIENTS = '''
 <path d="M140 40 q-2 6 -2 12" fill="none" stroke="var(--il-ink)" stroke-width="2.4" stroke-linecap="round"/>
 <path d="M125 50 q5 -2 14 2" fill="none" stroke="var(--il-ink)" stroke-width="2.4" stroke-linecap="round"/>
@@ -135,7 +135,7 @@ _INGREDIENTS = '''
 <path d="M106 70 q-14 -10 -22 4 q12 6 22 -4" fill="var(--il-paper)" stroke="var(--il-ink)" stroke-width="2.2" stroke-linejoin="round"/>
 '''
 
-# 5. Brewing — kettle with steam
+# 5. Brewing: kettle with steam
 _BREWING = '''
 <g fill="none" stroke="var(--il-ink)" stroke-width="2.4" stroke-linecap="round" opacity=".75">
   <path d="M118 38 q6 -8 0 -16"/>
@@ -152,7 +152,7 @@ _BREWING = '''
 <rect x="106" y="92" width="20" height="6" rx="2" fill="var(--il-paper)" opacity=".7"/>
 '''
 
-# 6. Science — flask with molecule
+# 6. Science: flask with molecule
 _SCIENCE = '''
 <g stroke="var(--il-ink)" stroke-width="2.2" stroke-linecap="round" fill="none">
   <line x1="86" y1="42" x2="118" y2="58"/>
@@ -174,7 +174,7 @@ _SCIENCE = '''
 <circle cx="156" cy="142" r="2" fill="var(--il-foam)" opacity=".8"/>
 '''
 
-# 7. Drinking — two tulip glasses clinking
+# 7. Drinking: two tulip glasses clinking
 def _tulip(cx, lean):
     return (
         f'<g transform="translate({cx} 90) rotate({lean})">'
@@ -195,7 +195,7 @@ _DRINKING = (
     '<circle cx="128" cy="68" r="2"/><circle cx="152" cy="68" r="2"/></g>'
 )
 
-# 8. Best — medal with ribbon
+# 8. Best: medal with ribbon
 _BEST = '''
 <path d="M104 36 L122 36 L138 80 L120 80 Z" fill="currentColor" opacity=".85"/>
 <path d="M104 36 L122 36 L138 80 L120 80 Z" fill="none" stroke="var(--il-ink)" stroke-width="2.4" stroke-linejoin="round"/>
@@ -208,7 +208,7 @@ _BEST = '''
   fill="var(--il-foam)" stroke="var(--il-ink)" stroke-width="2" stroke-linejoin="round"/>
 '''
 
-# 9. Industry — three fermentation tanks
+# 9. Industry: three fermentation tanks
 def _tank(x, color="currentColor"):
     return (
         f'<rect x="{x-18}" y="46" width="36" height="74" rx="8" fill="{color}"/>'
@@ -224,7 +224,7 @@ _INDUSTRY = (
     '<line x1="60" y1="156" x2="220" y2="156" stroke="var(--il-ink)" stroke-width="2.4" stroke-linecap="round"/>'
 )
 
-# 10. Reference — stack of books
+# 10. Reference: stack of books
 _REFERENCE = '''
 <rect x="64" y="120" width="156" height="22" rx="2" fill="currentColor"/>
 <rect x="64" y="120" width="156" height="22" rx="2" fill="none" stroke="var(--il-ink)" stroke-width="2.4"/>
@@ -356,7 +356,7 @@ def _ft_node(x, y, w, label, slug, sub=False, root=False):
     rect = f'<rect x="{rx}" y="{y-h/2}" width="{w}" height="{h}" rx="11" class="ft-rect"/>'
     text = f'<text x="{x}" y="{y+1}" class="ft-label">{label}</text>'
     if slug is None:
-        # category node with no page of its own — render unlinked
+        # category node with no page of its own, render unlinked
         return f'<g class="{cls} ft-static">{rect}{text}</g>'
     return f'<a href="{slug}.html" class="{cls}">{rect}{text}</a>'
 
@@ -365,7 +365,7 @@ FAMILY_TREE_SVG = (
     '<figure class="diagram diagram-tree">'
     '<svg viewBox="0 0 960 380" class="ftree" '
     'xmlns="http://www.w3.org/2000/svg" role="img" '
-    'aria-label="The coffee brew-method family tree — percolation, hybrid, '
+    'aria-label="The coffee brew-method family tree: percolation, hybrid, '
     'and immersion methods and the brewers in each branch">'
     # root -> three branches
     '<path class="ft-line" d="M480 65 L480 90 L180 90 L180 115"/>'
@@ -378,7 +378,7 @@ FAMILY_TREE_SVG = (
     '<path class="ft-line" d="M180 200 L180 290"/>'
     '<path class="ft-line" d="M180 290 L110 290 L110 307"/>'
     '<path class="ft-line" d="M180 290 L250 290 L250 307"/>'
-    # hybrid subtree (two stacked, dashed — straddles the two worlds)
+    # hybrid subtree (two stacked, dashed, straddles the two worlds)
     '<path class="ft-line ft-line-dash" d="M480 161 L480 200 L500 200 L500 227"/>'
     '<path class="ft-line ft-line-dash" d="M480 200 L480 290 L500 290 L500 307"/>'
     # immersion subtree (two stacked off x=780)
@@ -402,14 +402,14 @@ FAMILY_TREE_SVG = (
     + _ft_node(820, 250, 150, "French Press", "french-press", sub=True)
     + _ft_node(820, 330, 150, "Clever Dripper", "the-clever-dripper", sub=True)
     + '</svg>'
-    '<figcaption>The pour-over family — percolation, immersion, and the hybrids '
+    '<figcaption>The pour-over family: percolation, immersion, and the hybrids '
     'between. Tap any brewer to explore it.</figcaption>'
     '</figure>'
 )
 
 
 # ================================================================
-# BREWING PROCESS FLOW  — Grain to Glass (9 steps)
+# BREWING PROCESS FLOW: Grain to Glass (9 steps)
 # Boustrophedon layout: hot side row 1 L→R, cold side row 2 R→L.
 # ================================================================
 
@@ -479,7 +479,7 @@ def brewing_flow():
     return (
         '<figure class="diagram diagram-flow">'
         '<svg viewBox="0 0 860 440" class="bpflow" xmlns="http://www.w3.org/2000/svg" '
-        'role="img" aria-label="The brewing process — nine steps from grain to glass">'
+        'role="img" aria-label="The brewing process: nine steps from grain to glass">'
         # band labels
         '<rect x="20" y="40" width="820" height="32" rx="8" class="bp-band bp-band-hot"/>'
         '<text x="430" y="60" class="bp-band-label">HOT SIDE · BREW DAY · ~5 HOURS</text>'
@@ -492,7 +492,7 @@ def brewing_flow():
         )
         # transition: right end of row 1 (step5 at x=770,y=130) down to row2 step6 (x=770,y=330)
         + '<path d="M770 168 q0 22 0 35 q0 30 0 60 q0 22 0 35" class="bp-conn bp-conn-curve"/>'
-        # connectors row 2 (right to left between nodes — step6→7→8→9)
+        # connectors row 2 (right to left between nodes: step6→7→8→9)
         + ''.join(
             f'<line x1="{xs_cold[i]-38}" y1="330" x2="{xs_cold[i+1]+38}" y2="330" class="bp-conn"/>'
             for i in range(3)
@@ -501,7 +501,7 @@ def brewing_flow():
         + '<g transform="translate(260 330)"><polygon points="-44,-6 -38,0 -44,6" class="bp-arrow"/></g>'
         + ''.join(nodes)
         + '</svg>'
-        '<figcaption>Grain to glass — the nine-step brewing sequence. '
+        '<figcaption>Grain to glass: the nine-step brewing sequence. '
         'Hot side wins or loses extraction; cold side wins or loses aroma. '
         'Tap any step to dive in.</figcaption>'
         '</figure>'
@@ -509,13 +509,13 @@ def brewing_flow():
 
 
 # ================================================================
-# HOP ADDITIONS & TIMING — five-window infographic
+# HOP ADDITIONS & TIMING: five-window infographic
 # ================================================================
 
 def hop_timing():
     # 5 zones x positions (band 80→820), each ~148 wide
     zones = [
-        ("Bittering", "the-boil",                 "60 min · 100°C", "High",      "—",         5),
+        ("Bittering", "the-boil",                 "60 min · 100°C", "High",      "·",         5),
         ("Flavor",    "bittering-flavor-and-aroma-hops", "10–20 min · 100°C", "Moderate",   "Some",      3.5),
         ("Whirlpool", "whirlpool-and-hop-stand",  "Flameout · 60–80°C", "Low",        "High",      2.2),
         ("Active dry hop", "dry-hopping",         "Fermentation · 18–22°C", "Negligible", "Very high", 1.2),
@@ -613,7 +613,7 @@ _TIMELINE = [
         "hodgson-and-the-east-india-trade"),
     (0, "Early 1800s", "The 'India Pale Ale' descriptor enters use",
         "ipa-in-the-british-empire"),
-    (0, "1820s",   "Bass & Allsopp adopt the export trade — Burton character defined",
+    (0, "1820s",   "Bass & Allsopp adopt the export trade; Burton character defined",
         "burton-on-trent-and-burton-pale-ale"),
     (0, "Mid-1800s","IPA peaks across the British Empire and reaches America",
         "ipa-in-early-america"),
@@ -621,25 +621,25 @@ _TIMELINE = [
         "decline-of-ipa-in-britain"),
     (1, "1971",    "CAMRA forms in Britain, reviving traditional cask ale",
         "decline-of-ipa-in-britain"),
-    (1, "1975",    "Anchor's Liberty Ale — widely held as the first modern American IPA",
+    (1, "1975",    "Anchor's Liberty Ale, widely held as the first modern American IPA",
         "anchor-liberty-ale-and-the-first-modern-ipa"),
     (1, "1980s",   "U.S. craft beer takes off; microbreweries embrace American hops",
         "the-american-craft-beer-revolution"),
     (1, "Late 80s–90s", "The bold, bitter West Coast IPA takes shape",
         "rise-of-the-west-coast-ipa"),
-    (1, "1994",    "Russian River's Pliny the Elder — the archetypal Double IPA",
+    (1, "1994",    "Russian River's Pliny the Elder, the archetypal Double IPA",
         "origins-of-the-double-ipa"),
     (2, "2004",    "Heady Topper popularises the unfiltered hazy idea in Vermont",
         "the-new-england-ipa-emergence"),
-    (2, "Early 2010s","The hazy/NEIPA emerges as a defined style — soft, juicy",
+    (2, "Early 2010s","The hazy/NEIPA emerges as a defined style: soft, juicy",
         "the-new-england-ipa-emergence"),
-    (2, "Mid–late 2010s","Substyle explosion — Brut, Milkshake, Cold, Brett, Sour",
+    (2, "Mid–late 2010s","Substyle explosion: Brut, Milkshake, Cold, Brett, Sour",
         "modern-ipa-diversification"),
-    (2, "~2018",   "Cold IPA — lager yeast and a crisp hop showcase",
+    (2, "~2018",   "Cold IPA: lager yeast and a crisp hop showcase",
         "cold-ipa"),
     (2, "2020s",   "Thiol-driven biotransformation reshapes hop expression",
         "thiols-and-hop-burst"),
-    (2, "Now",     "IPA remains craft's flagship — still evolving",
+    (2, "Now",     "IPA remains craft's flagship, still evolving",
         "the-future-of-ipa"),
 ]
 _ERAS = [
@@ -678,7 +678,7 @@ def history_timeline():
     return (
         '<figure class="diagram diagram-timeline">'
         '<div class="htimeline">' + ''.join(rows) + '</div>'
-        '<figcaption>Three centuries in a column — every dot links to the '
+        '<figcaption>Three centuries in a column: every dot links to the '
         'detailed note for that milestone.</figcaption>'
         '</figure>'
     )
@@ -720,7 +720,7 @@ def flavor_wheel():
     parts = [
         '<figure class="diagram diagram-wheel">',
         '<svg viewBox="0 0 520 520" class="fwheel" xmlns="http://www.w3.org/2000/svg" '
-        'role="img" aria-label="Beer flavor wheel — five classes, twenty descriptors">',
+        'role="img" aria-label="Beer flavor wheel: five classes, twenty descriptors">',
     ]
     for i, (label, color, descs, slug) in enumerate(_FLAVOR_CLASSES):
         a0 = i * sector
@@ -760,7 +760,7 @@ def flavor_wheel():
     parts.append(f'<text x="{cx}" y="{cy+14}" class="fw-hub-sub">WHEEL</text>')
     parts.append('</svg>')
     parts.append(
-        '<figcaption>From general to specific — start at the centre, '
+        '<figcaption>From general to specific: start at the centre, '
         'narrow outward, land on a precise descriptor.</figcaption>'
         '</figure>'
     )
@@ -768,7 +768,7 @@ def flavor_wheel():
 
 
 # ================================================================
-# STYLE COMPARISON MAP — 2D scatter (clarity × strength)
+# STYLE COMPARISON MAP: 2D scatter (clarity × strength)
 # ================================================================
 
 _MAP_STYLES = [
@@ -857,7 +857,7 @@ def style_map():
 
 
 # ================================================================
-# VITAL SIGNS — data-driven style stat panel
+# VITAL SIGNS: data-driven style stat panel
 # Parses the kv table inside a "Quick stats" callout.
 # ================================================================
 
@@ -881,7 +881,7 @@ def _haze_level(text):
     if "hazy" in t:                                    return ("Hazy", 3)
     if "varies" in t:                                  return ("Varies", 2)
     if "clear" in t:                                   return ("Clear", 1)
-    return (text.strip().title() or "—", 1)
+    return (text.strip().title() or "·", 1)
 
 
 def _gauge(label, lo, hi, scale_max, suffix=""):
@@ -889,7 +889,7 @@ def _gauge(label, lo, hi, scale_max, suffix=""):
         return (f'<div class="vs-gauge vs-gauge-empty">'
                 f'<div class="vs-glabel">{label}</div>'
                 f'<div class="vs-gbody"><div class="vs-gtrack"></div>'
-                f'<div class="vs-gval">—</div></div></div>')
+                f'<div class="vs-gval">·</div></div></div>')
     pct_lo = max(0, min(100, lo / scale_max * 100))
     pct_hi = max(0, min(100, hi / scale_max * 100))
     val = (f"{lo:g}–{hi:g}" if lo != hi else f"{lo:g}") + suffix
@@ -962,7 +962,7 @@ def vital_signs(stats, hops_html, glass_html, name):
         f'<div class="vs-glass-wrap">{_glass_svg(beer_hex, haze_n)}'
         f'<div class="vs-color-label">'
         f'<span class="vs-swatch" style="background:{beer_hex}"></span>'
-        f'<span>{color_text or "—"}</span></div></div>',
+        f'<span>{color_text or "·"}</span></div></div>',
         '<div class="vs-gauges">',
         _gauge("ABV", abv_lo, abv_hi, 14, "%"),
         _gauge("IBU", ibu_lo, ibu_hi, 120, ""),
@@ -973,16 +973,16 @@ def vital_signs(stats, hops_html, glass_html, name):
         '</div></div>',
         '<div class="vs-foot">',
         f'<div class="vs-foot-row"><span class="vs-foot-label">Key hops</span>'
-        f'<span class="vs-foot-val">{hops_html or "—"}</span></div>',
+        f'<span class="vs-foot-val">{hops_html or "·"}</span></div>',
         f'<div class="vs-foot-row"><span class="vs-foot-label">Glassware</span>'
-        f'<span class="vs-foot-val">{glass_html or "—"}</span></div>',
+        f'<span class="vs-foot-val">{glass_html or "·"}</span></div>',
         '</div></aside>',
     ]
     return "".join(parts)
 
 
 # ================================================================
-# Registry — which slug gets which diagram, injected after intro paragraph
+# Registry: which slug gets which diagram, injected after intro paragraph
 # ================================================================
 
 def page_diagrams():

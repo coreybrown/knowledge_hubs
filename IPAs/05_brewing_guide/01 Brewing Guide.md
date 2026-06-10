@@ -6,7 +6,7 @@ domain: Brewing
 
 # Brewing Guide
 
-The **Brewing Guide** is the practical heart of this knowledge base — the domain that turns the chemistry of [[Hops]] and the lessons of [[History of IPAs|history]] into liquid in a glass. Where the [[Ingredients]] domain explains *what* goes into an IPA and the [[Science and Sensory]] domain explains *why* it tastes the way it does, this domain explains *how* to actually make one.
+The **Brewing Guide** is the practical heart of this knowledge base: the domain that turns the chemistry of [[Hops]] and the lessons of [[History of IPAs|history]] into liquid in a glass. Where the [[Ingredients]] domain explains *what* goes into an IPA and the [[Science and Sensory]] domain explains *why* it tastes the way it does, this domain explains *how* to actually make one.
 
 ## The Brew-Day Journey
 
@@ -29,7 +29,7 @@ Brewing an IPA is a sequence of well-understood unit operations. Each step is a 
 
 ## Process and Technique
 
-Start with [[The IPA Brewing Process Overview]] for the full grain-to-glass walkthrough. Then dig into the techniques that define modern IPA: [[Whirlpool and Hop Stand]], [[Double Dry Hopping]], [[Hop Creep and Refermentation]], and [[Clarification and Haze Management]]. Water is its own discipline — see [[Water Treatment for Brewing]] and the underlying [[Water Chemistry and the Sulfate-Chloride Ratio]].
+Start with [[The IPA Brewing Process Overview]] for the full grain-to-glass walkthrough. Then dig into the techniques that define modern IPA: [[Whirlpool and Hop Stand]], [[Double Dry Hopping]], [[Hop Creep and Refermentation]], and [[Clarification and Haze Management]]. Water is its own discipline. See [[Water Treatment for Brewing]] and the underlying [[Water Chemistry and the Sulfate-Chloride Ratio]].
 
 ## Scale
 
@@ -39,9 +39,9 @@ This domain serves two audiences. [[Homebrewing an IPA]] covers the 5-gallon kit
 
 Three full recipes put every principle into practice:
 
-- [[West Coast IPA Recipe]] — crisp, bitter, dry
-- [[New England IPA Recipe]] — soft, hazy, juicy
-- [[Double IPA Recipe]] — big, dangerously drinkable
+- [[West Coast IPA Recipe]]: crisp, bitter, dry
+- [[New England IPA Recipe]]: soft, hazy, juicy
+- [[Double IPA Recipe]]: big, dangerously drinkable
 
 > [!tip] Brewing is iterative
 > No recipe survives first contact with your system. Take notes, measure everything, and change one variable at a time.

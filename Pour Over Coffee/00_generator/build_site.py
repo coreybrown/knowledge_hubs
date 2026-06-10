@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-build_site.py — Static-site generator for the Pour Over Coffee Knowledge Base.
+build_site.py: Static-site generator for the Pour Over Coffee Knowledge Base.
 
 Converts the Obsidian vault (numbered domain folders of Markdown notes) into a
 fully interlinked, design-forward HTML website in ./site.
@@ -24,21 +24,21 @@ ASSETS = SITE / "assets"
 # folder -> (display name, emoji icon, accent color, blurb)
 DOMAINS = [
     ("01_introduction",            "Introduction",        "☕",
-     "#9A6638", "Where pour over begins — what it is, the brew-method family tree, and how to read this base."),
+     "#9A6638", "Where pour over begins: what it is, the brew-method family tree, and how to read this base."),
     ("02_history",                 "History & Origins",   "📜",
      "#8A5E3A", "From Melitta's paper filter and the Chemex to Japan's kissaten and the third-wave V60 boom."),
     ("03_equipment",               "Equipment & Drippers","⚙️",
-     "#5E6B74", "Drippers, kettles, filters, and scales — the V60, Kalita, Chemex, Origami, and immersion cousins."),
+     "#5E6B74", "Drippers, kettles, filters, and scales: the V60, Kalita, Chemex, Origami, and immersion cousins."),
     ("04_coffee_beans",            "Coffee Beans & Roast","🌱",
-     "#6E8438", "Origin, varietals, processing, roast levels, and freshness — the raw material of the cup."),
+     "#6E8438", "Origin, varietals, processing, roast levels, and freshness. The raw material of the cup."),
     ("05_grinding",                "Grinding",            "🔩",
-     "#8E5F22", "Burrs, grind size, and particle distribution — the single most important variable."),
+     "#8E5F22", "Burrs, grind size, and particle distribution, the single most important variable."),
     ("06_water",                   "Water",               "💧",
-     "#356A7E", "Hardness, alkalinity, TDS, and temperature — the 98% of your cup that's easy to ignore."),
+     "#356A7E", "Hardness, alkalinity, TDS, and temperature: the 98% of your cup that's easy to ignore."),
     ("07_brewing_technique",       "Brewing Technique",   "🌀",
-     "#9E5226", "Ratio, bloom, pour patterns, agitation, and drawdown — the levers you control."),
+     "#9E5226", "Ratio, bloom, pour patterns, agitation, and drawdown. The levers you control."),
     ("08_recipes",                 "Recipes & Methods",   "📖",
-     "#A83C24", "Official, competition, community, and SOUP — the low-pressure espresso method — each a precise, repeatable spec."),
+     "#A83C24", "Official, competition, community, and SOUP (the low-pressure espresso method), each a precise, repeatable spec."),
     ("09_science_and_extraction",  "Science & Extraction","🔬",
      "#515E86", "Solubility, extraction yield, TDS, the brewing control chart, and refractometry."),
     ("10_tasting_and_sensory",     "Tasting & Sensory",   "👅",
@@ -106,7 +106,7 @@ def plain_text(body):
 
 
 # --------------------------------------------------------------------------
-# pass 1 — collect every note
+# pass 1: collect every note
 # --------------------------------------------------------------------------
 def collect_pages():
     pages = []        # ordered, book order
@@ -157,7 +157,7 @@ def collect_pages():
             }
             pages.append(page)
 
-    # build link resolution map — aliases first, canonical/title last (win)
+    # build link resolution map: aliases first, canonical/title last (win)
     for p in pages:
         for a in p["aliases"]:
             linkmap.setdefault(a.lower(), p)
@@ -469,7 +469,7 @@ PAGE_DIAGRAMS = DG.page_diagrams()
 # --------------------------------------------------------------------------
 # HTML chrome
 # --------------------------------------------------------------------------
-# Hop cone — a layered brewing hop flower, drawn inline so it inherits the
+# Hop cone: a layered brewing hop flower, drawn inline so it inherits the
 # accent color (currentColor) and theme like the previous mark.
 LOGO_SVG = (
     '<svg viewBox="0 0 32 32" class="logo-mark" aria-hidden="true">'
@@ -546,7 +546,7 @@ def sidebar(pages, active_slug):
             if p is moc:
                 cls += " nav-moc"
             elif p.get("is_recipe"):
-                cls += " nav-sub"          # recipe leaf — nest under its hub
+                cls += " nav-sub"          # recipe leaf, nest under its hub
             elif i + 1 < len(notes) and notes[i + 1].get("is_recipe"):
                 cls += " nav-parent"       # category hub for the recipes below
             parts.append(
@@ -737,7 +737,7 @@ def render_home(pages, linkmap):
             continue
         moc = notes[0]
         illus = DG.domain_illustration(folder, color)
-        # Introduction's MOC is the home page itself — link the card to the
+        # Introduction's MOC is the home page itself, so link the card to the
         # next intro note instead so users move forward, not in a circle.
         target = notes[1] if moc["slug"] == "index" and len(notes) > 1 else moc
         cards.append(
@@ -759,8 +759,8 @@ def render_home(pages, linkmap):
         "[[Water for Coffee|water]] is poured over [[Grinding|ground coffee]] in a "
         "filter-lined [[The Dripper Explained|dripper]], and gravity draws a clean, "
         "articulate cup through into the vessel below. Because the brewer controls every "
-        "variable — [[The Brew Ratio|ratio]], [[Grind Size for Pour Over|grind]], "
-        "[[Water Temperature for Brewing|temperature]], and [[Pouring Technique|pour]] — "
+        "variable ([[The Brew Ratio|ratio]], [[Grind Size for Pour Over|grind]], "
+        "[[Water Temperature for Brewing|temperature]], and [[Pouring Technique|pour]]), "
         "the same coffee can taste like a dozen different drinks. From the [[Hario V60]] "
         "to the [[Chemex]], and from a simple [[The Standard V60 Recipe|first brew]] to a "
         "[[Tetsu Kasuya 4:6 Method|championship routine]], pour over is at once the "
@@ -806,7 +806,7 @@ def render_home(pages, linkmap):
         'a competition barista.</p>'
         '<div class="hero-actions">'
         '<a class="btn btn-primary" href="what-is-pour-over-coffee.html">'
-        'Start here — What is pour over?</a>'
+        'Start here: What is pour over?</a>'
         '<a class="btn btn-ghost" href="recipes-and-methods.html">Browse the recipes</a>'
         '</div>'
         '<div class="hero-stats">'
@@ -822,11 +822,11 @@ def render_home(pages, linkmap):
         '<div class="sec-head"><span class="sec-kicker">The map</span>'
         '<h2>Explore the twelve domains</h2>'
         '<p>Each domain is a guided path. Follow it front-to-back like a book, '
-        'or dive straight to what you need — every note links onward.</p></div>'
+        'or dive straight to what you need. Every note links onward.</p></div>'
         f'<div class="dcard-grid">{"".join(cards)}</div></section>'
         '<section class="home-sec home-sec-tint">'
         '<div class="sec-head"><span class="sec-kicker">In one paragraph</span>'
-        '<h2>So — what is pour over?</h2></div>'
+        '<h2>So, what is pour over?</h2></div>'
         f'<p class="lede">{para}</p></section>'
         '<section class="home-sec">'
         '<div class="sec-head"><span class="sec-kicker">Choose your path</span>'
@@ -841,7 +841,7 @@ def footer():
     return (
         '<footer class="site-footer">'
         '<div class="footer-mark">' + LOGO_SVG + '<b>Pour Over Knowledge Base</b></div>'
-        '<p>A comprehensive, interlinked reference on pour over coffee — '
+        '<p>A comprehensive, interlinked reference on pour over coffee: '
         'history, equipment, beans, grinding, water, technique, recipes, and science.</p>'
         '<p class="footer-fine">Generated from an Obsidian vault · '
         '<a href="index.html">Return home</a></p></footer>')
@@ -874,7 +874,7 @@ def write_ask_corpus(pages):
 
     One entry per note, split into H2 sections so the backend can pull
     section-level snippets rather than whole notes. Navigation-only sections
-    are dropped. Public content only — no secrets. Served at
+    are dropped. Public content only, no secrets. Served at
     assets/ask-corpus.json and read server-side by /api/ask."""
     skip = {"continue reading"}
     corpus = []

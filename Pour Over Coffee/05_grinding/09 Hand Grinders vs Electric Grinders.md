@@ -6,7 +6,7 @@ domain: Grinding
 
 # 🤚 Hand Grinders vs Electric Grinders
 
-Once you've chosen a [[Burr Grinders vs Blade Grinders|burr grinder]] and thought about [[Conical vs Flat Burrs|burr geometry]], one practical question remains: do you turn it by hand or plug it in? Both **hand (manual)** and **electric** grinders can deliver excellent, uniform pour-over grinds. The choice is mostly about budget, convenience, volume, and how much you enjoy the ritual — not about whether good coffee is possible.
+Once you've chosen a [[Burr Grinders vs Blade Grinders|burr grinder]] and thought about [[Conical vs Flat Burrs|burr geometry]], one practical question remains: do you turn it by hand or plug it in? Both **hand (manual)** and **electric** grinders can deliver excellent, uniform pour-over grinds. The choice is mostly about budget, convenience, volume, and how much you enjoy the ritual, not about whether good coffee is possible.
 
 ## The Core Trade-Off ⚖️
 
@@ -32,20 +32,20 @@ A **hand grinder** uses a crank and your arm; an **electric grinder** uses a mot
 
 ## A Brand-Neutral Map of the Market 🗺️
 
-Rather than name a single "best," it helps to think in tiers — and you can dig into makers in [[Coffee Gear Brands]].
+Rather than name a single "best," it helps to think in tiers. You can dig into makers in [[Coffee Gear Brands]].
 
-- **Entry hand grinders** — affordable stainless conical burrs; a huge upgrade over any blade grinder.
-- **Enthusiast hand grinders** — precision-machined burrs and adjustments that rival mid electrics for filter.
-- **Entry / mid electrics** — convenient flat or conical burrs aimed at home filter brewing.
-- **High-end / prosumer electrics** — large flat burrs, single-dosing, and tight [[Particle Distribution and Uniformity\|distributions]] for those chasing maximum [[How to Taste Coffee\|cup clarity]].
+- **Entry hand grinders**: affordable stainless conical burrs; a huge upgrade over any blade grinder.
+- **Enthusiast hand grinders**: precision-machined burrs and adjustments that rival mid electrics for filter.
+- **Entry / mid electrics**: convenient flat or conical burrs aimed at home filter brewing.
+- **High-end / prosumer electrics**: large flat burrs, single-dosing, and tight [[Particle Distribution and Uniformity\|distributions]] for those chasing maximum [[How to Taste Coffee\|cup clarity]].
 
 > [!warning] Don't confuse motor for quality
-> An expensive electric grinder is not automatically better than a cheaper hand grinder — **burr quality and alignment** decide the grind, not whether a motor spins it. Many cheap electrics ship with mediocre burrs; judge the burrs, not the badge.
+> An expensive electric grinder is not automatically better than a cheaper hand grinder: **burr quality and alignment** decide the grind, not whether a motor spins it. Many cheap electrics ship with mediocre burrs; judge the burrs, not the badge.
 
 ## Continue Reading
 
-- [[Burr Grinders vs Blade Grinders]] — the upstream decision
-- [[Conical vs Flat Burrs]] — geometry within each type
-- [[Coffee Gear Brands]] — the makers behind the grinders
-- [[Single Cup vs Batch Pour Over]] — how volume drives the choice
-- [[Particle Distribution and Uniformity]] — the quality that actually matters
+- [[Burr Grinders vs Blade Grinders]]: the upstream decision
+- [[Conical vs Flat Burrs]]: geometry within each type
+- [[Coffee Gear Brands]]: the makers behind the grinders
+- [[Single Cup vs Batch Pour Over]]: how volume drives the choice
+- [[Particle Distribution and Uniformity]]: the quality that actually matters

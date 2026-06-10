@@ -19,7 +19,7 @@ domain when you know *what* you want but not *where* it lives.
 
 | Note | What it does |
 |---|---|
-| [[Glossary of IPA Terms]] | Alphabetized definitions of 40+ brewing and IPA terms — ABV, IBU, alpha acid, biotransformation, dry hop, hop creep, thiol, whirlpool, and more. |
+| [[Glossary of IPA Terms]] | Alphabetized definitions of 40+ brewing and IPA terms: ABV, IBU, alpha acid, biotransformation, dry hop, hop creep, thiol, whirlpool, and more. |
 | [[Master Index]] | A complete map of every note in the vault, organized by all ten domains. The single best starting point for navigation. |
 | [[Style Index]] | A focused index of every IPA style, each with a one-line descriptor. |
 | [[Timeline of IPA History]] | A chronological table of key milestones from 1700s pale ale to the modern era. |
@@ -39,12 +39,12 @@ domain when you know *what* you want but not *where* it lives.
 
 The reference notes are deliberately link-dense. Almost every term and figure points
 back into a narrative note that explains it in full. Treat this domain as the index
-at the back of a book — concise here, expansive elsewhere.
+at the back of a book: concise here, expansive elsewhere.
 
 ## Continue Reading
 
-- [[Master Index]] — every note in the vault
-- [[Glossary of IPA Terms]] — the vocabulary of IPA
-- [[How to Use This Knowledge Base]] — orientation for new readers
-- [[Frequently Asked Questions]] — common questions answered
-- [[Style Index]] — the IPA style map
+- [[Master Index]]: every note in the vault
+- [[Glossary of IPA Terms]]: the vocabulary of IPA
+- [[How to Use This Knowledge Base]] for orientation as a new reader
+- [[Frequently Asked Questions]]: common questions answered
+- [[Style Index]]: the IPA style map

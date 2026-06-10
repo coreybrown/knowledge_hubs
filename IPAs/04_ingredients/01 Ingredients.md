@@ -12,7 +12,7 @@ Every [[What Is an IPA|IPA]] is built from just four raw materials: **water, mal
 
 | Pillar | Primary contribution | Why it matters to IPA |
 |--------|---------------------|------------------------|
-| [[Hops]] | Bitterness, flavor, aroma, preservation | The defining ingredient — the reason an IPA is an IPA |
+| [[Hops]] | Bitterness, flavor, aroma, preservation | The defining ingredient and the reason an IPA is an IPA |
 | [[Malt]] | Fermentable sugar, body, color, backbone | Supplies the canvas; usually pale and restrained |
 | [[Yeast]] | Alcohol, CO2, esters, [[Biotransformation]] | Sets ester profile and attenuation; can amplify hops |
 | [[Water]] | Solvent, mineral seasoning | Mineral balance steers bitterness perception |
@@ -22,7 +22,7 @@ Every [[What Is an IPA|IPA]] is built from just four raw materials: **water, mal
 
 ## The Hop Universe
 
-Because hops are the heart of the style, this domain devotes most of its notes to them. Start with the botany and biochemistry — [[Hops]], [[Hop Chemistry]], [[Alpha Acids and Bitterness]], and [[Hop Oils and Terpenes]] — then move to where hops come from in [[Hop Terroir]] and [[Hop Growing Regions]]. The practical formats a brewer actually buys are covered in [[Hop Products and Formats]] and [[Cryo Hops and Lupulin Powder]].
+Because hops are the heart of the style, this domain devotes most of its notes to them. Start with the botany and biochemistry ([[Hops]], [[Hop Chemistry]], [[Alpha Acids and Bitterness]], and [[Hop Oils and Terpenes]]), then move to where hops come from in [[Hop Terroir]] and [[Hop Growing Regions]]. The practical formats a brewer actually buys are covered in [[Hop Products and Formats]] and [[Cryo Hops and Lupulin Powder]].
 
 Individual varieties each get a dedicated profile: [[Citra]], [[Mosaic]], [[Cascade]], [[Centennial]], [[Simcoe]], [[Amarillo]], [[Galaxy]], [[Nelson Sauvin]], [[Sabro]], and [[Strata]], with traditional European hops gathered in [[Noble and English Hops]]. The [[Hop Variety Index]] ties them together in one reference table.
 
@@ -35,7 +35,7 @@ The non-hop pillars are no less important. [[Base Malts]] provide the bulk of th
 
 ## Continue Reading
 
-- [[Hops]] — the defining ingredient
-- [[Malt]] — the fermentable backbone
-- [[Yeast]] — the engine of fermentation
-- [[Recipe Formulation]] — assembling the pillars into a beer
+- [[Hops]]: the defining ingredient
+- [[Malt]]: the fermentable backbone
+- [[Yeast]]: the engine of fermentation
+- [[Recipe Formulation]]: assembling the pillars into a beer

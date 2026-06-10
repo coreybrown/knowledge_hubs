@@ -7,7 +7,7 @@ domain: Best IPAs
 # Best IPAs by Region - Rest of World
 
 The IPA is now a genuinely global style. Beyond the United States and Europe, vibrant
-scenes have grown across the Southern Hemisphere and Asia — some of them now shaping
+scenes have grown across the Southern Hemisphere and Asia, some of them now shaping
 world flavor trends rather than just following them. This note maps those regions.
 
 > [!note] Hops, not just beer, travel
@@ -29,7 +29,7 @@ world flavor trends rather than just following them. This note maps those region
 ## Reading the map
 
 **Australia and New Zealand** are the heavyweights here. New Zealand's unique hop
-varieties — [[Nelson Sauvin]] foremost — give NZ IPAs an unmistakable white-wine and
+varieties, [[Nelson Sauvin]] foremost, give NZ IPAs an unmistakable white-wine and
 gooseberry character, while Australia's [[Galaxy]] is one of the most prized aroma hops
 on earth. Both feature in [[Hop Terroir]] and [[Hop Growing Regions]]. **Canada** has a
 mature, US-influenced scene split by region. **Latin America** and **Asia** are the
@@ -39,16 +39,16 @@ ongoing [[Globalization of IPA]].
 > [!tip] Southern Hemisphere hops, Northern Hemisphere harvest
 > Australia and New Zealand harvest hops in *March–April*, the opposite of the Northern
 > Hemisphere autumn. For Northern drinkers, an IPA built on fresh Southern hops can
-> arrive at a different point in the freshness cycle — see [[IPA Freshness and Shelf Life]].
+> arrive at a different point in the freshness cycle. See [[IPA Freshness and Shelf Life]].
 
 > [!example] From importer to trendsetter
 > New Zealand and Australia began as places that *imported* the American IPA. Through
-> their hops, they now *export* flavor trends back to the rest of the world — a clear
+> their hops, they now *export* flavor trends back to the rest of the world, a clear
 > sign of [[Modern IPA Diversification]].
 
 ## Continue Reading
 
-- [[Globalization of IPA]] — how the style went worldwide
-- [[Hop Terroir]] — why Southern Hemisphere hops taste unique
-- [[Nelson Sauvin]] — New Zealand's signature hop
-- [[Best IPAs by Region - Europe]] — the European picture
+- [[Globalization of IPA]]: how the style went worldwide
+- [[Hop Terroir]]: why Southern Hemisphere hops taste unique
+- [[Nelson Sauvin]]: New Zealand's signature hop
+- [[Best IPAs by Region - Europe]]: the European picture

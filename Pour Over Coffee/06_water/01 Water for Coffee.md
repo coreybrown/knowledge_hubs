@@ -6,7 +6,7 @@ domain: Water
 
 # 💧 Water for Coffee
 
-A finished cup of pour over is roughly **98–99% water** by mass — the coffee solubles you worked so hard to extract make up barely one or two percent of what reaches your lips. That arithmetic alone explains why water is the most underrated ingredient in brewing: the liquid you pour through the bed is not a neutral solvent but an active reagent whose mineral content, buffering, and temperature shape every flavor you taste. This domain is the home for everything about that water — its chemistry, its measurement, the standards that define "good," and how to build or choose it.
+A finished cup of pour over is roughly **98–99% water** by mass. The coffee solubles you worked so hard to extract make up barely one or two percent of what reaches your lips. That arithmetic alone explains why water is the most underrated ingredient in brewing: the liquid you pour through the bed is not a neutral solvent but an active reagent whose mineral content, buffering, and temperature shape every flavor you taste. This domain is the home for everything about that water: its chemistry, its measurement, the standards that define "good," and how to build or choose it.
 
 ## Why This Domain Matters 🧪
 
@@ -20,11 +20,11 @@ You can buy a world-class grinder, a [[Hario V60]], and a single-origin from the
 | Topic | Note |
 |---|---|
 | The overlooked variable | [[Why Water Matters]] |
-| GH vs KH | [[Water Chemistry — Hardness and Alkalinity]] |
+| GH vs KH | [[Water Hardness and Alkalinity]] |
 | Minerals in the water | [[TDS and Mineral Content]] |
 | The official target | [[The SCA Water Standard]] |
 | Heat and the brew window | [[Water Temperature for Brewing]] |
-| Make your own water | [[Building Water — Recipes and Remineralization]] |
+| Make your own water | [[Building Brew Water]] |
 | Everyday sources | [[Filtered, Bottled, and Tap Water]] |
 
 ## How Water Connects Outward 🔗
@@ -33,8 +33,8 @@ Water never works alone. Its temperature is one of the strongest levers over [[T
 
 ## Continue Reading
 
-- [[Why Water Matters]] — why 98% of the cup deserves more than 0% of your attention
-- [[Water Chemistry — Hardness and Alkalinity]] — the GH/KH distinction that explains most water behavior
-- [[The SCA Water Standard]] — the recommended target ranges and their limits
-- [[Building Water — Recipes and Remineralization]] — make repeatable water from scratch
-- [[Home]] — back to the top of the knowledge base
+- [[Why Water Matters]]: why 98% of the cup deserves more than 0% of your attention
+- [[Water Hardness and Alkalinity]]: the GH/KH distinction that explains most water behavior
+- [[The SCA Water Standard]]: the recommended target ranges and their limits
+- [[Building Brew Water]]: make repeatable water from scratch
+- [[Home]]: back to the top of the knowledge base

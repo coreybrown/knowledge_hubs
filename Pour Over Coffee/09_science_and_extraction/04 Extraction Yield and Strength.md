@@ -6,7 +6,7 @@ domain: Science & Extraction
 
 # 📊 Extraction Yield and Strength
 
-Two numbers describe almost everything about a brew, and the key insight is that **they are independent**. **Extraction yield (EY%)** is *how much* of the coffee dissolved. **Strength (TDS)** is *how concentrated* the resulting liquid is. You can have a strong cup that is under-extracted, or a weak cup that is over-extracted — they are separate axes, and confusing them is the most common conceptual mistake in brewing. 🧭
+Two numbers describe almost everything about a brew, and the key insight is that **they are independent**. **Extraction yield (EY%)** is *how much* of the coffee dissolved. **Strength (TDS)** is *how concentrated* the resulting liquid is. You can have a strong cup that is under-extracted, or a weak cup that is over-extracted. They are separate axes, and confusing them is the most common conceptual mistake in brewing. 🧭
 
 ## Extraction Yield (EY%)
 
@@ -21,7 +21,7 @@ Extraction yield is the percentage of the **dry coffee's mass** that ended up di
 
 ## Strength / TDS
 
-**Strength** is measured as [[Total Dissolved Solids (TDS)|Total Dissolved Solids]] — the percentage of the *brewed liquid* that is dissolved coffee, typically **1.15–1.45%** for pour over. Higher TDS tastes more intense and syrupy; lower TDS tastes more delicate and tea-like. Strength is set mainly by the [[The Brew Ratio|brew ratio]] (water per gram of coffee), while extraction yield is set mainly by grind, time, and temperature.
+**Strength** is measured as [[Total Dissolved Solids (TDS)|Total Dissolved Solids]], the percentage of the *brewed liquid* that is dissolved coffee, typically **1.15–1.45%** for pour over. Higher TDS tastes more intense and syrupy; lower TDS tastes more delicate and tea-like. Strength is set mainly by the [[The Brew Ratio|brew ratio]] (water per gram of coffee), while extraction yield is set mainly by grind, time, and temperature.
 
 ## The Relationship 🔗
 
@@ -38,12 +38,12 @@ These three quantities are linked by a simple formula:
 | Hotter water | ↑ | ↑ |
 | Longer brew time | ↑ | ↑ |
 
-The two axes plotted together create the famous map of brewing space — the [[The Coffee Brewing Control Chart|Coffee Brewing Control Chart]].
+The two axes plotted together create the famous map of brewing space: the [[The Coffee Brewing Control Chart|Coffee Brewing Control Chart]].
 
 ## Continue Reading
 
-- [[Total Dissolved Solids (TDS)]] — the strength axis in detail
-- [[The Coffee Brewing Control Chart]] — EY and TDS plotted together
-- [[Refractometers and Measuring Extraction]] — how to measure both
-- [[The Brew Ratio]] — the main lever for strength
-- [[Under-Extraction and Over-Extraction]] — what the EY bands taste like
+- [[Total Dissolved Solids (TDS)]]: the strength axis in detail
+- [[The Coffee Brewing Control Chart]]: EY and TDS plotted together
+- [[Refractometers and Measuring Extraction]]: how to measure both
+- [[The Brew Ratio]]: the main lever for strength
+- [[Under-Extraction and Over-Extraction]]: what the EY bands taste like

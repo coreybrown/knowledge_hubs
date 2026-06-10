@@ -6,7 +6,7 @@ domain: Reference
 
 # 📚 Recommended Reading and Resources
 
-Where to go when this vault leaves you wanting more. The coffee world is rich with excellent books, channels, and communities; below are the ones most worth a brewer's time, lightly annotated. None of this replaces brewing daily — but good sources shorten the path from curious to competent. For the people and platforms behind much of it, see [[Coffee Online — Communities and Content]] and [[Baristas and Home Brewers]].
+Where to go when this vault leaves you wanting more. The coffee world is rich with excellent books, channels, and communities; below are the ones most worth a brewer's time, lightly annotated. None of this replaces brewing daily, but good sources shorten the path from curious to competent. For the people and platforms behind much of it, see [[Online Coffee Communities and Content]] and [[Baristas and Home Brewers]].
 
 ## 📖 Books
 
@@ -33,7 +33,7 @@ Where to go when this vault leaves you wanting more. The coffee world is rich wi
 
 | Resource | What it offers |
 |---|---|
-| Barista Hustle | Courses and articles on water, extraction, and dial-in → [[Building Water — Recipes and Remineralization]] |
+| Barista Hustle | Courses and articles on water, extraction, and dial-in → [[Building Brew Water]] |
 | Specialty Coffee Association (SCA) | Standards, including the [[The SCA Water Standard|water standard]] and brewing control chart |
 | Coffee Ad Astra | Free, research-driven brewing science blog → [[Particle Distribution and Uniformity]] |
 | Brew control / TDS calculators | Turn a refractometer reading into extraction yield → [[Refractometers and Measuring Extraction]] |
@@ -41,17 +41,17 @@ Where to go when this vault leaves you wanting more. The coffee world is rich wi
 
 ## 🎓 Courses & Certifications
 
-The **SCA Coffee Skills Program** offers structured Brewing and Sensory modules for those who want formal grounding, while **Barista Hustle** runs accessible online courses on water and extraction. Neither is required to brew beautifully — but if you enjoy systematic learning, they pair well with the [[Science and Extraction]] and [[Tasting and Sensory]] domains here.
+The **SCA Coffee Skills Program** offers structured Brewing and Sensory modules for those who want formal grounding, while **Barista Hustle** runs accessible online courses on water and extraction. Neither is required to brew beautifully. But if you enjoy systematic learning, they pair well with the [[Science and Extraction]] and [[Tasting and Sensory]] domains here.
 
 > [!tip] How to use these without overwhelm
-> Pick one book and one channel, then brew alongside them. Theory sticks when you taste it the same day. Loop back to the [[Pour Over Troubleshooting Guide]] whenever a new idea produces a worse cup — the fundamentals here still apply.
+> Pick one book and one channel, then brew alongside them. Theory sticks when you taste it the same day. Loop back to the [[Pour Over Troubleshooting Guide]] whenever a new idea produces a worse cup; the fundamentals here still apply.
 
 > [!note] On chasing the new
-> Coffee content moves fast, and "the best new method" is often last year's method renamed. Anchor on principles — [[Extraction Yield and Strength|extraction]], [[Water Chemistry — Hardness and Alkalinity|water]], [[Grind Size for Pour Over|grind]] — and treat every recipe as a variation on those.
+> Coffee content moves fast, and "the best new method" is often last year's method renamed. Anchor on principles ([[Extraction Yield and Strength|extraction]], [[Water Hardness and Alkalinity|water]], [[Grind Size for Pour Over|grind]]) and treat every recipe as a variation on those.
 
 ## Continue Reading
 
-- [[Coffee Online — Communities and Content]] — forums, creators, and where coffee talks
-- [[The Specialty Coffee Movement]] — the history these sources come from
-- [[Community Recipes]] — recipes from the creators above
-- [[Building Your Palate]] — how to make sensory practice deliberate
+- [[Online Coffee Communities and Content]]: forums, creators, and where coffee talks
+- [[The Specialty Coffee Movement]]: the history these sources come from
+- [[Community Recipes]]: recipes from the creators above
+- [[Building Your Palate]]: how to make sensory practice deliberate

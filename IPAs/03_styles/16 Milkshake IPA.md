@@ -19,7 +19,7 @@ indulgence.
 > | **IBU** | 20–50 (low perceived) |
 > | **Color** | 4–10 SRM, often tinted by fruit |
 > | **Haze** | Heavy, opaque |
-> | **Key hops** | Tropical American — [[Citra]], [[Mosaic]], [[Galaxy]] |
+> | **Key hops** | Tropical American: [[Citra]], [[Mosaic]], [[Galaxy]] |
 > | **Glassware** | Tulip or stemmed glass |
 
 ## Origins
@@ -34,26 +34,26 @@ movement and to the experimentation chronicled in
 | Ingredient | Effect |
 |---|---|
 | **Lactose** | Milk sugar; unfermentable, adds residual sweetness and body |
-| **Fruit purée** | Mango, strawberry, passionfruit — flavor, color, sweetness |
+| **Fruit purée** | Mango, strawberry, passionfruit; brings flavor, color, sweetness |
 | **Vanilla** | A creamy, "milkshake" aromatic |
-| **Wheat / oats** | Extra body and the signature haze — see [[Base Malts]] |
+| **Wheat / oats** | Extra body and the signature haze (see [[Base Malts]]) |
 
 Lactose is the key. Because brewing yeast cannot ferment it, lactose survives
-into the finished beer as sweetness and a fuller mouthfeel — see
+into the finished beer as sweetness and a fuller mouthfeel; see
 [[Fermentation]] and [[The Science of Mouthfeel]].
 
-> [!warning] Sweetness covers flaws — and itself becomes one
+> [!warning] Sweetness covers flaws, and itself becomes one
 > Heavy lactose and fruit can mask oxidation and hop fade, but they also make the
 > beer cloying if overdone and divide drinkers sharply. The style is polarizing
 > by design. See [[Off-Flavors in IPA]].
 
 ## Sensory Profile
 
-- **Appearance** — opaque, often vividly fruit-tinted.
-- **Aroma** — fruit purée, vanilla, soft tropical hops.
-- **Bitterness** — very low, the hops decorative rather than balancing.
-- **Mouthfeel** — thick, creamy, full — the defining "milkshake" texture.
-- **Finish** — sweet and round.
+- **Appearance**: opaque, often vividly fruit-tinted.
+- **Aroma**: fruit purée, vanilla, soft tropical hops.
+- **Bitterness**: very low, the hops decorative rather than balancing.
+- **Mouthfeel**: thick, creamy, full; the defining "milkshake" texture.
+- **Finish**: sweet and round.
 
 ## Place in the Family
 
@@ -64,8 +64,8 @@ hop-bitter origins.
 
 ## Continue Reading
 
-- [[New England IPA]] — the parent style
-- [[Specialty and Experimental IPAs]] — the novelty frontier
-- [[The Science of Mouthfeel]] — why lactose feels creamy
-- [[Sour IPA]] — another fruit-forward offshoot
-- [[Modern IPA Diversification]] — the pastry-beer era
+- [[New England IPA]]: the parent style
+- [[Specialty and Experimental IPAs]]: the novelty frontier
+- [[The Science of Mouthfeel]]: why lactose feels creamy
+- [[Sour IPA]]: another fruit-forward offshoot
+- [[Modern IPA Diversification]]: the pastry-beer era

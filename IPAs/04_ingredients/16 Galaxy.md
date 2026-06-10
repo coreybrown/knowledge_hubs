@@ -22,21 +22,21 @@ domain: Ingredients
 
 ## Character
 
-Galaxy is famous for its **enormous oil content** — among the highest of any commercial hop — translating into a thick, saturated wave of passionfruit and ripe stone fruit. There is little pine or dank here; it is pure tropical fruit, which is why it became a darling of hazy and juice-forward brewing.
+Galaxy is famous for its **enormous oil content** (among the highest of any commercial hop), translating into a thick, saturated wave of passionfruit and ripe stone fruit. There is little pine or dank here; it is pure tropical fruit, which is why it became a darling of hazy and juice-forward brewing.
 
 > [!example] A Southern Hemisphere icon
-> Galaxy is central to Australian brewing and a sought-after import for Northern brewers. Its **March–April harvest** delivers fresh hops mid-year, half a cycle offset from the [[Hop Growing Regions|Yakima]] crop — a [[Hop Terroir|terroir]] advantage built into the calendar.
+> Galaxy is central to Australian brewing and a sought-after import for Northern brewers. Its **March–April harvest** delivers fresh hops mid-year, half a cycle offset from the [[Hop Growing Regions|Yakima]] crop. That is a [[Hop Terroir|terroir]] advantage built into the calendar.
 
 ## Use in IPA
 
-Galaxy is almost always used **late** — [[Whirlpool and Hop Stand|whirlpool]] and [[Dry Hopping|dry hop]] — where its oils can survive. Its intensity means a little goes a long way; it is often the headline hop in a blend rather than a supporting player.
+Galaxy is almost always used **late**, in the [[Whirlpool and Hop Stand|whirlpool]] and [[Dry Hopping|dry hop]], where its oils can survive. Its intensity means a little goes a long way; it is often the headline hop in a blend rather than a supporting player.
 
 > [!warning] Powerful but tricky
-> Galaxy's intensity cuts both ways. Overdosed or poorly handled, it can turn from juicy passionfruit toward a vegetal, "green" or onion-tinged note. It is also a **proprietary** hop with limited acreage — supply is tight and pricing high, as discussed in [[Hop Contracts and the Hop Supply Chain]].
+> Galaxy's intensity cuts both ways. Overdosed or poorly handled, it can turn from juicy passionfruit toward a vegetal, "green" or onion-tinged note. It is also a **proprietary** hop with limited acreage. Supply is tight and pricing high, as discussed in [[Hop Contracts and the Hop Supply Chain]].
 
 ## Continue Reading
 
-- [[Nelson Sauvin]] — the other great Southern Hemisphere hop
-- [[Hop Terroir]] — why the Southern crop matters
-- [[Hop Variety Index]] — Galaxy in context
-- [[New England IPA]] — the style Galaxy supercharged
+- [[Nelson Sauvin]]: the other great Southern Hemisphere hop
+- [[Hop Terroir]]: why the Southern crop matters
+- [[Hop Variety Index]]: Galaxy in context
+- [[New England IPA]]: the style Galaxy supercharged

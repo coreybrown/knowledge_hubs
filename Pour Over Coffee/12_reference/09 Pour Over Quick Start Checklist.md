@@ -6,20 +6,20 @@ domain: Reference
 
 # ✅ Pour Over Quick Start Checklist
 
-Everything you need to brew a genuinely good first cup, in order, with nothing skipped. Print it, tape it to your kettle, and follow it top to bottom. The recipe baked into this checklist is [[The Standard V60 Recipe]] — once it feels routine, branch out using the rest of the vault. New to the whole idea? Read [[What Is Pour Over Coffee]] first.
+Everything you need to brew a genuinely good first cup, in order, with nothing skipped. Print it, tape it to your kettle, and follow it top to bottom. The recipe baked into this checklist is [[The Standard V60 Recipe]]. Once it feels routine, branch out using the rest of the vault. New to the whole idea? Read [[What Is Pour Over Coffee]] first.
 
 > [!example] The one-line recipe
 > **18 g coffee · 288 g water · 1:16 · ~93°C · medium grind · ~3:00 total.** Everything below is just doing that well.
 
-## 🛒 Before You Brew — Gather
+## 🛒 Before You Brew: Gather
 
-- [ ] A dripper — a [[Hario V60]] is the classic starting point → [[Equipment and Drippers]]
-- [ ] The matching paper filters → [[Coffee Filters — Paper, Metal, and Cloth]]
+- [ ] A dripper: a [[Hario V60]] is the classic starting point → [[Equipment and Drippers]]
+- [ ] The matching paper filters → [[Coffee Filters]]
 - [ ] A burr grinder (skip the blade grinder) → [[Burr Grinders vs Blade Grinders]]
 - [ ] A scale that reads to 0.1 g, ideally with a timer → [[Scales, Timers, and Servers]]
-- [ ] A kettle — a gooseneck makes pouring easier but is optional → [[Gooseneck Kettles]]
+- [ ] A kettle: a gooseneck makes pouring easier but is optional → [[Gooseneck Kettles]]
 - [ ] Fresh coffee, roasted within the last few weeks → [[Coffee Freshness and Degassing]]
-- [ ] Good water — filtered is a safe default → [[Filtered, Bottled, and Tap Water]]
+- [ ] Good water: filtered is a safe default → [[Filtered, Bottled, and Tap Water]]
 
 ## ⚙️ Setup
 
@@ -49,11 +49,11 @@ Everything you need to brew a genuinely good first cup, in order, with nothing s
 > If a cup goes wrong, the [[Pour Over Troubleshooting Guide]] turns the flavor into a fix. And the [[Frequently Asked Questions]] note answers the "wait, why?" moments that come up early.
 
 > [!warning] The two most common beginner mistakes
-> Grinding with a blade grinder and brewing by volume instead of weight. Fix those two and your coffee leaps forward — more in [[Common Pour Over Mistakes]].
+> Grinding with a blade grinder and brewing by volume instead of weight. Fix those two and your coffee leaps forward. More in [[Common Pour Over Mistakes]].
 
 ## Continue Reading
 
-- [[The Standard V60 Recipe]] — the full recipe this checklist follows
-- [[Pour Over Troubleshooting Guide]] — when the cup tastes off
-- [[Frequently Asked Questions]] — the early questions, answered
-- [[Brewing Technique]] — go deeper on the craft of the pour
+- [[The Standard V60 Recipe]]: the full recipe this checklist follows
+- [[Pour Over Troubleshooting Guide]]: when the cup tastes off
+- [[Frequently Asked Questions]]: the early questions, answered
+- [[Brewing Technique]]: go deeper on the craft of the pour

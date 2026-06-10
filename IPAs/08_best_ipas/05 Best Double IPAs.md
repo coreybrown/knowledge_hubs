@@ -6,8 +6,8 @@ domain: Best IPAs
 
 # Best Double IPAs
 
-The [[Double IPA]] (or Imperial IPA) takes everything an IPA does — hops, bitterness,
-strength — and pushes it harder while, in the best examples, hiding the alcohol. These
+The [[Double IPA]] (or Imperial IPA) takes everything an IPA does, the hops, the bitterness,
+the strength, and pushes it harder while, in the best examples, hiding the alcohol. These
 are the critic's picks for big beers that stay drinkable.
 
 > [!note] Strength is the easy part; balance is the achievement
@@ -19,7 +19,7 @@ are the critic's picks for big beers that stay drinkable.
 
 | Beer | Brewery | Location | ABV | Why it's notable |
 |---|---|---|---|---|
-| Pliny the Elder | Russian River | Santa Rosa, CA | ~8.0% | The benchmark DIPA — dry, drinkable, deceptively strong |
+| Pliny the Elder | Russian River | Santa Rosa, CA | ~8.0% | The benchmark DIPA: dry, drinkable, deceptively strong |
 | Heady Topper | The Alchemist | Stowe, VT | ~8.0% | The hazy DIPA that launched the [[New England IPA]] |
 | Hopslam | Bell's | Comstock, MI | ~10.0% | Honey-kissed seasonal; a Midwest cult favorite |
 | Double Sunshine | Lawson's Finest | Waitsfield, VT | ~8.0% | Lush, tropical, much-lauded hazy DIPA |
@@ -29,7 +29,7 @@ are the critic's picks for big beers that stay drinkable.
 > [!example] Two schools of DIPA
 > The picks split into the **dry West Coast** lineage (Pliny, Hop Stoopid, Dorado) and
 > the **hazy New England** lineage (Heady Topper, Double Sunshine). Same strength,
-> opposite philosophies — one crisp and resinous, the other soft and juicy.
+> opposite philosophies: one crisp and resinous, the other soft and juicy.
 
 ## What links these beers
 
@@ -41,7 +41,7 @@ runs back to the [[Origins of the Double IPA]]. Push further still and you reach
 
 > [!tip] Drink fresh, drink slow
 > DIPAs fade fast and hit hard. Buy them fresh ([[IPA Freshness and Shelf Life]]),
-> serve slightly cool ([[Serving Temperature]]), and respect the ABV — alcohol on the
+> serve slightly cool ([[Serving Temperature]]), and respect the ABV. Alcohol on the
 > [[Reading an IPA Label|label]] is real.
 
 ## Honorable mentions
@@ -52,7 +52,7 @@ brewers and a fixture of [[IPA Festivals and Competitions]].
 
 ## Continue Reading
 
-- [[Double IPA]] — the full style profile
-- [[Origins of the Double IPA]] — where the style began
-- [[Triple IPA]] — the next intensity tier
-- [[Best West Coast IPAs]] — many DIPAs share this lineage
+- [[Double IPA]]: the full style profile
+- [[Origins of the Double IPA]]: where the style began
+- [[Triple IPA]]: the next intensity tier
+- [[Best West Coast IPAs]]: many DIPAs share this lineage

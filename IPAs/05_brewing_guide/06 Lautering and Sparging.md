@@ -6,17 +6,17 @@ domain: Brewing
 
 # Lautering and Sparging
 
-**Lautering** is the separation of sweet wort from spent grain after [[Mashing]]. **Sparging** is rinsing the grain bed with hot water to recover the sugar left clinging to it. Together they determine how much of your [[Milling and the Grain Bill|grain bill]] actually ends up in the kettle — your **mash efficiency**.
+**Lautering** is the separation of sweet wort from spent grain after [[Mashing]]. **Sparging** is rinsing the grain bed with hot water to recover the sugar left clinging to it. Together they determine how much of your [[Milling and the Grain Bill|grain bill]] actually ends up in the kettle: your **mash efficiency**.
 
 ## How It Works
 
-The crushed grain settles into a porous bed inside the lauter tun. Wort is drawn off the bottom and, because the grain husks act as a natural filter, runs progressively clearer. The first cloudy runnings are recirculated until they run bright — a step called **vorlauf**.
+The crushed grain settles into a porous bed inside the lauter tun. Wort is drawn off the bottom and, because the grain husks act as a natural filter, runs progressively clearer. The first cloudy runnings are recirculated until they run bright, a step called **vorlauf**.
 
 > [!example] The lautering sequence
-> 1. **Mash-out** (optional) — raise to ~76 °C to fix sugars and thin the wort.
-> 2. **Vorlauf** — recirculate first runnings until clear.
-> 3. **First runnings** — drain the free wort.
-> 4. **Sparge** — rinse with 76 °C water.
+> 1. **Mash-out** (optional): raise to ~76 °C to fix sugars and thin the wort.
+> 2. **Vorlauf**: recirculate first runnings until clear.
+> 3. **First runnings**: drain the free wort.
+> 4. **Sparge**: rinse with 76 °C water.
 > 5. **Collect** to pre-boil volume.
 
 ## Sparging Methods
@@ -27,14 +27,14 @@ The crushed grain settles into a porous bed inside the lauter tun. Wort is drawn
 | Fly (continuous) sparge | Trickle water on top while draining | Maximum efficiency |
 | No-sparge | Full mash volume, single drain | Soft, full NEIPA wort |
 
-Many [[New England IPA]] brewers favor **no-sparge** or light sparging — it gives a slightly fuller, less tannic wort that suits the style.
+Many [[New England IPA]] brewers favor **no-sparge** or light sparging because it gives a slightly fuller, less tannic wort that suits the style.
 
 ## Efficiency
 
 Mash efficiency is the percent of available sugar you extract. Typical homebrew systems run 70–80%.
 
 > [!tip] Know your efficiency
-> Recipes assume a number. If your system runs 72% and the recipe assumes 80%, your OG — and therefore ABV and balance — will fall short. Measure and calibrate.
+> Recipes assume a number. If your system runs 72% and the recipe assumes 80%, your OG, and therefore ABV and balance, will fall short. Measure and calibrate.
 
 ## Two Things That Go Wrong
 

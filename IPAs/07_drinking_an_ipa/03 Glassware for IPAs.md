@@ -6,7 +6,7 @@ domain: Drinking
 
 # Glassware for IPAs
 
-The glass is not decoration — it is a tool that shapes how aroma reaches your nose and how
+The glass is not decoration. It is a tool that shapes how aroma reaches your nose and how
 the beer feels in your mouth. Because an IPA lives and dies by [[Hop Aroma Compounds|hop aroma]],
 glassware matters more for this style than almost any other. This note pairs naturally
 with [[How to Taste an IPA]] and [[Serving Temperature]].
@@ -26,7 +26,7 @@ them escape.
 | **Tulip** | Bulbous body, flared lip | [[Double IPA]], [[Belgian IPA]], aromatic beers | Captures aroma, supports a thick head |
 | **Snifter** | Wide bowl, narrow mouth | [[Triple IPA]], strong barrel-aged beers | Big surface to swirl, concentrated nose, small pour |
 | **Teku** | Angular bowl on a stem | Tasting flights, [[New England IPA]] | Stem keeps hands off the bowl; elegant aroma focus |
-| **Shaker pint** | Straight-sided cylinder | Casual draft service | Cheap and stackable — but poor for aroma |
+| **Shaker pint** | Straight-sided cylinder | Casual draft service | Cheap and stackable, but poor for aroma |
 | **Willi Becher** | Slight inward curve near rim | Everyday IPAs, [[Session IPA]] | Versatile all-rounder with mild aroma concentration |
 
 ## Choosing by Style
@@ -42,7 +42,7 @@ them escape.
 - **Keep glasses "beer clean."** Rinse with hot water and air-dry; avoid greasy
   detergent films, which kill head retention and leave clinging bubbles.
 - **Never frost the glass.** A frosted glass over-chills the beer and can introduce
-  freezer odors — see [[Serving Temperature]].
+  freezer odors; see [[Serving Temperature]].
 - **Pour with a tilt,** then straighten to build a one-to-two-finger head that releases
   aroma. See the pour technique in [[How to Taste an IPA]].
 - **Use a stem for flights.** When [[Building an IPA Tasting Flight|building a flight]],
@@ -55,12 +55,12 @@ them escape.
 
 > [!note] Glass and packaging
 > Glassware interacts with format: a draft pour and a [[Draft vs Can vs Bottle|canned]]
-> beer benefit equally from a proper glass — never drink an aromatic IPA straight from
+> beer benefit equally from a proper glass. Never drink an aromatic IPA straight from
 > the can if you can help it.
 
 ## Continue Reading
 
-- [[Serving Temperature]] — the other half of presentation
-- [[How to Taste an IPA]] — using the glass well
-- [[Building an IPA Tasting Flight]] — glassware for tasting sets
-- [[Draft vs Can vs Bottle]] — always pour into a glass
+- [[Serving Temperature]]: the other half of presentation
+- [[How to Taste an IPA]]: using the glass well
+- [[Building an IPA Tasting Flight]]: glassware for tasting sets
+- [[Draft vs Can vs Bottle]]: always pour into a glass

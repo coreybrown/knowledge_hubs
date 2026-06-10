@@ -6,7 +6,7 @@ domain: Styles
 
 # Session IPA
 
-The **Session IPA** is the IPA scaled *down* — a sub-5% ABV beer that keeps the
+The **Session IPA** is the IPA scaled *down*, a sub-5% ABV beer that keeps the
 hop-forward aroma and flavor of an [[American IPA]] while shedding the alcohol
 and weight. The word "session" refers to a long drinking session: a beer light
 enough to enjoy several of without fatigue. It is the mirror image of the
@@ -18,7 +18,7 @@ enough to enjoy several of without fatigue. It is the mirror image of the
 > | **ABV** | 3.0–5.0% |
 > | **IBU** | 30–55 |
 > | **Color** | 3–8 SRM (pale straw to gold) |
-> | **Key hops** | Aroma-forward American — [[Citra]], [[Mosaic]], [[Amarillo]] |
+> | **Key hops** | Aroma-forward American: [[Citra]], [[Mosaic]], [[Amarillo]] |
 > | **Glassware** | Pint or IPA glass |
 
 ## Origins
@@ -33,12 +33,12 @@ wanted hop character without a high-ABV commitment.
 A low-ABV beer offers the brewer very little to work with. The difficulty is
 keeping a Session IPA from tasting thin, watery, or harshly bitter:
 
-- **Body** — small additions of wheat, oats, or dextrin malt add mouthfeel;
+- **Body**: small additions of wheat, oats, or dextrin malt add mouthfeel;
   see [[Base Malts]] and [[The Science of Mouthfeel]].
-- **Bitterness balance** — with little malt sweetness, aggressive bittering
+- **Bitterness balance**: with little malt sweetness, aggressive bittering
   turns coarse. Brewers shift hops to [[Whirlpool and Hop Stand|whirlpool]] and
   [[Dry Hopping|dry hop]] additions for flavor over raw [[IBU and Perceived Bitterness|IBU]].
-- **Aroma retention** — the goal is maximum hop aroma per unit of alcohol.
+- **Aroma retention**: the goal is maximum hop aroma per unit of alcohol.
 
 > [!tip] Session IPA vs. Pale Ale
 > The line is blurry. A Session IPA generally hops harder and finishes drier
@@ -61,8 +61,8 @@ rest of the family.
 
 ## Continue Reading
 
-- [[American IPA]] — the parent style
-- [[Double IPA]] — its strength opposite
-- [[Best Session IPAs]] — recommended examples
-- [[Best Budget IPAs]] — often overlaps with session beers
-- [[Best Time and Occasion to Drink an IPA]] — when sessionability matters
+- [[American IPA]]: the parent style
+- [[Double IPA]]: its strength opposite
+- [[Best Session IPAs]]: recommended examples
+- [[Best Budget IPAs]]: often overlaps with session beers
+- [[Best Time and Occasion to Drink an IPA]]: when sessionability matters

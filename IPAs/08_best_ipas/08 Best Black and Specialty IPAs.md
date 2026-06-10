@@ -13,12 +13,12 @@ and the broader world of [[Specialty and Experimental IPAs]].
 
 > [!note] Novelty alone is not merit
 > A weird beer is not automatically a good one. Per [[How These Were Selected]], these
-> picks earn their place by being well-made *and* distinctive — the twist has to
+> picks earn their place by being well-made *and* distinctive: the twist has to
 > actually improve the drink.
 
 ## Black IPAs
 
-The [[Black IPA]] — also called Cascadian Dark Ale — pairs IPA hopping with dark malt
+The [[Black IPA]] (also called Cascadian Dark Ale) pairs IPA hopping with dark malt
 that contributes color and a light roast without heavy bitterness.
 
 | Beer | Brewery | Location | ABV | Why it's notable |
@@ -32,12 +32,12 @@ that contributes color and a light roast without heavy bitterness.
 | Beer | Brewery | Location | ABV | Style twist |
 |---|---|---|---|---|
 | Tokyo* / strong specials | BrewDog | Ellon, Scotland | varies | Extreme experimental imperial beers |
-| Le Freak | Green Flash | San Diego, CA | ~9.2% | A [[Belgian IPA]] — IPA hopping, Belgian yeast |
+| Le Freak | Green Flash | San Diego, CA | ~9.2% | A [[Belgian IPA]]: IPA hopping, Belgian yeast |
 | Hop Drop 'n Roll | NoDa | Charlotte, NC | ~7.2% | An award-winning showcase of [[Galaxy]] and [[Citra]] |
 
 > [!example] A category that fell out of fashion
 > The black IPA peaked around 2011 and has since faded. Critics still rate the best
-> examples highly — proof that [[Modern IPA Diversification]] produces styles that
+> examples highly, proof that [[Modern IPA Diversification]] produces styles that
 > *deserve* survival even when fashion moves on.
 
 ## What links these beers
@@ -55,7 +55,7 @@ controlled experiment in what "IPA" can mean.
 
 ## Continue Reading
 
-- [[Specialty and Experimental IPAs]] — the full overview
-- [[Black IPA]] — the style profile
-- [[Modern IPA Diversification]] — how these styles arose
-- [[IPA Family Tree]] — how every IPA style relates
+- [[Specialty and Experimental IPAs]]: the full overview
+- [[Black IPA]]: the style profile
+- [[Modern IPA Diversification]]: how these styles arose
+- [[IPA Family Tree]]: how every IPA style relates

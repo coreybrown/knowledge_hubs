@@ -6,16 +6,16 @@ domain: Culture & Industry
 
 # 🌱 Sustainability in Coffee
 
-Coffee has a sustainability problem on every axis at once: the plant is threatened by a warming climate, the farmers who grow it are squeezed by economics, and brewing it generates real waste and emissions. For a culture that prizes the craft of pour over, these are not abstract concerns — they determine whether good coffee will still exist, and at what human cost.
+Coffee has a sustainability problem on every axis at once: the plant is threatened by a warming climate, the farmers who grow it are squeezed by economics, and brewing it generates real waste and emissions. For a culture that prizes the craft of pour over, these are not abstract concerns. They determine whether good coffee will still exist, and at what human cost.
 
 ## 🌡️ The Climate Threat to Arabica
 
-The flavor-rich [[The Coffee Plant — Arabica and Robusta|Arabica]] species that specialty coffee depends on is also the most climate-sensitive. It thrives in a narrow band of temperature, altitude, and rainfall, and warming is squeezing that band.
+The flavor-rich [[The Coffee Plant|Arabica]] species that specialty coffee depends on is also the most climate-sensitive. It thrives in a narrow band of temperature, altitude, and rainfall, and warming is squeezing that band.
 
 > [!warning] The shrinking coffee belt
 > Widely cited research suggests that a large share of today's suitable Arabica land could become unsuitable by 2050 as temperatures rise, rainfall grows erratic, and pests like the coffee borer beetle and the fungus *coffee leaf rust* spread to higher altitudes. Estimates vary and are debated, but the direction is not: the best [[Coffee Growing Regions and Terroir\|growing regions]] are under pressure.
 
-Adaptation strategies include moving to higher elevations, breeding resilient [[Coffee Varietals|varietals]], shade-growing, and — controversially — leaning on hardier but lower-scoring [[The Coffee Plant — Arabica and Robusta|Robusta]].
+Adaptation strategies include moving to higher elevations, breeding resilient [[Coffee Varietals|varietals]], shade-growing, and (controversially) leaning on hardier but lower-scoring [[The Coffee Plant|Robusta]].
 
 ## 💵 Farmer Economics
 
@@ -34,20 +34,20 @@ The specialty premium and [[Direct Trade and Coffee Sourcing|relationship sourci
 
 The brewing end has its own footprint:
 
-- **Paper filters and pods** — single-use [[Coffee Filters — Paper, Metal, and Cloth|filters]] are compostable but still waste; metal and cloth filters cut it.
-- **Coffee cherry and pulp** — [[Coffee Processing Methods|processing]] discards huge volumes of cherry; some is now reused (cascara, fertilizer).
-- **Water and energy** — [[Washed Process|washed processing]] is water-intensive; roasting and shipping add emissions.
-- **Milk and disposables** — in cafés, dairy and single-use cups often dwarf the coffee's own footprint.
+- **Paper filters and pods**: single-use [[Coffee Filters|filters]] are compostable but still waste; metal and cloth filters cut it.
+- **Coffee cherry and pulp**: [[Coffee Processing Methods|processing]] discards huge volumes of cherry; some is now reused (cascara, fertilizer).
+- **Water and energy**: [[Washed Process|washed processing]] is water-intensive; roasting and shipping add emissions.
+- **Milk and disposables**: in cafés, dairy and single-use cups often dwarf the coffee's own footprint.
 
 > [!tip] What a home brewer can actually do
 > Buy from transparent [[Notable Roasters\|roasters]], avoid waste by [[The Brew Ratio\|brewing only what you'll drink]], compost grounds and filters, prefer reusable filters where you like the cup, and don't over-buy gear. Small, but real.
 
 > [!note] Beware greenwashing
-> "Sustainable" is unregulated, like "[[Direct Trade and Coffee Sourcing\|direct trade]]." Look for specifics — published prices, named projects, measured outcomes — not vibes.
+> "Sustainable" is unregulated, like "[[Direct Trade and Coffee Sourcing\|direct trade]]." Look for specifics, not vibes: published prices, named projects, measured outcomes.
 
 ## Continue Reading
 
-- [[Direct Trade and Coffee Sourcing]] — the economics that underpin sustainability
-- [[The Coffee Plant — Arabica and Robusta]] — the climate-sensitive species at stake
-- [[The Future of Pour Over]] — where the craft and its supply chain are heading
-- [[Coffee Growing Regions and Terroir]] — the regions under climate pressure
+- [[Direct Trade and Coffee Sourcing]]: the economics that underpin sustainability
+- [[The Coffee Plant]]: the climate-sensitive species at stake
+- [[The Future of Pour Over]]: where the craft and its supply chain are heading
+- [[Coffee Growing Regions and Terroir]]: the regions under climate pressure

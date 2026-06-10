@@ -6,11 +6,11 @@ domain: Brewing
 
 # Recipe Formulation
 
-**Recipe formulation** is the design phase of brewing — choosing ingredients and targets *before* the kettle is lit. A good IPA recipe is a deliberate balance of malt, hops, yeast, and water aimed at a clearly defined style.
+**Recipe formulation** is the design phase of brewing: choosing ingredients and targets *before* the kettle is lit. A good IPA recipe is a deliberate balance of malt, hops, yeast, and water aimed at a clearly defined style.
 
 ## Start With Targets
 
-Every recipe begins with numbers. Pick your style — [[West Coast IPA]], [[New England IPA]], [[Double IPA]] — and set targets within the [[BJCP and Style Guidelines|BJCP]] range.
+Every recipe begins with numbers. Pick your style ([[West Coast IPA]], [[New England IPA]], [[Double IPA]]) and set targets within the [[BJCP and Style Guidelines|BJCP]] range.
 
 | Parameter | Meaning | Typical IPA range |
 |---|---|---|
@@ -26,9 +26,9 @@ ABV is derived: roughly `(OG − FG) × 131.25`.
 
 IPA grists are simple and pale so hops can lead. A baseline:
 
-- **88–95% base malt** — usually 2-row or Maris Otter; see [[Base Malts]].
-- **0–8% character malt** — light crystal, Munich, or Vienna for backbone.
-- **0–10% adjuncts** — flaked oats or wheat for [[New England IPA]] softness; sugar for a dry [[Double IPA]]. See [[Specialty Malts and Adjuncts]].
+- **88–95% base malt**: usually 2-row or Maris Otter; see [[Base Malts]].
+- **0–8% character malt**: light crystal, Munich, or Vienna for backbone.
+- **0–10% adjuncts**: flaked oats or wheat for [[New England IPA]] softness; sugar for a dry [[Double IPA]]. See [[Specialty Malts and Adjuncts]].
 
 > [!tip] Less is more
 > If a malt does not have a clear job, leave it out. Crystal malt above ~8% muddies hop expression.
@@ -44,11 +44,11 @@ This is where the style is made. Allocate hops across the four windows from [[Ho
 | Whirlpool (<80 °C) | Aroma + soft IBU | 25–40% |
 | Dry hop | Pure aroma | 35–55% |
 
-Choose varieties with complementary oils — see [[Hop Oils and Terpenes]] and the [[Hop Variety Index]]. A classic combo pairs [[Citra]] and [[Mosaic]].
+Choose varieties with complementary oils; see [[Hop Oils and Terpenes]] and the [[Hop Variety Index]]. A classic combo pairs [[Citra]] and [[Mosaic]].
 
 ## Yeast and Water
 
-Yeast sets attenuation and biotransformation potential — see [[IPA Yeast Strains]] and [[Biotransformation]]. Water shapes perceived bitterness via the [[Water Chemistry and the Sulfate-Chloride Ratio]]: sulfate-forward for crisp West Coast, chloride-forward for soft New England. Plan it with [[Water Treatment for Brewing]].
+Yeast sets attenuation and biotransformation potential. See [[IPA Yeast Strains]] and [[Biotransformation]]. Water shapes perceived bitterness via the [[Water Chemistry and the Sulfate-Chloride Ratio]]: sulfate-forward for crisp West Coast, chloride-forward for soft New England. Plan it with [[Water Treatment for Brewing]].
 
 > [!note] Balance, not maximalism
 > The most common formulation mistake is adding everything. A focused recipe with four ingredients beats a cluttered one with twelve.

@@ -6,7 +6,7 @@ domain: Brewing
 
 # Milling and the Grain Bill
 
-**Milling** is the first physical step of brew day: crushing malt to expose its starchy interior so water can reach it during the mash. The crushed grain is called the **grist**, and its composition — the **grain bill** — is the malt half of [[Recipe Formulation]].
+**Milling** is the first physical step of brew day: crushing malt to expose its starchy interior so water can reach it during the mash. The crushed grain is called the **grist**, and its composition, the **grain bill**, is the malt half of [[Recipe Formulation]].
 
 ## Why Crush at All
 
@@ -47,7 +47,7 @@ IPA grists are intentionally pale and lean so [[Hops]] are not masked. See [[Bas
 > Crushed malt stales faster than whole grain. Mill the day of brewing, or within a few days, and store airtight.
 
 > [!warning] Flaked adjuncts and stuck mashes
-> Oats and wheat have no husk. A high-adjunct NEIPA grist is prone to stuck runoff — add 3–5% rice hulls as insurance.
+> Oats and wheat have no husk. A high-adjunct NEIPA grist is prone to stuck runoff; add 3–5% rice hulls as insurance.
 
 The grain bill, once milled, is ready for [[Mashing]].
 

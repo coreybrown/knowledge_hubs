@@ -6,7 +6,7 @@ domain: Reference
 
 # IPA Beer Statistics and Data
 
-A reference collection of approximate figures for the IPA category — market share,
+A reference collection of approximate figures for the IPA category: market share,
 style parameters, hop supply, and consumption. Brewing is not an exact science and
 market data shifts year to year, so treat every number here as an informed
 approximation, not a precise measurement.
@@ -20,7 +20,7 @@ approximation, not a precise measurement.
 
 | Metric | Approximate figure |
 |---|---|
-| Share of U.S. craft beer volume held by IPA | ~30–40% — the single largest craft style |
+| Share of U.S. craft beer volume held by IPA | ~30–40%, the single largest craft style |
 | IPA's rank among craft styles by sales | #1, well ahead of pale ale and lager |
 | Share of new craft beer releases that are IPAs | A large plurality; in many breweries a majority of SKUs |
 | Hazy / New England IPA share within the IPA category | Roughly a third to half of IPA volume in recent years |
@@ -54,7 +54,7 @@ Typical ranges. Individual beers routinely fall outside them.
 |---|---|
 | Global hop acreage | On the order of 150,000+ acres worldwide |
 | Largest producing countries | United States and Germany, together a majority of global supply |
-| Core U.S. growing region | The Pacific Northwest — Yakima Valley, Willamette Valley, Idaho |
+| Core U.S. growing region | The Pacific Northwest: Yakima Valley, Willamette Valley, Idaho |
 | Aroma vs. alpha hop split in the U.S. | Aroma/dual-purpose varieties now dominate, driven by IPA demand |
 | Hops used in a hop-forward IPA | A Double IPA can use several times the hops per barrel of a standard lager |
 
@@ -78,7 +78,7 @@ See [[Recipe Formulation]], [[Dry Hopping]], and [[Double Dry Hopping]].
 |---|---|
 | Recommended window to drink a hazy IPA | Within ~1–3 months of packaging for peak aroma |
 | Recommended window for a West Coast IPA | Within ~3–6 months; bitterness fades more gracefully than aroma |
-| Dominant package format for craft IPA | The can — now the standard for freshness and light protection |
+| Dominant package format for craft IPA | The can, now the standard for freshness and light protection |
 | Common serving temperature | ~45–50°F (7–10°C) for most IPAs |
 
 See [[IPA Freshness and Shelf Life]], [[Hop Fade and Oxidation]], and
@@ -86,8 +86,8 @@ See [[IPA Freshness and Shelf Life]], [[Hop Fade and Oxidation]], and
 
 ## Continue Reading
 
-- [[IPA Style Comparison Table]] — the styles compared in detail
-- [[The Craft Beer Industry]] — the market context
-- [[Hop Contracts and the Hop Supply Chain]] — the supply side
-- [[IPA Freshness and Shelf Life]] — why freshness matters
-- [[Timeline of IPA History]] — the historical context
+- [[IPA Style Comparison Table]]: the styles compared in detail
+- [[The Craft Beer Industry]]: the market context
+- [[Hop Contracts and the Hop Supply Chain]]: the supply side
+- [[IPA Freshness and Shelf Life]] explains why freshness matters
+- [[Timeline of IPA History]]: the historical context

@@ -18,21 +18,21 @@ Everything a [[Hops|hop]] does for an [[What Is an IPA|IPA]] traces to three fam
 
 ## Resins: Alpha and Beta Acids
 
-**Alpha acids** (humulone, cohumulone, adhumulone) are the bittering powerhouse. They are nearly insoluble in their raw form and must be **isomerized** by heat into iso-alpha acids — a reaction central to [[Isomerization of Alpha Acids]] and [[The Chemistry of Hop Bitterness]]. **Beta acids** (lupulone, colupulone, adlupulone) do not isomerize meaningfully but oxidize slowly over time, contributing a softer, lingering bitterness in aged hops.
+**Alpha acids** (humulone, cohumulone, adhumulone) are the bittering powerhouse. They are nearly insoluble in their raw form and must be **isomerized** by heat into iso-alpha acids, a reaction central to [[Isomerization of Alpha Acids]] and [[The Chemistry of Hop Bitterness]]. **Beta acids** (lupulone, colupulone, adlupulone) do not isomerize meaningfully but oxidize slowly over time, contributing a softer, lingering bitterness in aged hops.
 
 > [!note] Cohumulone and bitterness quality
 > Within the alpha fraction, a high **cohumulone** percentage is traditionally linked to a harsher, coarser bitterness, while low-cohumulone hops like [[Simcoe]] are prized for a smoother bite. Modern sensory work treats this as a tendency rather than a law.
 
 ## Essential Oils
 
-The oil fraction is a volatile cocktail of dozens of compounds. Hydrocarbons such as **myrcene** dominate by volume, while oxygenated compounds like **linalool** and **geraniol** punch above their weight in perception. Because oils boil off easily, they survive only in late and cold additions — the rationale behind [[Whirlpool and Hop Stand]] and [[Dry Hopping]]. Full treatment is in [[Hop Oils and Terpenes]] and [[Hop Aroma Compounds]].
+The oil fraction is a volatile cocktail of dozens of compounds. Hydrocarbons such as **myrcene** dominate by volume, while oxygenated compounds like **linalool** and **geraniol** punch above their weight in perception. Because oils boil off easily, they survive only in late and cold additions. That is the rationale behind [[Whirlpool and Hop Stand]] and [[Dry Hopping]]. Full treatment is in [[Hop Oils and Terpenes]] and [[Hop Aroma Compounds]].
 
 ## Polyphenols and Thiol Precursors
 
-Polyphenols (flavonoids, tannins, xanthohumol) influence astringency, color, oxidative stability, and [[Hop Haze and Colloidal Stability|haze]]. Separately, hops carry **bound thiol precursors** — odorless until yeast or enzymes cleave them into intensely aromatic free thiols during [[Biotransformation]]. This is the chemistry behind the passionfruit and grapefruit of a modern hazy; see [[Thiols and Hop Burst]].
+Polyphenols (flavonoids, tannins, xanthohumol) influence astringency, color, oxidative stability, and [[Hop Haze and Colloidal Stability|haze]]. Separately, hops carry **bound thiol precursors**, odorless until yeast or enzymes cleave them into intensely aromatic free thiols during [[Biotransformation]]. This is the chemistry behind the passionfruit and grapefruit of a modern hazy; see [[Thiols and Hop Burst]].
 
 > [!warning] Chemistry changes with time
-> None of these compounds is stable. Alpha acids degrade, oils oxidize into cheesy and vegetal off-notes, and bright aromatics fade — the process detailed in [[Hop Fade and Oxidation]]. Hop chemistry is a snapshot, not a constant.
+> None of these compounds is stable. Alpha acids degrade, oils oxidize into cheesy and vegetal off-notes, and bright aromatics fade (the process detailed in [[Hop Fade and Oxidation]]). Hop chemistry is a snapshot, not a constant.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ A brewer reading a hop spec sheet is reading chemistry: an alpha acid percentage
 
 ## Continue Reading
 
-- [[Alpha Acids and Bitterness]] — the resin fraction in depth
-- [[Hop Oils and Terpenes]] — the aroma fraction in depth
-- [[The Chemistry of Hop Bitterness]] — bitterness at the molecular level
-- [[Biotransformation]] — how yeast rewrites hop chemistry
+- [[Alpha Acids and Bitterness]]: the resin fraction in depth
+- [[Hop Oils and Terpenes]]: the aroma fraction in depth
+- [[The Chemistry of Hop Bitterness]]: bitterness at the molecular level
+- [[Biotransformation]]: how yeast rewrites hop chemistry

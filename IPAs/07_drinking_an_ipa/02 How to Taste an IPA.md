@@ -13,10 +13,10 @@ intended. This note is the drinker-friendly companion to the more technical
 
 ## Before You Pour
 
-Set yourself up for success. Serve the beer at the correct [[Serving Temperature]] — too
+Set yourself up for success. Serve the beer at the correct [[Serving Temperature]]; too
 cold and you will taste almost nothing. Choose appropriate [[Glassware for IPAs|glassware]];
 a tulip or IPA glass concentrates aroma. Confirm the beer is fresh by checking the
-packaged-on date — see [[IPA Freshness and Shelf Life]].
+packaged-on date (see [[IPA Freshness and Shelf Life]]).
 
 ## The Five-Step Routine
 
@@ -33,15 +33,15 @@ packaged-on date — see [[IPA Freshness and Shelf Life]].
 
 ## What to Look For
 
-- **Appearance** — a [[West Coast IPA]] should be bright; a [[New England IPA]] is meant
+- **Appearance**: a [[West Coast IPA]] should be bright; a [[New England IPA]] is meant
   to be opaque. Haze is a style choice, not a flaw. See [[Hop Haze and Colloidal Stability]].
-- **Aroma** — the heart of an IPA. Try to name three distinct notes. Use the
+- **Aroma**: the heart of an IPA. Try to name three distinct notes. Use the
   [[Beer Flavor Wheel]] as a vocabulary crutch.
-- **Flavor** — does hop *flavor* match hop *aroma*? Note where bitterness sits — see
+- **Flavor**: does hop *flavor* match hop *aroma*? Note where bitterness sits. See
   [[IBU and Perceived Bitterness]].
-- **Mouthfeel** — body, carbonation, and that drying or creamy texture. See
+- **Mouthfeel**: body, carbonation, and that drying or creamy texture. See
   [[The Science of Mouthfeel]].
-- **Finish** — clean and dry, or lingering and resinous?
+- **Finish**: clean and dry, or lingering and resinous?
 
 > [!warning] Watch for off-flavors
 > Cardboard or sherry notes signal oxidation ([[Hop Fade and Oxidation]]); a struck-match
@@ -50,7 +50,7 @@ packaged-on date — see [[IPA Freshness and Shelf Life]].
 
 ## Calibrating Your Palate
 
-Taste the same beer across a session — aroma and bitterness shift as it warms. Cleanse
+Taste the same beer across a session: aroma and bitterness shift as it warms. Cleanse
 with water and plain crackers between samples. Tasting two contrasting beers side by side,
 as in a [[Building an IPA Tasting Flight|flight]], teaches faster than tasting one alone.
 
@@ -60,8 +60,8 @@ as in a [[Building an IPA Tasting Flight|flight]], teaches faster than tasting o
 
 ## Continue Reading
 
-- [[Tasting and Evaluating IPAs]] — the formal evaluation method
-- [[Beer Flavor Wheel]] — vocabulary for what you smell
-- [[Serving Temperature]] — get the temperature right first
-- [[Off-Flavors in IPA]] — recognizing faults
-- [[Glassware for IPAs]] — concentrate the aroma
+- [[Tasting and Evaluating IPAs]]: the formal evaluation method
+- [[Beer Flavor Wheel]]: vocabulary for what you smell
+- [[Serving Temperature]]: get the temperature right first
+- [[Off-Flavors in IPA]]: recognizing faults
+- [[Glassware for IPAs]]: concentrate the aroma

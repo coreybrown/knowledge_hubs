@@ -6,7 +6,7 @@ domain: Drinking
 
 # Best Time and Occasion to Drink an IPA
 
-There is no wrong time to drink a good IPA — but there are *better* ones. The style spans
+There is no wrong time to drink a good IPA, but there are *better* ones. The style spans
 such a wide range of strength and character that choosing the right IPA for the moment is
 itself a small skill. This note connects context to choice, drawing on [[IPA Styles]] and
 [[Food Pairing with IPAs]].
@@ -21,7 +21,7 @@ calls for something light; a quiet evening rewards something complex.
 | Daytime, long session | [[Session IPA]] | Low ABV keeps you clear-headed and refreshed |
 | After work, casual | [[American IPA]] | Balanced, dependable, undemanding |
 | Weekend showcase pour | [[New England IPA]] or [[West Coast IPA]] | Worth slowing down to appreciate |
-| Special occasion / nightcap | [[Double IPA]], [[Triple IPA]] | Strong and complex — a sipper, not a session |
+| Special occasion / nightcap | [[Double IPA]], [[Triple IPA]] | Strong and complex: a sipper, not a session |
 | Brunch / aperitif | [[Brut IPA]] | Dry and sparkling-wine-like; whets the appetite |
 | Cold-weather evening | [[Black IPA]], [[Red IPA]] | Maltier warmth suits the season |
 
@@ -30,7 +30,7 @@ calls for something light; a quiet evening rewards something complex.
 Hop-forward beer has a loose seasonal rhythm. Bright, citrusy modern IPAs feel natural in
 **spring and summer**; maltier [[Red IPA|red]] and [[Black IPA|black]] variants suit
 **autumn and winter**. **Fresh-hop** or "wet-hop" IPAs appear briefly after the autumn
-hop harvest and are best drunk immediately — see [[Hop Growing Regions]] and
+hop harvest and are best drunk immediately; see [[Hop Growing Regions]] and
 [[IPA Freshness and Shelf Life]].
 
 > [!tip] Drink fresh IPAs in season
@@ -41,17 +41,17 @@ hop harvest and are best drunk immediately — see [[Hop Growing Regions]] and
 
 > [!warning] Respect the ABV
 > A [[Triple IPA]] at 10–11% ABV is roughly twice the strength of a [[Session IPA]]. Treat
-> strong IPAs like a glass of wine — small pours, slow pace, food alongside. Save them for
+> strong IPAs like a glass of wine: small pours, slow pace, food alongside. Save them for
 > when you can sip rather than session.
 
 Daytime and social settings favor lower-ABV beers; evening and reflective settings reward
 intensity. A structured [[Building an IPA Tasting Flight|tasting flight]] is itself an
-occasion — best when you have time and a clear palate.
+occasion, best when you have time and a clear palate.
 
 ## Social and Cultural Context
 
 Where you drink shapes what you drink. A taproom invites experimentation and fresh draft
-pours — see [[IPA in Bars and Taprooms]] — while a quiet evening at home suits a single
+pours (see [[IPA in Bars and Taprooms]]), while a quiet evening at home suits a single
 considered pour and a proper [[Glassware for IPAs|glass]]. Drinking customs also vary
 widely by place; explore that in [[Regional Drinking Cultures]].
 
@@ -66,7 +66,7 @@ widely by place; explore that in [[Regional Drinking Cultures]].
 
 ## Continue Reading
 
-- [[IPA Styles]] — the full range to choose from
-- [[Food Pairing with IPAs]] — occasion often means a meal
-- [[Regional Drinking Cultures]] — context around the world
-- [[IPA Freshness and Shelf Life]] — the freshest beer is the right one
+- [[IPA Styles]]: the full range to choose from
+- [[Food Pairing with IPAs]]: occasion often means a meal
+- [[Regional Drinking Cultures]]: context around the world
+- [[IPA Freshness and Shelf Life]]: the freshest beer is the right one

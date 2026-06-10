@@ -6,7 +6,7 @@ domain: Industry
 
 # The Hype Beer Phenomenon
 
-Somewhere in the 2010s, certain IPAs stopped being beverages and became **events**. People drove hundreds of miles, queued for hours before dawn, and paid inflated secondary prices for a four-pack. This is the hype beer phenomenon — and the IPA, especially the [[New England IPA]], is its epicenter.
+Somewhere in the 2010s, certain IPAs stopped being beverages and became **events**. People drove hundreds of miles, queued for hours before dawn, and paid inflated secondary prices for a four-pack. This is the hype beer phenomenon. The IPA, especially the [[New England IPA]], is its epicenter.
 
 ## The Anatomy of Hype
 
@@ -23,24 +23,24 @@ Somewhere in the 2010s, certain IPAs stopped being beverages and became **events
 
 ## Why IPA Specifically
 
-The IPA is uniquely suited to hype for a structural reason: **it does not age well**. Because [[Hop Aroma Compounds|hop aroma]] fades quickly through [[Hop Fade and Oxidation|oxidation]], a hazy IPA *must* be drunk fresh. This manufactures genuine urgency — unlike a barrel-aged stout, you cannot cellar it and wait. Scarcity plus perishability is rocket fuel for hype.
+The IPA is uniquely suited to hype for a structural reason: **it does not age well**. Because [[Hop Aroma Compounds|hop aroma]] fades quickly through [[Hop Fade and Oxidation|oxidation]], a hazy IPA *must* be drunk fresh. This manufactures genuine urgency: unlike a barrel-aged stout, you cannot cellar it and wait. Scarcity plus perishability is rocket fuel for hype.
 
 ## The Secondary Market
 
-Where scarcity exists, a gray market follows. "Whales" — rare, sought-after beers — are traded and resold:
+Where scarcity exists, a gray market follows. "Whales" (rare, sought-after beers) are traded and resold:
 
 > [!warning] The downsides of the secondary market
-> - **Resale is often illegal** — selling beer without a license violates the [[Beer Distribution and the Three-Tier System|three-tier system]].
-> - **Freshness gambling** — a traded IPA may arrive weeks old and badly faded.
-> - **Inflated prices** — a $20 four-pack can resell for many times its value.
-> - **Exclusion** — hype prices out casual drinkers and concentrates beer among collectors.
+> - **Resale is often illegal**: selling beer without a license violates the [[Beer Distribution and the Three-Tier System|three-tier system]].
+> - **Freshness gambling**: a traded IPA may arrive weeks old and badly faded.
+> - **Inflated prices**: a $20 four-pack can resell for many times its value.
+> - **Exclusion**: hype prices out casual drinkers and concentrates beer among collectors.
 
 ## Strategic Use by Breweries
 
-Scarcity can be authentic (a genuinely tiny brewery) or **engineered** as marketing. A limited "drop" generates buzz, [[Untappd and Beer Rating Culture|ratings]], and foot traffic that lifts the whole [[IPA Branding and Label Art|brand]]. Rotating, never-repeated releases keep fans returning — a deliberate model pioneered by breweries like Tree House and Other Half.
+Scarcity can be authentic (a genuinely tiny brewery) or **engineered** as marketing. A limited "drop" generates buzz, [[Untappd and Beer Rating Culture|ratings]], and foot traffic that lifts the whole [[IPA Branding and Label Art|brand]]. Rotating, never-repeated releases keep fans returning, a deliberate model pioneered by breweries like Tree House and Other Half.
 
 > [!tip] Hype is not quality
-> A long line is evidence of *demand and scarcity*, not of superior beer. Many un-hyped IPAs outperform "whales" in blind [[Tasting and Evaluating IPAs|tasting]]. Hype distorts perception — see the rating biases in [[Untappd and Beer Rating Culture]].
+> A long line is evidence of *demand and scarcity*, not of superior beer. Many un-hyped IPAs outperform "whales" in blind [[Tasting and Evaluating IPAs|tasting]]. Hype distorts perception; see the rating biases in [[Untappd and Beer Rating Culture]].
 
 ## Cultural Significance
 
@@ -48,7 +48,7 @@ The hype phenomenon shows the IPA fully transformed into a **lifestyle and ident
 
 ## Continue Reading
 
-- [[Untappd and Beer Rating Culture]] — the engine of social proof
-- [[IPA Freshness and Shelf Life]] — why urgency is real
-- [[IPA in Bars and Taprooms]] — where the lines form
-- [[The New England IPA Emergence]] — the style at hype's center
+- [[Untappd and Beer Rating Culture]]: the engine of social proof
+- [[IPA Freshness and Shelf Life]]: why urgency is real
+- [[IPA in Bars and Taprooms]]: where the lines form
+- [[The New England IPA Emergence]]: the style at hype's center

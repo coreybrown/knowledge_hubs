@@ -6,7 +6,7 @@ domain: Reference
 
 # 🧮 Coffee Measurement and Conversion Tables
 
-The numbers you need at the scale, in one place. Brew by **weight**, not volume — a tablespoon of coffee varies wildly with bean density and grind, but grams never lie. These tables turn ratios, doses, and temperatures into the exact figures you punch into a recipe. For the reasoning behind ratios, read [[The Brew Ratio]]; for why grams beat scoops, see [[Scales, Timers, and Servers]].
+The numbers you need at the scale, in one place. Brew by **weight**, not volume: a tablespoon of coffee varies wildly with bean density and grind, but grams never lie. These tables turn ratios, doses, and temperatures into the exact figures you punch into a recipe. For the reasoning behind ratios, read [[The Brew Ratio]]; for why grams beat scoops, see [[Scales, Timers, and Servers]].
 
 > [!tip] The one rule that simplifies everything
 > Water is ~1 gram per millilitre at brewing temperature, so **1 ml of water ≈ 1 g**. That means a scale and a kettle are all the measuring tools you ever need.
@@ -68,7 +68,7 @@ The filter-coffee sweet spot is roughly **90–96°C**. Convert with °F = (°C 
 
 ## Bloom Water Quick Math
 
-A common bloom is **2–3× the dry dose** in grams of water. For 18 g of coffee that is 36–54 g for the bloom pour. More gas means a bigger, longer bloom — see [[The Bloom]] and [[Coffee Freshness and Degassing]].
+A common bloom is **2–3× the dry dose** in grams of water. For 18 g of coffee that is 36–54 g for the bloom pour. More gas means a bigger, longer bloom (see [[The Bloom]] and [[Coffee Freshness and Degassing]]).
 
 | Dose | Bloom (2×) | Bloom (3×) |
 |---|---|---|
@@ -79,7 +79,7 @@ A common bloom is **2–3× the dry dose** in grams of water. For 18 g of coffee
 
 ## Continue Reading
 
-- [[The Brew Ratio]] — choosing 1:15 vs 1:16 vs 1:17 and why
-- [[How to Read a Coffee Recipe]] — the schema these numbers feed
-- [[Recipe Variables and Cup Outcomes]] — how changing each number changes the cup
-- [[Pour Over Quick Start Checklist]] — put these figures into practice
+- [[The Brew Ratio]]: choosing 1:15 vs 1:16 vs 1:17 and why
+- [[How to Read a Coffee Recipe]]: the schema these numbers feed
+- [[Recipe Variables and Cup Outcomes]]: how changing each number changes the cup
+- [[Pour Over Quick Start Checklist]]: put these figures into practice

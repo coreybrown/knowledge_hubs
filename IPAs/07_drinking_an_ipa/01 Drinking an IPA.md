@@ -7,14 +7,14 @@ domain: Drinking
 # Drinking an IPA
 
 Brewing an IPA is craft; **drinking** one well is its own discipline. This domain is the
-practical companion to the [[Brewing Guide]] and the [[Science and Sensory]] notes — it
+practical companion to the [[Brewing Guide]] and the [[Science and Sensory]] notes: it
 turns chemistry and history into a glass in your hand. Whether you are opening a fresh
 [[New England IPA]] on a Friday evening or curating a [[Building an IPA Tasting Flight|flight]]
 for friends, a few good habits dramatically change what you experience.
 
 ## Why How You Drink Matters
 
-An IPA is the most **perishable** of beer styles. Its signature — hop aroma — is fragile,
+An IPA is the most **perishable** of beer styles. Its signature, hop aroma, is fragile,
 volatile, and time-sensitive. The same beer can taste vivid or flat depending on its
 temperature, the glass, the freshness of the can, and even what you ate beforehand. The
 notes in this domain exist to protect the work the brewer already did.
@@ -41,7 +41,7 @@ notes in this domain exist to protect the work the brewer already did.
 
 ## From Novice to Connoisseur
 
-If you are new, start with [[How to Taste an IPA]] and [[Serving Temperature]] — they give
+If you are new, start with [[How to Taste an IPA]] and [[Serving Temperature]]. They give
 the biggest improvement for the least effort. From there, [[IPA Freshness and Shelf Life]]
 will change how you shop. Drinkers chasing nuance should explore [[Tasting and Evaluating IPAs]]
 and the [[Beer Flavor Wheel]] to build vocabulary, then practice with structured
@@ -53,7 +53,7 @@ and the [[Beer Flavor Wheel]] to build vocabulary, then practice with structured
 
 ## Continue Reading
 
-- [[How to Taste an IPA]] — the core sensory routine
-- [[Glassware for IPAs]] — the right vessel for the job
-- [[IPA Styles]] — know what you are drinking
-- [[Best IPAs]] — where to point your curiosity
+- [[How to Taste an IPA]]: the core sensory routine
+- [[Glassware for IPAs]]: the right vessel for the job
+- [[IPA Styles]]: know what you are drinking
+- [[Best IPAs]]: where to point your curiosity

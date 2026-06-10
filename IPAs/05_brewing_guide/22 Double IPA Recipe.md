@@ -6,7 +6,7 @@ domain: Brewing
 
 # Double IPA Recipe
 
-A worked, brew-ready recipe for a **[[Double IPA]]** — big in strength and hop intensity, yet engineered to finish dry and deceptively drinkable. This is a West-Coast-leaning DIPA. Batch size: **5 gallons / 19 L**, ~70% efficiency.
+A worked, brew-ready recipe for a **[[Double IPA]]**: big in strength and hop intensity, yet engineered to finish dry and deceptively drinkable. This is a West-Coast-leaning DIPA. Batch size: **5 gallons / 19 L**, ~70% efficiency.
 
 ## Target Stats
 
@@ -32,7 +32,7 @@ A worked, brew-ready recipe for a **[[Double IPA]]** — big in strength and hop
 
 ## Mash
 
-Single infusion at **64 °C for 75 minutes** — low for maximum fermentability and a dry finish. See [[Mashing]].
+Single infusion at **64 °C for 75 minutes**, kept low for maximum fermentability and a dry finish. See [[Mashing]].
 
 ## Water Profile
 
@@ -48,7 +48,7 @@ Sulfate-forward to keep a big beer crisp. See [[Water Treatment for Brewing]].
 ## Hop Schedule
 
 > [!warning] Reduced utilization
-> High-gravity wort isomerizes alpha acids less efficiently — a DIPA needs a generous bittering charge to hit target IBU. See [[Alpha Acids and Bitterness]] and [[Isomerization of Alpha Acids]].
+> High-gravity wort isomerizes alpha acids less efficiently, so a DIPA needs a generous bittering charge to hit target IBU. See [[Alpha Acids and Bitterness]] and [[Isomerization of Alpha Acids]].
 
 | Timing | Hop | Amount | Purpose |
 |---|---|---|---|
@@ -59,17 +59,17 @@ Sulfate-forward to keep a big beer crisp. See [[Water Treatment for Brewing]].
 | Dry hop 1 (active, day 4) | [[Simcoe]] | 56 g | Biotransformation |
 | Dry hop 2 (cold) | [[Mosaic]] | 70 g | Aroma retention |
 
-A heavy [[Double Dry Hopping|double dry hop]] — see [[Hop Additions and Timing]].
+A heavy [[Double Dry Hopping|double dry hop]]; see [[Hop Additions and Timing]].
 
 ## Yeast & Fermentation
 
-- **Yeast:** clean, highly attenuative American ale strain; pitch a **large starter** — high-gravity wort stresses yeast. See [[IPA Yeast Strains]] and [[Fermentation]].
+- **Yeast:** clean, highly attenuative American ale strain; pitch a **large starter**, because high-gravity wort stresses yeast. See [[IPA Yeast Strains]] and [[Fermentation]].
 - **Oxygenate** the chilled wort well at pitching.
 - **Ferment:** 19 °C, free-rising to 22 °C for a diacetyl rest.
 - **Dry hop:** day 4 during active fermentation, then a cold charge.
 
 > [!warning] Hop creep and alcohol heat
-> Big dry hops on a strong beer risk pronounced [[Hop Creep and Refermentation|refermentation]]. Confirm terminal gravity before packaging. Ferment cool enough to avoid hot fusel alcohols — see [[Off-Flavors in IPA]].
+> Big dry hops on a strong beer risk pronounced [[Hop Creep and Refermentation|refermentation]]. Confirm terminal gravity before packaging. Ferment cool enough to avoid hot fusel alcohols; see [[Off-Flavors in IPA]].
 
 ## Packaging
 

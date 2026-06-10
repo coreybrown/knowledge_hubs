@@ -19,7 +19,7 @@ source: "Stefanos Domatiotis (Taf Coffee), 2014 World Brewers Cup"
 
 # 🇬🇷 Stefanos Domatiotis Brewers Cup Recipe
 
-Stefanos Domatiotis of Taf Coffee in Athens won the 2014 World Brewers Cup for Greece, and his routine is remembered less for a single gimmick than for **uncompromising precision and bean selection** — an immaculate light-roasted **Panama Geisha from Ninety Plus** (he was the first champion to use a Ninety Plus coffee) brewed on a [[Hario V60]]. He used **two kettles** to hold temperature exactly where he wanted it and poured calm and even. He is one of the brewers who helped cement the idea that a great cup is **won at the farm and the roaster**, then merely *not ruined* at the brew bar. 🏛️
+Stefanos Domatiotis of Taf Coffee in Athens won the 2014 World Brewers Cup for Greece, and his routine is remembered less for a single gimmick than for **uncompromising precision and bean selection**: an immaculate light-roasted **Panama Geisha from Ninety Plus** (he was the first champion to use a Ninety Plus coffee) brewed on a [[Hario V60]]. He used **two kettles** to hold temperature exactly where he wanted it and poured calm and even. He is one of the brewers who helped cement the idea that a great cup is **won at the farm and the roaster**, then merely *not ruined* at the brew bar. 🏛️
 
 > [!example] ☕ Recipe Card
 > | Field | Value |
@@ -29,7 +29,7 @@ Stefanos Domatiotis of Taf Coffee in Athens won the 2014 World Brewers Cup for G
 > | Water | ~450 g total (approx.) |
 > | Ratio | ~1:15 |
 > | Temp | ~90-92°C |
-> | Grind | medium-fine — see [[Grind Size for Pour Over]] |
+> | Grind | medium-fine (see [[Grind Size for Pour Over]]) |
 > | Bloom | ~60 g for ~45 s |
 > | Brew time | ~3:30 |
 > | Roast | light, single-origin Panama Geisha (Ninety Plus) |
@@ -38,27 +38,27 @@ Stefanos Domatiotis of Taf Coffee in Athens won the 2014 World Brewers Cup for G
 
 ## Pour Schedule
 
-A representative reconstruction of a gentle, multi-pour V60 in his style (exact competition figures are not fully public — treat as approximate):
+A representative reconstruction of a gentle, multi-pour V60 in his style (exact competition figures are not fully public, so treat as approximate):
 
-1. **0:00** — Pour to **~60 g** (cumulative ~60 g); [[The Bloom|bloom]] ~45 s.
-2. **0:45** — Pour gently to **~200 g** (cumulative ~200 g).
-3. **1:40** — Pour to **~325 g** (cumulative ~325 g).
-4. **2:30** — Pour to **~450 g** (cumulative ~450 g), keeping the bed level.
-5. **~3:30** — Drawdown completes.
+1. **0:00**: Pour to **~60 g** (cumulative ~60 g); [[The Bloom|bloom]] ~45 s.
+2. **0:45**: Pour gently to **~200 g** (cumulative ~200 g).
+3. **1:40**: Pour to **~325 g** (cumulative ~325 g).
+4. **2:30**: Pour to **~450 g** (cumulative ~450 g), keeping the bed level.
+5. **~3:30**: Drawdown completes.
 
 > [!warning] Specifics are approximate
 > What is well documented: he brewed a **Ninety Plus Panama Geisha** on a **V60 using two kettles** for temperature control. His exact 2014 dose, pour weights, and timings are **not** published in a single authoritative source the way Kasuya's or Fukahori's are. The numbers above are a sensible reconstruction in his documented style; trust the **approach** (light Geisha, two-kettle temperature control, gentle even pours) over the precise figures.
 
 ## Why It Works
 
-The lesson of this routine is **restraint**. With a coffee this special, the job is to extract its delicate florals and sweetness **cleanly and completely without dragging out anything harsh** — so the water is kept on the cooler side, the grind moderate, the pour gentle, and [[Agitation and Turbulence|agitation]] minimal. Everything serves [[Extraction Yield and Strength|clarity]]. Domatiotis is also a roaster, and his competitions underline how much the cup depends on [[Coffee Processing Methods|processing]], [[Coffee Varietals|variety]], and roast before a single drop of water is poured.
+The lesson of this routine is **restraint**. With a coffee this special, the job is to extract its delicate florals and sweetness **cleanly and completely without dragging out anything harsh**: the water is kept on the cooler side, the grind moderate, the pour gentle, and [[Agitation and Turbulence|agitation]] minimal. Everything serves [[Extraction Yield and Strength|clarity]]. Domatiotis is also a roaster, and his competitions underline how much the cup depends on [[Coffee Processing Methods|processing]], [[Coffee Varietals|variety]], and roast before a single drop of water is poured.
 
 This is an aspirational, bean-led recipe rather than a daily driver. To chase the same clarity at home, start from a clean [[The Standard V60 Recipe]] and a [[Light Roast and Specialty Coffee|light roast]], then refine.
 
 ## Continue Reading
 
-- [[The World Brewers Cup]] — the 2014 competition
-- [[Coffee Varietals]] — why gesha dominates the competition stage
-- [[Light Roast and Specialty Coffee]] — the roast this recipe needs
-- [[Notable Roasters]] — Taf Coffee and the roaster-competitor tradition
-- [[The Standard V60 Recipe]] — a practical place to begin
+- [[The World Brewers Cup]]: the 2014 competition
+- [[Coffee Varietals]]: why gesha dominates the competition stage
+- [[Light Roast and Specialty Coffee]]: the roast this recipe needs
+- [[Notable Roasters]]: Taf Coffee and the roaster-competitor tradition
+- [[The Standard V60 Recipe]]: a practical place to begin

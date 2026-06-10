@@ -30,7 +30,7 @@ and reliably fresh**. For everyday drinking, these frequently beat the hype beer
 
 The economics of [[Beer Distribution and the Three-Tier System|distribution]] reward
 scale: large regional breweries can sell genuinely excellent beer cheaply because
-volume spreads fixed costs. Crucially, wide distribution also means **high turnover** —
+volume spreads fixed costs. Crucially, wide distribution also means **high turnover**:
 cans sell quickly and reach you fresh, which matters enormously given [[Hop Fade and Oxidation]]. A cheap, fresh IPA usually outperforms an expensive, old one.
 
 > [!tip] Where the real savings hide
@@ -40,7 +40,7 @@ cans sell quickly and reach you fresh, which matters enormously given [[Hop Fade
 
 > [!example] Price ≠ quality
 > Several beers on this list also appear among the [[Iconic IPAs That Defined the Style]]. The [[The Hype Beer Phenomenon|hype economy]] inflates prices for scarcity
-> and packaging, not for what is in the glass — see [[Untappd and Beer Rating Culture]].
+> and packaging, not for what is in the glass. See [[Untappd and Beer Rating Culture]].
 
 ## How to shop smart
 
@@ -50,7 +50,7 @@ heavily with budget value.
 
 ## Continue Reading
 
-- [[Best Session IPAs]] — many overlap with great value
-- [[IPA Freshness and Shelf Life]] — why fresh-and-cheap wins
-- [[The Hype Beer Phenomenon]] — what you are really paying for
-- [[Best IPAs]] — the full domain hub
+- [[Best Session IPAs]]: many overlap with great value
+- [[IPA Freshness and Shelf Life]]: why fresh-and-cheap wins
+- [[The Hype Beer Phenomenon]]: what you are really paying for
+- [[Best IPAs]]: the full domain hub

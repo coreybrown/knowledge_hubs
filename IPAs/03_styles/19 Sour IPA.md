@@ -6,7 +6,7 @@ domain: Styles
 
 # Sour IPA
 
-The **Sour IPA** marries tartness with hop aroma — a beer that is both sour and
+The **Sour IPA** marries tartness with hop aroma: a beer that is both sour and
 hoppy, two qualities long thought incompatible. It is most often produced by
 **kettle souring**: a fast, controlled acidification that lets brewers add a
 crisp lactic tang to a heavily hopped beer without the years of aging that
@@ -19,7 +19,7 @@ traditional sour beers require.
 > | **IBU** | 10–40 (low) |
 > | **Color** | 4–9 SRM (pale, often fruit-tinted) |
 > | **Haze** | Often hazy |
-> | **Key hops** | Tropical American — [[Citra]], [[Mosaic]], [[Galaxy]] |
+> | **Key hops** | Tropical American: [[Citra]], [[Mosaic]], [[Galaxy]] |
 > | **Glassware** | Tulip or stemmed glass |
 
 ## The Kettle-Souring Method
@@ -33,14 +33,14 @@ target acidity is reached, then boil to kill the bacteria. Standard
 
 > [!warning] Why souring comes first
 > *Lactobacillus* is strongly inhibited by hop compounds. Souring must happen
-> *before* hops are added — which is why the Sour IPA's bitterness is kept low
+> *before* hops are added, which is why the Sour IPA's bitterness is kept low
 > and its hops are loaded late, as flavor and aroma rather than bitterness. See
 > [[Hop Additions and Timing]].
 
 ## Sour Meets Hoppy
 
 A bright lactic acidity turns out to pair naturally with citrus and tropical hop
-flavors — the tartness reads as "fruit," reinforcing mango, passionfruit, and
+flavors. The tartness reads as "fruit," reinforcing mango, passionfruit, and
 lime impressions from the [[Hops]]. Many Sour IPAs add real fruit purée,
 blurring the line with the [[Milkshake IPA]].
 
@@ -51,7 +51,7 @@ blurring the line with the [[Milkshake IPA]].
 | Aroma | Tropical and citrus hops, light tartness |
 | Flavor | Clean lactic sourness woven with juicy hop flavor |
 | Bitterness | Very low |
-| Mouthfeel | Light, crisp, often spritzy — see [[The Science of Mouthfeel]] |
+| Mouthfeel | Light, crisp, often spritzy (see [[The Science of Mouthfeel]]) |
 | Finish | Tart, dry, refreshing |
 
 ## Place in the Family
@@ -62,8 +62,8 @@ within the [[Specialty and Experimental IPAs]] category.
 
 ## Continue Reading
 
-- [[Brett IPA]] — the wild-fermented cousin
-- [[Milkshake IPA]] — the fruit-forward relative
-- [[The Boil]] — where kettle souring fits in the process
-- [[Off-Flavors in IPA]] — distinguishing intentional sourness from faults
-- [[Specialty and Experimental IPAs]] — the experimental frontier
+- [[Brett IPA]]: the wild-fermented cousin
+- [[Milkshake IPA]]: the fruit-forward relative
+- [[The Boil]]: where kettle souring fits in the process
+- [[Off-Flavors in IPA]]: distinguishing intentional sourness from faults
+- [[Specialty and Experimental IPAs]]: the experimental frontier

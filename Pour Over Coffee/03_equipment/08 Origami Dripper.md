@@ -6,7 +6,7 @@ domain: Equipment & Drippers
 
 # 🎏 Origami Dripper
 
-The **Origami Dripper** is the great shape-shifter of pour over. Made in Japan's ceramic town of Mino, its faceted, pleated walls — the source of its name — make it a darling of cafés and a competition favorite. Its trick is **versatility**: depending on the filter you drop in, it brews like a cone *or* like a flat bottom, letting one dripper span the whole [[Conical vs Flat Bottom Drippers|geometry spectrum]]. It rose to fame after appearing in winning routines at the World Brewers Cup.
+The **Origami Dripper** is the great shape-shifter of pour over. Made in Japan's ceramic town of Mino, its faceted, pleated walls (the source of its name) make it a darling of cafés and a competition favorite. Its trick is **versatility**: depending on the filter you drop in, it brews like a cone *or* like a flat bottom, letting one dripper span the whole [[Conical vs Flat Bottom Drippers|geometry spectrum]]. It rose to fame after appearing in winning routines at the World Brewers Cup.
 
 ## Specs at a Glance
 
@@ -17,7 +17,7 @@ The **Origami Dripper** is the great shape-shifter of pour over. Made in Japan's
 | Holes | One large central hole (like a V60) |
 | Ribs | 20 vertical pleats (the "folds") |
 | Filter | **V60 conical** *or* **Kalita Wave flat-bottom** paper |
-| Flow speed | Fast — among the fastest-draining drippers |
+| Flow speed | Fast, among the fastest-draining drippers |
 | Cup style | Cone filter → clean and bright; wave filter → sweet and even |
 
 ## Why the Design Works
@@ -36,8 +36,8 @@ Start with the [[Origami Dripper Recipe]]. Because it accepts both filter shapes
 
 ## Continue Reading
 
-- [[Origami Dripper Recipe]] — a method tuned to its fast flow
-- [[Conical vs Flat Bottom Drippers]] — the two modes it spans
-- [[Hario V60]] — its conical-filter sibling
-- [[Kalita Wave]] — its flat-filter sibling
-- [[The World Brewers Cup]] — where it made its name
+- [[Origami Dripper Recipe]]: a method tuned to its fast flow
+- [[Conical vs Flat Bottom Drippers]]: the two modes it spans
+- [[Hario V60]]: its conical-filter sibling
+- [[Kalita Wave]]: its flat-filter sibling
+- [[The World Brewers Cup]]: where it made its name

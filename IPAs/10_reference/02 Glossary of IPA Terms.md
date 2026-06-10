@@ -18,8 +18,8 @@ alphabetically. Where a concept has its own dedicated note, the entry links to i
 
 | Term | Definition |
 |---|---|
-| **ABV** | Alcohol By Volume — the percentage of a beer's volume that is ethanol. Most IPAs fall between 5.5% and 7.5%; see [[Reading an IPA Label]]. |
-| **Adjunct** | A fermentable ingredient other than malted barley — oats, wheat, sugar, lactose. See [[Specialty Malts and Adjuncts]]. |
+| **ABV** | Alcohol By Volume, the percentage of a beer's volume that is ethanol. Most IPAs fall between 5.5% and 7.5%; see [[Reading an IPA Label]]. |
+| **Adjunct** | A fermentable ingredient other than malted barley: oats, wheat, sugar, lactose. See [[Specialty Malts and Adjuncts]]. |
 | **Alpha acid** | The resin compounds in hops that, once isomerized, provide bitterness. Measured as a percentage of hop weight. See [[Alpha Acids and Bitterness]]. |
 | **Aroma hops** | Hops added late in the process to contribute scent rather than bitterness. See [[Bittering, Flavor, and Aroma Hops]]. |
 | **Attenuation** | The degree to which yeast converts sugar into alcohol and CO2. High attenuation yields the dry finish typical of a [[West Coast IPA]]. See [[Fermentation]]. |
@@ -27,7 +27,7 @@ alphabetically. Where a concept has its own dedicated note, the entry links to i
 | **Beta acid** | A hop resin that contributes little bitterness when fresh but oxidizes over time, affecting aged-hop character. See [[Hop Chemistry]]. |
 | **Bittering hops** | Hops added early in [[The Boil]] for maximum isomerization and bitterness. See [[Hop Additions and Timing]]. |
 | **Biotransformation** | The conversion of hop compounds by active yeast during fermentation, generating new aromatic thiols and esters. See [[Biotransformation]]. |
-| **BJCP** | Beer Judge Certification Program — the body whose style guidelines define competition categories. See [[BJCP and Style Guidelines]]. |
+| **BJCP** | Beer Judge Certification Program, the body whose style guidelines define competition categories. See [[BJCP and Style Guidelines]]. |
 | **Brett** | *Brettanomyces*, a wild yeast used in [[Brett IPA]] for funky, fruity complexity. |
 | **Brix** | A measure of dissolved sugar, often used alongside gravity readings. See [[Recipe Formulation]]. |
 | **Carbonation** | Dissolved CO2 that produces a beer's effervescence and contributes to perceived crispness. See [[Carbonation and Packaging]]. |
@@ -42,7 +42,7 @@ alphabetically. Where a concept has its own dedicated note, the entry links to i
 |---|---|
 | **Diacetyl** | A buttery off-flavor caused by incomplete fermentation. See [[Off-Flavors in IPA]]. |
 | **Double dry hop (DDH)** | Adding dry hops in two separate charges to layer aroma intensity. See [[Double Dry Hopping]]. |
-| **Dry hopping** | Adding hops after the boil — during or after fermentation — for aroma without added bitterness. See [[Dry Hopping]]. |
+| **Dry hopping** | Adding hops after the boil (during or after fermentation) for aroma without added bitterness. See [[Dry Hopping]]. |
 | **EBC / SRM** | Color scales for beer; SRM is the common American measure. See [[Reading an IPA Label]]. |
 | **Ester** | A fruity aromatic compound produced by yeast, prominent in [[New England IPA]] and [[Belgian IPA]]. See [[Hop Aroma Compounds]]. |
 | **Final gravity (FG)** | The density of beer after fermentation; the gap from original gravity indicates alcohol produced. See [[Recipe Formulation]]. |
@@ -57,28 +57,28 @@ alphabetically. Where a concept has its own dedicated note, the entry links to i
 
 | Term | Definition |
 |---|---|
-| **IBU** | International Bitterness Unit — the analytical measure of isomerized alpha acid in beer. Perceived bitterness can differ from the number. See [[IBU and Perceived Bitterness]]. |
+| **IBU** | International Bitterness Unit: the analytical measure of isomerized alpha acid in beer. Perceived bitterness can differ from the number. See [[IBU and Perceived Bitterness]]. |
 | **Isomerization** | The heat-driven chemical change that turns insoluble alpha acids into bitter iso-alpha acids during the boil. See [[Isomerization of Alpha Acids]]. |
 | **Lactose** | An unfermentable milk sugar added for sweetness and body, notably in [[Milkshake IPA]]. |
 | **Lautering** | Separating sweet wort from spent grain after the mash. See [[Lautering and Sparging]]. |
-| **Light-struck** | "Skunked" — a defect from light reacting with hop compounds. See [[Light-Struck Beer and Skunking]]. |
+| **Light-struck** | Also called "skunked": a defect from light reacting with hop compounds. See [[Light-Struck Beer and Skunking]]. |
 | **Lupulin** | The yellow resinous glands of the hop cone where alpha acids and oils are stored. See [[Cryo Hops and Lupulin Powder]]. |
 | **Mash** | The hot steep of milled grain and water that converts starch to sugar. See [[Mashing]]. |
-| **Mouthfeel** | The tactile sensation of beer — body, carbonation, astringency, creaminess. See [[The Science of Mouthfeel]]. |
+| **Mouthfeel** | The tactile sensation of beer: body, carbonation, astringency, creaminess. See [[The Science of Mouthfeel]]. |
 | **Myrcene** | The dominant hop terpene, responsible for resinous, citrusy, "dank" aromas. See [[Hop Oils and Terpenes]]. |
 
 ## N–S
 
 | Term | Definition |
 |---|---|
-| **NEIPA** | New England IPA — a soft, hazy, low-bitterness, aroma-forward style. See [[New England IPA]]. |
+| **NEIPA** | New England IPA: a soft, hazy, low-bitterness, aroma-forward style. See [[New England IPA]]. |
 | **Noble hops** | Traditional low-alpha European aroma hops. See [[Noble and English Hops]]. |
 | **Original gravity (OG)** | The density of wort before fermentation, indicating potential alcohol. See [[Recipe Formulation]]. |
 | **Oxidation** | Reaction with oxygen that dulls hop aroma and creates stale, papery flavors. See [[Hop Fade and Oxidation]]. |
-| **Pellets** | Compressed, milled hops — the most common commercial hop format. See [[Hop Products and Formats]]. |
+| **Pellets** | Compressed, milled hops, the most common commercial hop format. See [[Hop Products and Formats]]. |
 | **Polyphenol** | Plant compounds from hops and malt that contribute to haze, astringency, and stability. See [[Hop Haze and Colloidal Stability]]. |
 | **Sparging** | Rinsing the grain bed with hot water to recover residual sugar. See [[Lautering and Sparging]]. |
-| **Sulfate** | A water ion that sharpens and accentuates hop bitterness — the classic Burton signature. See [[Water Chemistry and the Sulfate-Chloride Ratio]]. |
+| **Sulfate** | A water ion that sharpens and accentuates hop bitterness; this is the classic Burton signature. See [[Water Chemistry and the Sulfate-Chloride Ratio]]. |
 
 ## T–Z
 
@@ -94,8 +94,8 @@ alphabetically. Where a concept has its own dedicated note, the entry links to i
 
 ## Continue Reading
 
-- [[Master Index]] — every note in the vault
-- [[Frequently Asked Questions]] — common questions answered
-- [[Hop Chemistry]] — the science behind the vocabulary
-- [[BJCP and Style Guidelines]] — the formal style framework
-- [[Beer Flavor Wheel]] — the language of tasting
+- [[Master Index]]: every note in the vault
+- [[Frequently Asked Questions]]: common questions answered
+- [[Hop Chemistry]] explains the science behind the vocabulary
+- [[BJCP and Style Guidelines]]: the formal style framework
+- [[Beer Flavor Wheel]]: the language of tasting

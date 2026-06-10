@@ -6,7 +6,7 @@ domain: Introduction
 
 # 🍺 The IPA Knowledge Base
 
-A comprehensive, interlinked knowledge base on the **India Pale Ale** — from its
+A comprehensive, interlinked knowledge base on the **India Pale Ale**, from its
 contested 18th-century origins to the haze-clouded, thiol-driven frontier of modern
 brewing. Written for the intellectually curious: equally useful to a first-time
 drinker and a brewmaster of forty years.
@@ -20,8 +20,8 @@ drinker and a brewmaster of forty years.
 | Domain | Start at | What you'll find |
 |---|---|---|
 | 📜 History | [[History of IPAs]] | Origins, myths, the craft revival, and where the style is heading |
-| 🗺️ Styles | [[IPA Styles]] | Every IPA sub-style, mapped — see the [[IPA Style Comparison Table]] |
-| 🌿 Ingredients | [[Ingredients]] | Hops, malt, yeast, water — the four pillars of IPA character |
+| 🗺️ Styles | [[IPA Styles]] | Every IPA sub-style, mapped; see the [[IPA Style Comparison Table]] |
+| 🌿 Ingredients | [[Ingredients]] | Hops, malt, yeast, water: the four pillars of IPA character |
 | 🧪 Brewing Guide | [[Brewing Guide]] | The full process, recipe formulation, and worked recipes |
 | 🔬 Science & Sensory | [[Science and Sensory]] | Bitterness chemistry, [[Biotransformation]], haze, off-flavors |
 | 🍻 Drinking an IPA | [[Drinking an IPA]] | Glassware, freshness, pairing, and regional drinking culture |
@@ -33,7 +33,7 @@ drinker and a brewmaster of forty years.
 
 An IPA is a [[Hops]]-forward [[Beer Flavor Wheel|pale ale]] defined by assertive
 bitterness, aroma, and flavor. Born of British [[Origins of Pale Ale|pale ale]]
-tradition and reborn in the [[The American Craft Beer Revolution|American craft revolution]], it has fractured into dozens of [[IPA Styles|sub-styles]] — the
+tradition and reborn in the [[The American Craft Beer Revolution|American craft revolution]], it has fractured into dozens of [[IPA Styles|sub-styles]]: the
 crisp, bitter [[West Coast IPA]]; the soft, juicy [[New England IPA]]; the
 hop-saturated [[Double IPA]]; and frontier experiments like the [[Cold IPA]] and
 [[Brut IPA]]. More than any other beer, the IPA is the canvas on which modern

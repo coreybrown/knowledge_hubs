@@ -6,7 +6,7 @@ domain: Recipes & Methods
 
 # 🌍 Community Recipes
 
-**Community recipes** are the methods that spread through YouTube, blogs, forums, and roaster brew guides — refined by educators and professionals, then road-tested by thousands of home brewers. They sit between the friendly [[Official Brewer Recipes|official methods]] and the rarefied [[Competition Recipes]]: more developed than the box instructions, but designed for everyday beans, ordinary water, and a normal kitchen. This is where most people find their daily driver. ▶️
+**Community recipes** are the methods that spread through YouTube, blogs, forums, and roaster brew guides, refined by educators and professionals, then road-tested by thousands of home brewers. They sit between the friendly [[Official Brewer Recipes|official methods]] and the rarefied [[Competition Recipes]]: more developed than the box instructions, but designed for everyday beans, ordinary water, and a normal kitchen. This is where most people find their daily driver. ▶️
 
 The defining feature of this category is **repeatability for real homes**. James Hoffmann's swirl, Scott Rao's spin, and Lance Hedrick's pour-from-height all exist to remove a specific source of inconsistency, so that an amateur with a decent grinder can hit the same cup twice. Where a recipe targets a particular brewer or roast, the note says so.
 
@@ -26,7 +26,7 @@ If you're new, start with [[The Standard V60 Recipe]] or the [[James Hoffmann V6
 
 ## Continue Reading
 
-- [[James Hoffmann V60 Technique]] — the most-watched V60 method online
-- [[The Standard V60 Recipe]] — the beginner default
-- [[Recipes and Methods]] — the full recipe hub
-- [[Coffee Online — Communities and Content]] — where these recipes circulate
+- [[James Hoffmann V60 Technique]]: the most-watched V60 method online
+- [[The Standard V60 Recipe]]: the beginner default
+- [[Recipes and Methods]]: the full recipe hub
+- [[Online Coffee Communities and Content]]: where these recipes circulate

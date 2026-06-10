@@ -6,7 +6,7 @@ domain: Styles
 
 # India Pale Lager
 
-The **India Pale Lager** — or **IPL** — applies IPA-scale hopping to a true
+The **India Pale Lager** (or **IPL**) applies IPA-scale hopping to a true
 lager. It takes the aggressive citrus, pine, and tropical hop character of an
 [[American IPA]] and builds it on a cold-fermented, lagered base, producing a
 beer that is crisp, clean, and smooth yet emphatically hop-forward. It is the
@@ -19,7 +19,7 @@ clearest cross-genre member of the IPA family.
 > | **IBU** | 50–80 |
 > | **Color** | 4–9 SRM (pale gold) |
 > | **Haze** | Clear |
-> | **Key hops** | American — [[Citra]], [[Simcoe]], [[Centennial]], [[Cascade]] |
+> | **Key hops** | American: [[Citra]], [[Simcoe]], [[Centennial]], [[Cascade]] |
 > | **Glassware** | IPA glass or pilsner glass |
 
 ## Ale vs. Lager: the Core Distinction
@@ -39,30 +39,30 @@ nothing on it but malt and hops. See [[IPA Yeast Strains]] and [[Fermentation]].
 ## IPL vs. Cold IPA
 
 > [!tip] Two easily confused styles
-> The [[Cold IPA]] also uses lager yeast — but it ferments warmer and skips long
+> The [[Cold IPA]] also uses lager yeast, but it ferments warmer and skips long
 > lagering, treating the beer as an ale that happens to use lager yeast. A true
 > IPL is fully lagered, cold-conditioned, and smoother. The IPL prioritizes
 > lager refinement; the Cold IPA prioritizes raw hop expression.
 
 ## Sensory Profile
 
-- **Appearance** — pale gold and clear.
-- **Aroma** — bright American hops with no estery interference.
-- **Flavor** — clean malt, vivid hop flavor, firm bitterness.
-- **Mouthfeel** — crisp, smooth, lager-clean — see [[The Science of Mouthfeel]].
-- **Finish** — dry and refreshing.
+- **Appearance**: pale gold and clear.
+- **Aroma**: bright American hops with no estery interference.
+- **Flavor**: clean malt, vivid hop flavor, firm bitterness.
+- **Mouthfeel**: crisp, smooth, lager-clean; see [[The Science of Mouthfeel]].
+- **Finish**: dry and refreshing.
 
 ## Place in the Family
 
 The India Pale Lager and the [[Cold IPA]] together form the lager-leaning corner
-of the IPA family — proof that the style's defining trait is *hop intensity*,
+of the IPA family, proof that the style's defining trait is *hop intensity*,
 not the use of ale yeast. Both belong among the
 [[Specialty and Experimental IPAs]].
 
 ## Continue Reading
 
-- [[Cold IPA]] — the closely related, ale-treated cousin
-- [[American IPA]] — the hopping reference point
-- [[IPA Yeast Strains]] — ale vs. lager yeast
-- [[Fermentation]] — warm vs. cold fermentation
-- [[IPA Family Tree]] — where the IPL sits in the genealogy
+- [[Cold IPA]]: the closely related, ale-treated cousin
+- [[American IPA]]: the hopping reference point
+- [[IPA Yeast Strains]]: ale vs. lager yeast
+- [[Fermentation]]: warm vs. cold fermentation
+- [[IPA Family Tree]]: where the IPL sits in the genealogy

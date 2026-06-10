@@ -8,7 +8,7 @@ domain: Science
 
 This domain is the **laboratory and tasting room** of the knowledge base. If the
 [[Brewing Guide]] tells you *what* to do, the Science and Sensory domain explains
-*why* it works — the chemistry, biochemistry, and perceptual science that turn
+*why* it works: the chemistry, biochemistry, and perceptual science that turn
 [[Hops]], [[Malt]], [[Yeast]], and [[Water]] into an IPA you can describe,
 critique, and improve.
 
@@ -24,7 +24,7 @@ hop's lupulin glands. These notes trace each one from molecule to glass.
 
 | Note | What it explains |
 |---|---|
-| [[The Chemistry of Hop Bitterness]] | Humulones and iso-alpha acids — the bitter backbone |
+| [[The Chemistry of Hop Bitterness]] | Humulones and iso-alpha acids, the bitter backbone |
 | [[Isomerization of Alpha Acids]] | The boil reaction that makes hops bitter |
 | [[Hop Aroma Compounds]] | Terpenes and terpenoids behind citrus, pine, and dank |
 | [[Thiols and Hop Burst]] | Polyfunctional thiols and "thiolized" yeast |
@@ -32,7 +32,7 @@ hop's lupulin glands. These notes trace each one from molecule to glass.
 ## Process Science
 
 Brewing is a sequence of controlled reactions. These notes cover what happens
-*after* the hops go in — during fermentation, dry hopping, and packaging.
+*after* the hops go in, during fermentation, dry hopping, and packaging.
 
 | Note | What it explains |
 |---|---|
@@ -44,7 +44,7 @@ Brewing is a sequence of controlled reactions. These notes cover what happens
 
 ## Sensory Science
 
-Chemistry is only half the story — the other half is the human nervous system.
+Chemistry is only half the story. The other half is the human nervous system.
 
 | Note | What it explains |
 |---|---|
@@ -62,14 +62,14 @@ Chemistry is only half the story — the other half is the human nervous system.
 
 ## Why It Matters
 
-Every modern IPA innovation — the soft haze of a [[New England IPA]], the crisp
-snap of a [[Cold IPA]], the explosive aroma of [[Double Dry Hopping]] — was
+Every modern IPA innovation (the soft haze of a [[New England IPA]], the crisp
+snap of a [[Cold IPA]], the explosive aroma of [[Double Dry Hopping]]) was
 unlocked by understanding the science on these pages. Sensory literacy also makes
 you a better drinker: see [[How to Taste an IPA]] and [[IPA Freshness and Shelf Life]].
 
 ## Continue Reading
 
-- [[The Chemistry of Hop Bitterness]] — the natural starting point
-- [[Hop Chemistry]] — the ingredient-side companion
-- [[Tasting and Evaluating IPAs]] — apply the science
-- [[Brewing Guide]] — where the science becomes practice
+- [[The Chemistry of Hop Bitterness]]: the natural starting point
+- [[Hop Chemistry]]: the ingredient-side companion
+- [[Tasting and Evaluating IPAs]]: apply the science
+- [[Brewing Guide]]: where the science becomes practice

@@ -14,7 +14,7 @@ open eyes.
 > These lists are **informed critical opinion**, not objective fact. No tasting panel
 > can sample every IPA on earth, and beer is too perishable and personal for a
 > definitive ranking to exist. Read every pick as "a knowledgeable critic thinks this
-> is worth your time" — never as "this is empirically the best."
+> is worth your time," never as "this is empirically the best."
 
 ## The criteria
 
@@ -30,19 +30,19 @@ A beer earns a place on these lists when it scores well across five dimensions.
 
 No single criterion wins on its own. A flawless but forgettable beer ranks below a
 slightly rough beer that does something nobody else does. Influence is why historic
-beers appear even when fresher rivals technically out-brew them today — see [[Iconic IPAs That Defined the Style]].
+beers appear even when fresher rivals technically out-brew them today. See [[Iconic IPAs That Defined the Style]].
 
 ## How tasting works here
 
 Picks lean on structured sensory evaluation rather than gut reaction. That means
-[[How to Taste an IPA|deliberate tasting]] — appearance, aroma, flavor, mouthfeel,
-finish — informed by the [[Beer Flavor Wheel]] and an awareness of [[Off-Flavors in IPA]]. Where possible, beers are judged **fresh**, because [[Hop Fade and Oxidation]]
+[[How to Taste an IPA|deliberate tasting]] (appearance, aroma, flavor, mouthfeel,
+finish) informed by the [[Beer Flavor Wheel]] and an awareness of [[Off-Flavors in IPA]]. Where possible, beers are judged **fresh**, because [[Hop Fade and Oxidation]]
 can wreck an otherwise great IPA. The principles of [[Sensory Training and Panels]]
 and [[Tasting and Evaluating IPAs]] underpin the approach.
 
 > [!tip] Always check the date
 > A beer judged at peak freshness may disappoint you months later. This is not the
-> brewer's failure or yours — it is chemistry. See [[IPA Freshness and Shelf Life]].
+> brewer's failure or yours: it is chemistry. See [[IPA Freshness and Shelf Life]].
 
 ## Known biases (stated plainly)
 
@@ -64,7 +64,7 @@ for your own [[Building an IPA Tasting Flight|tasting]]. Use them as a starting 
 
 ## Continue Reading
 
-- [[Best IPAs]] — the domain hub and full list index
-- [[Tasting and Evaluating IPAs]] — judge beers yourself
-- [[Off-Flavors in IPA]] — what disqualifies a beer
-- [[The Hype Beer Phenomenon]] — why popularity misleads
+- [[Best IPAs]]: the domain hub and full list index
+- [[Tasting and Evaluating IPAs]]: judge beers yourself
+- [[Off-Flavors in IPA]]: what disqualifies a beer
+- [[The Hype Beer Phenomenon]]: why popularity misleads

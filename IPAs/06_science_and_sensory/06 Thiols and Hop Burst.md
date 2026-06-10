@@ -15,8 +15,8 @@ obsession of cutting-edge IPA brewing.
 
 A **thiol** is an organic compound containing a **sulfur–hydrogen (–SH) group**.
 The relevant ones in beer are called **polyfunctional thiols** because they carry
-additional chemical groups. They smell of grapefruit, passionfruit, guava, and —
-in excess — "catty" or blackcurrant.
+additional chemical groups. They smell of grapefruit, passionfruit, guava, and,
+in excess, "catty" or blackcurrant.
 
 | Thiol | Shorthand | Aroma |
 |---|---|---|
@@ -26,10 +26,10 @@ in excess — "catty" or blackcurrant.
 
 > [!note] Detected in parts per *trillion*
 > Some thiols are perceptible at nanograms per liter. A near-undetectable trace can
-> dominate the aroma of a beer — which is what makes them so powerful and so
+> dominate the aroma of a beer, which is what makes them so powerful and so
 > finicky.
 
-## "Hop Burst" — Where Thiols Come From
+## "Hop Burst": Where Thiols Come From
 
 The term **hop burst** describes a brewing approach that loads almost all hops into
 the late-boil, [[Whirlpool and Hop Stand|whirlpool]], and [[Dry Hopping|dry hop]]
@@ -38,19 +38,19 @@ stages rather than the bittering addition. This both preserves
 precursors**.
 
 Crucially, most thiols do not arrive in the beer ready to smell. They come **bound
-and odorless** — locked to a cysteine or glutathione molecule. They must be
+and odorless**, locked to a cysteine or glutathione molecule. They must be
 **released**, and that is a job for [[Biotransformation|fermentation]].
 
-## Thiolized Yeast — The Modern Breakthrough
+## Thiolized Yeast: The Modern Breakthrough
 
 Ordinary brewing yeast releases some bound thiols using an enzyme called a
 **β-lyase**, but most strains are weak at it. The breakthrough of the last decade
-has been **"thiolized" yeast** — strains (some bred, some bioengineered) with high
+has been **"thiolized" yeast**: strains (some bred, some bioengineered) with high
 β-lyase activity that aggressively cleave precursors and free the thiols.
 
 > [!example] Free aroma from "nothing"
 > The same hops and same wort, fermented with a thiolized strain instead of a
-> standard one, can produce a dramatically more tropical, juicy beer — the aroma
+> standard one, can produce a dramatically more tropical, juicy beer. The aroma
 > was always present, just locked away.
 
 Hop variety matters too: [[Sabro]], [[Citra]], and [[Mosaic]] are notably
@@ -66,12 +66,12 @@ spectacular aroma.
 
 > [!warning] Thiols fade fast
 > Because they are reactive sulfur compounds, thiols are highly vulnerable to
-> oxidation. A thiol-driven IPA is at its peak within weeks — see
+> oxidation. A thiol-driven IPA is at its peak within weeks. See
 > [[Hop Fade and Oxidation]] and [[IPA Freshness and Shelf Life]].
 
 ## Continue Reading
 
-- [[Biotransformation]] — how bound thiols get released
-- [[Hop Aroma Compounds]] — the wider aroma picture
-- [[IPA Yeast Strains]] — including thiolized strains
-- [[New England IPA]] — the style built around thiols
+- [[Biotransformation]]: how bound thiols get released
+- [[Hop Aroma Compounds]]: the wider aroma picture
+- [[IPA Yeast Strains]]: including thiolized strains
+- [[New England IPA]]: the style built around thiols

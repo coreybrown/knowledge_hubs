@@ -17,7 +17,7 @@ The result is light, aromatic, and refreshingly spritzy.
 > | **ABV** | 5.5–7.0% |
 > | **IBU** | 40–70 |
 > | **Color** | 4–7 SRM (pale, hazy straw) |
-> | **Key hops** | Citrus American — [[Citra]], [[Amarillo]], [[Cascade]] |
+> | **Key hops** | Citrus American: [[Citra]], [[Amarillo]], [[Cascade]] |
 > | **Glassware** | Tulip or weizen glass |
 
 ## Origins
@@ -35,7 +35,7 @@ deliberately splicing two well-established families together.
 | Belgian wit yeast (clove, banana, pepper) | Citrus-forward American [[Hops]] |
 | Coriander and orange-peel spicing | A drier, more bitter finish |
 
-The witbier yeast is the key cross-over ingredient — its phenolic spice and
+The witbier yeast is the key cross-over ingredient. Its phenolic spice and
 fruity esters interact with citrus hop oils to amplify the orange-and-spice
 impression. See [[IPA Yeast Strains]].
 
@@ -46,11 +46,11 @@ impression. See [[IPA Yeast Strains]].
 
 ## Sensory Profile
 
-- **Appearance** — pale and naturally hazy from the wheat.
-- **Aroma** — orange, lemon, coriander, light clove, soft citrus hops.
-- **Flavor** — bready wheat, gentle spice, citrus hop flavor.
-- **Mouthfeel** — light, soft, highly carbonated and spritzy.
-- **Finish** — dry and quenching.
+- **Appearance**: pale and naturally hazy from the wheat.
+- **Aroma**: orange, lemon, coriander, light clove, soft citrus hops.
+- **Flavor**: bready wheat, gentle spice, citrus hop flavor.
+- **Mouthfeel**: light, soft, highly carbonated and spritzy.
+- **Finish**: dry and quenching.
 
 ## Related Hybrids
 
@@ -60,8 +60,8 @@ tradition and graft IPA hopping onto it.
 
 ## Continue Reading
 
-- [[Belgian IPA]] — the closest stylistic cousin
-- [[American IPA]] — the hop half of the cross
-- [[Specialty and Experimental IPAs]] — the hybrid frontier
-- [[IPA Yeast Strains]] — the witbier yeast that defines it
-- [[Modern IPA Diversification]] — the mashup era
+- [[Belgian IPA]]: the closest stylistic cousin
+- [[American IPA]]: the hop half of the cross
+- [[Specialty and Experimental IPAs]]: the hybrid frontier
+- [[IPA Yeast Strains]]: the witbier yeast that defines it
+- [[Modern IPA Diversification]]: the mashup era

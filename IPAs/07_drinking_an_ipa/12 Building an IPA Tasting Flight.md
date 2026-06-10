@@ -6,7 +6,7 @@ domain: Drinking
 
 # Building an IPA Tasting Flight
 
-A tasting flight — several small pours sampled side by side — is the fastest way to learn
+A tasting flight, several small pours sampled side by side, is the fastest way to learn
 the IPA. Contrast teaches what a single beer cannot: tasting a [[West Coast IPA]] beside a
 [[New England IPA]] makes each one's identity obvious. This note turns the routine in
 [[How to Taste an IPA]] into a structured experience.
@@ -27,12 +27,12 @@ The cardinal rule: **build from lightest to most intense**, so each beer does no
 the next.
 
 > [!example] A reliable ordering
-> 1. [[Session IPA]] — light, low bitterness
-> 2. [[New England IPA]] — soft, aromatic, low bitterness
-> 3. [[American IPA]] — balanced reference point
-> 4. [[West Coast IPA]] — crisp, bitter, resinous
-> 5. [[Double IPA]] — intense, strong
-> 6. [[Triple IPA]] or [[Black IPA]] — the bold finisher
+> 1. [[Session IPA]]: light, low bitterness
+> 2. [[New England IPA]]: soft, aromatic, low bitterness
+> 3. [[American IPA]]: balanced reference point
+> 4. [[West Coast IPA]]: crisp, bitter, resinous
+> 5. [[Double IPA]]: intense, strong
+> 6. [[Triple IPA]] or [[Black IPA]]: the bold finisher
 
 Order by **bitterness, then ABV, then roast/intensity**. Place anything sweet, sour, or
 roasty (a [[Milkshake IPA]] or [[Black IPA]]) carefully, as it can disrupt the sequence.
@@ -55,10 +55,10 @@ A theme gives a flight a teaching purpose:
 > Hop bitterness accumulates fast. Without resets, the fourth beer tastes like the third.
 
 - **Cleanse between pours** with water and plain crackers or bread.
-- **Pace yourself** — sip, do not drink; revisit earlier glasses to track change.
-- **Manage temperature drift** — cooler beers warm over a flight; serve stronger samples
+- **Pace yourself**: sip, do not drink; revisit earlier glasses to track change.
+- **Manage temperature drift**: cooler beers warm over a flight; serve stronger samples
   last partly for this reason. See [[Serving Temperature]].
-- **Use proper glasses** — stemmed [[Glassware for IPAs|Teku or tulip glasses]] keep hands
+- **Use proper glasses**: stemmed [[Glassware for IPAs|Teku or tulip glasses]] keep hands
   off the bowl and concentrate aroma.
 
 ## Running the Tasting
@@ -74,8 +74,8 @@ and consider a light food element from [[IPA and Cheese Pairing]].
 
 ## Continue Reading
 
-- [[How to Taste an IPA]] — the per-beer routine
-- [[Tasting and Evaluating IPAs]] — formal evaluation
-- [[Beer Flavor Wheel]] — vocabulary for the table
-- [[IPA Style Comparison Table]] — a reference for style flights
-- [[Best IPAs]] — sourcing beers worth pouring
+- [[How to Taste an IPA]]: the per-beer routine
+- [[Tasting and Evaluating IPAs]]: formal evaluation
+- [[Beer Flavor Wheel]]: vocabulary for the table
+- [[IPA Style Comparison Table]]: a reference for style flights
+- [[Best IPAs]]: sourcing beers worth pouring

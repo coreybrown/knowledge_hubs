@@ -28,13 +28,13 @@ The American IPA emerged from [[The American Craft Beer Revolution]] of the late
 1970s and 1980s. The pivotal beer was [[Anchor Liberty Ale and the First Modern IPA|Anchor Liberty Ale]]
 (1975), the first modern American ale to showcase the bright, grapefruit-citrus
 [[Cascade]] hop. Through the 1990s breweries pushed hopping rates ever higher,
-and the style crystallized into a recognized category — see
+and the style crystallized into a recognized category; see
 [[Rise of the West Coast IPA]].
 
 ## What Makes It American
 
-The defining ingredient is the **American hop**. Pacific Northwest varieties —
-grown across the [[Hop Growing Regions]] of Washington, Oregon, and Idaho —
+The defining ingredient is the **American hop**. Pacific Northwest varieties,
+grown across the [[Hop Growing Regions]] of Washington, Oregon, and Idaho,
 carry terpene and [[Thiols and Hop Burst|thiol]] profiles bursting with
 grapefruit, orange, pine resin, and tropical fruit. The malt bill is
 deliberately lean: pale base malt with only a touch of crystal, engineered to
@@ -54,20 +54,20 @@ The American IPA is less a single recipe than a launchpad:
 
 ## Sensory Profile
 
-- **Aroma** — assertive citrus, pine, resin, and tropical fruit.
-- **Flavor** — hop flavor matches the aroma; bitterness is firm and clean.
-- **Finish** — dry to medium-dry, inviting the next sip.
-- **Yeast** — typically a neutral American ale strain so hops dominate; see
+- **Aroma**: assertive citrus, pine, resin, and tropical fruit.
+- **Flavor**: hop flavor matches the aroma; bitterness is firm and clean.
+- **Finish**: dry to medium-dry, inviting the next sip.
+- **Yeast**: typically a neutral American ale strain so hops dominate; see
   [[IPA Yeast Strains]].
 
 > [!tip] Freshness is everything
 > American IPAs are at their peak within weeks of packaging. Hop aroma fades
-> fast — see [[Hop Fade and Oxidation]] and [[IPA Freshness and Shelf Life]].
+> fast; see [[Hop Fade and Oxidation]] and [[IPA Freshness and Shelf Life]].
 
 ## Continue Reading
 
-- [[West Coast IPA]] — the clear, bitter expression
-- [[New England IPA]] — the hazy, juicy expression
-- [[The American Craft Beer Revolution]] — the historical context
-- [[Hops]] — the ingredient that defines the style
-- [[IPA Family Tree]] — where it sits in the genealogy
+- [[West Coast IPA]]: the clear, bitter expression
+- [[New England IPA]]: the hazy, juicy expression
+- [[The American Craft Beer Revolution]]: the historical context
+- [[Hops]]: the ingredient that defines the style
+- [[IPA Family Tree]]: where it sits in the genealogy

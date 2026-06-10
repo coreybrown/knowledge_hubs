@@ -6,7 +6,7 @@ domain: Brewing
 
 # West Coast IPA Recipe
 
-A worked, brew-ready recipe for a classic **[[West Coast IPA]]** — pale gold, brilliantly clear, aggressively dry, and snappy with citrus and pine. This is the benchmark American IPA. Batch size: **5 gallons / 19 L**, ~72% efficiency.
+A worked, brew-ready recipe for a classic **[[West Coast IPA]]**: pale gold, brilliantly clear, aggressively dry, and snappy with citrus and pine. This is the benchmark American IPA. Batch size: **5 gallons / 19 L**, ~72% efficiency.
 
 ## Target Stats
 
@@ -32,11 +32,11 @@ A worked, brew-ready recipe for a classic **[[West Coast IPA]]** — pale gold, 
 
 ## Mash
 
-Single infusion at **65 °C for 60 minutes** — low and fermentable for a crisp, dry finish. Mash-out at 76 °C. See [[Mashing]].
+Single infusion at **65 °C for 60 minutes**, kept low and fermentable for a crisp, dry finish. Mash-out at 76 °C. See [[Mashing]].
 
 ## Water Profile
 
-Sulfate-forward for that signature snappy bitterness — see [[Water Treatment for Brewing]] and the [[Water Chemistry and the Sulfate-Chloride Ratio]].
+Sulfate-forward for that signature snappy bitterness. See [[Water Treatment for Brewing]] and the [[Water Chemistry and the Sulfate-Chloride Ratio]].
 
 | Ion | Target (ppm) |
 |---|---|
@@ -60,17 +60,17 @@ See [[Hop Additions and Timing]] and [[Bittering, Flavor, and Aroma Hops]].
 
 ## Yeast & Fermentation
 
-- **Yeast:** clean, high-attenuation American ale strain — see [[IPA Yeast Strains]].
+- **Yeast:** clean, high-attenuation American ale strain; see [[IPA Yeast Strains]].
 - **Ferment:** 19 °C, rising to 21 °C for diacetyl rest.
 - **Dry hop:** day 4, 3-day contact, then cold crash. See [[Fermentation]] and [[Dry Hopping]].
 
 ## Clarity & Packaging
 
 > [!tip] Keep it clear
-> Use a kettle fining and cold crash; optionally gelatin-fine. See [[Clarification and Haze Management]]. Carbonate to 2.5 volumes; package with low oxygen — see [[Carbonation and Packaging]].
+> Use a kettle fining and cold crash; optionally gelatin-fine. See [[Clarification and Haze Management]]. Carbonate to 2.5 volumes and package with low oxygen; see [[Carbonation and Packaging]].
 
 > [!warning] Drink it fresh
-> West Coast hop character fades fast — see [[IPA Freshness and Shelf Life]].
+> West Coast hop character fades fast. See [[IPA Freshness and Shelf Life]].
 
 ## Continue Reading
 

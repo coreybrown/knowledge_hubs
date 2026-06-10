@@ -8,7 +8,7 @@ domain: Styles
 
 This note places every major IPA style side by side. Numbers are *typical*
 commercial ranges drawn from [[BJCP and Style Guidelines]] and contemporary
-brewing practice — individual beers routinely stray outside them.
+brewing practice; individual beers routinely stray outside them.
 
 > [!note] How to use these ranges
 > ABV is alcohol by volume; IBU is [[IBU and Perceived Bitterness|International Bitterness Units]]; SRM measures color (low = pale, high = dark). "Haze" and
@@ -43,12 +43,12 @@ brewing practice — individual beers routinely stray outside them.
 > - **Bitterness is diverging.** Once an IPA's defining trait, IBU now ranges
 >   from ~10 ([[Sour IPA]]) to 120+ ([[Triple IPA]]).
 > - **Haze is a style axis of its own.** Compare the brilliant [[West Coast IPA]]
->   with the opaque [[New England IPA]] — see [[Hop Haze and Colloidal Stability]].
+>   with the opaque [[New England IPA]], then see [[Hop Haze and Colloidal Stability]].
 > - **Strength spans a triple range**, from 3% sessionable to 13% extreme.
 
 ## Continue Reading
 
-- [[IPA Styles]] — the navigational hub
-- [[BJCP and Style Guidelines]] — official vital-stats ranges
-- [[IBU and Perceived Bitterness]] — why measured IBU misleads
-- [[Style Index]] — alphabetical reference
+- [[IPA Styles]]: the navigational hub
+- [[BJCP and Style Guidelines]]: official vital-stats ranges
+- [[IBU and Perceived Bitterness]]: why measured IBU misleads
+- [[Style Index]]: alphabetical reference

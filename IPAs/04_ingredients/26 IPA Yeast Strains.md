@@ -7,7 +7,7 @@ domain: Ingredients
 # IPA Yeast Strains
 
 Not all [[Yeast|yeast]] is created equal. The choice of strain is one of the most
-consequential decisions in IPA brewing — it sets attenuation, ester profile,
+consequential decisions in IPA brewing: it sets attenuation, ester profile,
 flocculation (how readily yeast drops clear), and how the beer interacts with
 [[Hops]]. This note catalogs the strains that matter for the [[What Is an IPA|IPA]].
 
@@ -21,12 +21,12 @@ flocculation (how readily yeast drops clear), and how the beer interacts with
 | Kveik | [[Double IPA]], experimental | Fast, warm-tolerant, clean-to-fruity |
 | Lager strains | [[Cold IPA]], [[India Pale Lager]] | Cold, crisp, ultra-clean |
 
-## California Ale — the "Chico" Strain
+## California Ale: the "Chico" Strain
 
 The **Chico** strain (named for Sierra Nevada's home in Chico, California) is the
 default of American craft brewing. It is **clean, neutral, and highly attenuative**,
 contributing almost no flavor of its own and dropping bright and clear. That
-transparency is exactly what a [[West Coast IPA]] wants — nothing between the drinker
+transparency is exactly what a [[West Coast IPA]] wants: nothing between the drinker
 and the [[Hop Oils and Terpenes|hops]].
 
 ## English Ale Yeast
@@ -35,14 +35,14 @@ English strains ferment with gentle, **fruity esters** and lower attenuation,
 leaving more residual malt sweetness. They suit the balanced, [[Base Malts|Maris Otter]]-driven character of a traditional [[English IPA]] and contributed to the
 [[Burton-on-Trent and Burton Pale Ale|Burton]] heritage of the style.
 
-## London III and "Conan" — the Hazy Yeasts
+## London III and "Conan": the Hazy Yeasts
 
 The [[New England IPA]] is built on yeasts like **London Ale III** and the Vermont
 strain known as **"Conan."** They share three traits the style depends on:
 
-1. **Expressive stone-fruit esters** — peach and apricot that meld with juicy hops.
-2. **Low flocculation** — they stay suspended, contributing to permanent [[Hop Haze and Colloidal Stability|haze]].
-3. **Strong [[Biotransformation]]** — they actively rework hop oils into extra fruit.
+1. **Expressive stone-fruit esters**: peach and apricot that meld with juicy hops.
+2. **Low flocculation**: they stay suspended, contributing to permanent [[Hop Haze and Colloidal Stability|haze]].
+3. **Strong [[Biotransformation]]**: they actively rework hop oils into extra fruit.
 
 > [!example] Yeast as a haze ingredient
 > Part of a hazy IPA's cloud is yeast that simply will not settle. Strain choice is
@@ -64,12 +64,12 @@ and to push warm fermentations that boost biotransformation.
 
 > [!warning] Match strain to intent
 > A hazy yeast in a West Coast recipe leaves unwanted haze and esters; Chico in a
-> hazy strips the soft fruitiness the style needs. Strain and style must agree — see
+> hazy strips the soft fruitiness the style needs. Strain and style must agree; see
 > [[Recipe Formulation]].
 
 ## Continue Reading
 
-- [[Yeast]] — the fundamentals
-- [[Biotransformation]] — strain-driven hop transformation
-- [[Fermentation]] — putting strains to work
-- [[New England IPA]] — the style defined by its yeast
+- [[Yeast]]: the fundamentals
+- [[Biotransformation]]: strain-driven hop transformation
+- [[Fermentation]]: putting strains to work
+- [[New England IPA]]: the style defined by its yeast

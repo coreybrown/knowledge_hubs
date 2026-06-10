@@ -29,11 +29,11 @@ Notes are grouped into twelve numbered folders, each a **domain**:
 
 ## Navigation Conventions
 
-- **MOCs (Maps of Content)** — each domain has a hub note that links to everything inside it. Start there. The top-level hub is [[Home]].
-- **Wikilinks** — `[[like this]]` connect related concepts across domains. Follow them freely; that is the point.
-- **Graph view** — open Obsidian's graph (`Ctrl/Cmd+G`) to see the whole web. Dense clusters reveal core concepts like [[The Science of Extraction|extraction]] and [[Grinding]].
-- **Tags** — every note carries `domain` and topical tags. Search `tag:#water` or `tag:#recipe` to slice across folders.
-- **Backlinks** — the backlinks panel shows every note that references the one you're reading.
+- **MOCs (Maps of Content)**: each domain has a hub note that links to everything inside it. Start there. The top-level hub is [[Home]].
+- **Wikilinks**: `[[like this]]` connect related concepts across domains. Follow them freely; that is the point.
+- **Graph view**: open Obsidian's graph (`Ctrl/Cmd+G`) to see the whole web. Dense clusters reveal core concepts like [[The Science of Extraction|extraction]] and [[Grinding]].
+- **Tags**: every note carries `domain` and topical tags. Search `tag:#water` or `tag:#recipe` to slice across folders.
+- **Backlinks**: the backlinks panel shows every note that references the one you're reading.
 
 ## Suggested Reading Paths
 
@@ -51,4 +51,4 @@ Notes are grouped into twelve numbered folders, each a **domain**:
 
 ## A Note on Sources & Accuracy
 
-This knowledge base reflects current specialty-coffee consensus and best practice. Brewing is an active field — recipes and even some science are debated, and tasting notes are informed opinion, not absolute fact. Where a popular belief is myth or contested, the notes say so. Use [[Recommended Reading and Resources]] to go deeper.
+This knowledge base reflects current specialty-coffee consensus and best practice. Brewing is an active field; recipes and even some science are debated, and tasting notes are informed opinion, not absolute fact. Where a popular belief is myth or contested, the notes say so. Use [[Recommended Reading and Resources]] to go deeper.

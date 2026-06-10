@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-build_site.py — Static-site generator for the IPA Knowledge Base.
+build_site.py: Static-site generator for the IPA Knowledge Base.
 
 Converts the Obsidian vault (numbered domain folders of Markdown notes) into a
 fully interlinked, design-forward HTML website in ./site.
@@ -24,13 +24,13 @@ ASSETS = SITE / "assets"
 # folder -> (display name, emoji icon, accent color, blurb)
 DOMAINS = [
     ("01_introduction",       "Introduction",      "🍺",
-     "#D08A2E", "Where the IPA begins — what it is, its family tree, and how to read this base."),
+     "#D08A2E", "Where the IPA begins: what it is, its family tree, and how to read this base."),
     ("02_history",            "History",           "📜",
      "#9B6A43", "Contested 18th-century origins, the East India trade, and the craft revival."),
     ("03_styles",             "Styles",            "🗺️",
-     "#4E8C72", "Every IPA sub-style mapped — West Coast, hazy, double, and the frontier."),
+     "#4E8C72", "Every IPA sub-style mapped: West Coast, hazy, double, and the frontier."),
     ("04_ingredients",        "Ingredients",       "🌿",
-     "#7A9A3E", "Hops, malt, yeast, and water — the four pillars of IPA character."),
+     "#7A9A3E", "Hops, malt, yeast, and water. The four pillars of IPA character."),
     ("05_brewing_guide",      "Brewing Guide",     "🧪",
      "#B5612E", "The full process, recipe formulation, and three worked recipes."),
     ("06_science_and_sensory","Science & Sensory", "🔬",
@@ -102,7 +102,7 @@ def plain_text(body):
 
 
 # --------------------------------------------------------------------------
-# pass 1 — collect every note
+# pass 1: collect every note
 # --------------------------------------------------------------------------
 def collect_pages():
     pages = []        # ordered, book order
@@ -153,7 +153,7 @@ def collect_pages():
             }
             pages.append(page)
 
-    # build link resolution map — aliases first, canonical/title last (win)
+    # build link resolution map: aliases first, canonical/title last (win)
     for p in pages:
         for a in p["aliases"]:
             linkmap.setdefault(a.lower(), p)
@@ -465,7 +465,7 @@ PAGE_DIAGRAMS = DG.page_diagrams()
 # --------------------------------------------------------------------------
 # HTML chrome
 # --------------------------------------------------------------------------
-# Hop cone — a detailed brewing hop flower built from individual overlapping
+# Hop cone: a detailed brewing hop flower built from individual overlapping
 # bract scales (one reusable <g id="hb">), staggered in offset rows for an
 # organic, non-uniform look. Drawn inline with currentColor so the scales pick
 # up the accent color and theme; dark outlines + light veins give definition.
@@ -561,7 +561,7 @@ def sidebar(pages, active_slug):
             if p is moc:
                 cls += " nav-moc"
             elif p.get("is_recipe"):
-                cls += " nav-sub"          # recipe leaf — nest under its hub
+                cls += " nav-sub"          # recipe leaf, nest under its hub
             elif i + 1 < len(notes) and notes[i + 1].get("is_recipe"):
                 cls += " nav-parent"       # category hub for the recipes below
             parts.append(
@@ -752,7 +752,7 @@ def render_home(pages, linkmap):
             continue
         moc = notes[0]
         illus = DG.domain_illustration(folder, color)
-        # Introduction's MOC is the home page itself — link the card to the
+        # Introduction's MOC is the home page itself; link the card to the
         # next intro note instead so users move forward, not in a circle.
         target = notes[1] if moc["slug"] == "index" and len(notes) > 1 else moc
         cards.append(
@@ -774,7 +774,7 @@ def render_home(pages, linkmap):
         "assertive bitterness, aroma, and flavor. Born of British "
         "[[Origins of Pale Ale|pale-ale tradition]] and reborn in the "
         "[[The American Craft Beer Revolution|American craft revolution]], it has "
-        "fractured into dozens of [[IPA Styles|sub-styles]] — the crisp, bitter "
+        "fractured into dozens of [[IPA Styles|sub-styles]]: the crisp, bitter "
         "[[West Coast IPA]]; the soft, juicy [[New England IPA]]; the hop-saturated "
         "[[Double IPA]]; and frontier experiments like the [[Cold IPA]] and "
         "[[Brut IPA]]. More than any other beer, the IPA is the canvas on which "
@@ -820,7 +820,7 @@ def render_home(pages, linkmap):
         'Equally useful to a first-time drinker and a brewmaster of forty years.</p>'
         '<div class="hero-actions">'
         '<a class="btn btn-primary" href="what-is-an-ipa.html">'
-        'Start here — What is an IPA?</a>'
+        'Start here: What is an IPA?</a>'
         '<a class="btn btn-ghost" href="ipa-styles.html">Browse the styles</a>'
         '</div>'
         '<div class="hero-stats">'
@@ -836,11 +836,11 @@ def render_home(pages, linkmap):
         '<div class="sec-head"><span class="sec-kicker">The map</span>'
         '<h2>Explore the ten domains</h2>'
         '<p>Each domain is a guided path. Follow it front-to-back like a book, '
-        'or dive straight to what you need — every note links onward.</p></div>'
+        'or dive straight to what you need; every note links onward.</p></div>'
         f'<div class="dcard-grid">{"".join(cards)}</div></section>'
         '<section class="home-sec home-sec-tint">'
         '<div class="sec-head"><span class="sec-kicker">In one paragraph</span>'
-        '<h2>So — what is an IPA?</h2></div>'
+        '<h2>So, what is an IPA?</h2></div>'
         f'<p class="lede">{para}</p></section>'
         '<section class="home-sec">'
         '<div class="sec-head"><span class="sec-kicker">Choose your path</span>'
@@ -855,7 +855,7 @@ def footer():
     return (
         '<footer class="site-footer">'
         '<div class="footer-mark">' + LOGO_SVG + '<b>IPA Knowledge Base</b></div>'
-        '<p>A comprehensive, interlinked reference on the India Pale Ale — '
+        '<p>A comprehensive, interlinked reference on the India Pale Ale: '
         'history, styles, ingredients, brewing, science, and culture.</p>'
         '<p class="footer-fine">Generated from an Obsidian vault · '
         '<a href="index.html">Return home</a></p></footer>')
@@ -888,7 +888,7 @@ def write_ask_corpus(pages):
 
     One entry per note, split into H2 sections so the backend can pull
     section-level snippets rather than whole notes. Navigation-only sections
-    are dropped. Public content only — no secrets. Served at
+    are dropped. Public content only, no secrets. Served at
     assets/ask-corpus.json and read server-side by /api/ask."""
     skip = {"continue reading"}
     corpus = []

@@ -10,11 +10,11 @@ domain: Ingredients
 
 ## The Plant
 
-Hops grow as **bines** — climbing stems that wrap clockwise around a support, distinct from true vines, which use tendrils. Commercial hop yards train the bines up coir twine on trellises 18 feet (5.5 m) tall. The plant is **dioecious**: male and female plants are separate, and brewers harvest only the **unfertilized female cones**, because seed development dilutes the prized resins. The plant is photoperiod-sensitive, thriving in a narrow band of latitude roughly 35°–55° in both hemispheres — see [[Hop Growing Regions]].
+Hops grow as **bines**: climbing stems that wrap clockwise around a support, distinct from true vines, which use tendrils. Commercial hop yards train the bines up coir twine on trellises 18 feet (5.5 m) tall. The plant is **dioecious**: male and female plants are separate, and brewers harvest only the **unfertilized female cones**, because seed development dilutes the prized resins. The plant is photoperiod-sensitive, thriving in a narrow band of latitude roughly 35°–55° in both hemispheres (see [[Hop Growing Regions]]).
 
 ## The Cone and the Lupulin
 
-A hop cone (strobile) is a layered cluster of papery green **bracts** and **bracteoles** arranged around a central strig. Tucked at the base of the bracteoles are tiny golden-yellow glands of **lupulin** — a sticky resinous powder that is the brewer's true prize.
+A hop cone (strobile) is a layered cluster of papery green **bracts** and **bracteoles** arranged around a central strig. Tucked at the base of the bracteoles are tiny golden-yellow glands of **lupulin**, a sticky resinous powder that is the brewer's true prize.
 
 > [!example] What lupulin contains
 > Lupulin holds the **alpha acids** that become bitterness, the **beta acids**, and the volatile **essential oils** responsible for aroma. Concentrating this powder is exactly what [[Cryo Hops and Lupulin Powder|cryogenic processing]] achieves.
@@ -34,14 +34,14 @@ Timing is everything: the same hop boiled hard yields clean bitterness, while ad
 
 ## Varieties
 
-Modern brewing draws on hundreds of cultivars. Classic American "C-hops" — [[Cascade]], [[Centennial]], [[Citra]] — built the [[West Coast IPA]]; newer tropical varieties like [[Mosaic]], [[Galaxy]], and [[Sabro]] define the [[New England IPA]]. Traditional [[Noble and English Hops]] anchor the [[English IPA]]. Browse them all in the [[Hop Variety Index]].
+Modern brewing draws on hundreds of cultivars. Classic American "C-hops" ([[Cascade]], [[Centennial]], [[Citra]]) built the [[West Coast IPA]]; newer tropical varieties like [[Mosaic]], [[Galaxy]], and [[Sabro]] define the [[New England IPA]]. Traditional [[Noble and English Hops]] anchor the [[English IPA]]. Browse them all in the [[Hop Variety Index]].
 
 > [!tip] Fresh is best
-> Hop oils are volatile and oxidize quickly. Properly stored hops are kept cold, dark, and oxygen-free — the same logic that drives [[IPA Freshness and Shelf Life]] in the finished beer.
+> Hop oils are volatile and oxidize quickly. Properly stored hops are kept cold, dark, and oxygen-free. The same logic drives [[IPA Freshness and Shelf Life]] in the finished beer.
 
 ## Continue Reading
 
-- [[Hop Chemistry]] — the compounds inside the cone
-- [[Hop Products and Formats]] — how brewers buy hops
-- [[Hop Growing Regions]] — where hops come from
-- [[Hop Variety Index]] — the full catalog of varieties
+- [[Hop Chemistry]]: the compounds inside the cone
+- [[Hop Products and Formats]]: how brewers buy hops
+- [[Hop Growing Regions]]: where hops come from
+- [[Hop Variety Index]]: the full catalog of varieties

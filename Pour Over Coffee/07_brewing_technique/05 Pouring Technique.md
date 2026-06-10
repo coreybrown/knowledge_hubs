@@ -19,10 +19,10 @@ How you pour water is the most hands-on lever in the whole brew. The same coffee
 
 ## Center vs Spiral Pours 🎯
 
-A **center pour** keeps the stream in one spot. It is gentle and stirs the bed less — useful when you want low agitation or are working with delicate grounds. A **spiral pour** moves outward in concentric circles, then back to the center, distributing water across the whole bed for a more even saturation.
+A **center pour** keeps the stream in one spot. It is gentle and stirs the bed less, which is useful when you want low agitation or are working with delicate grounds. A **spiral pour** moves outward in concentric circles, then back to the center, distributing water across the whole bed for a more even saturation.
 
 > [!warning] Mind the walls
-> Pouring directly onto the [[Coffee Filters — Paper, Metal, and Cloth|filter]] wall washes coffee up the sides, where water can slip past the bed — classic [[Bypass and Channeling|bypass]]. Keep your spiral inside the coffee, stopping short of the paper.
+> Pouring directly onto the [[Coffee Filters|filter]] wall washes coffee up the sides, where water can slip past the bed: classic [[Bypass and Channeling|bypass]]. Keep your spiral inside the coffee, stopping short of the paper.
 
 ## Pour Height
 
@@ -30,18 +30,18 @@ Pour from **low** (a few centimeters above the bed) for a soft, calm entry; pour
 
 ## Flow Rate and Kettle Control
 
-A [[Gooseneck Kettles|gooseneck kettle]] exists for exactly this — its narrow spout gives you a precise, controllable stream that an ordinary kettle cannot. Aim for a steady flow, typically **5 to 10 g per second** for a single cup. Keep the [[Scales, Timers, and Servers|scale]] running so you pour to a target weight, not a guess.
+A [[Gooseneck Kettles|gooseneck kettle]] exists for exactly this. Its narrow spout gives you a precise, controllable stream that an ordinary kettle cannot. Aim for a steady flow, typically **5 to 10 g per second** for a single cup. Keep the [[Scales, Timers, and Servers|scale]] running so you pour to a target weight, not a guess.
 
 > [!tip] Slow the stream to keep the bed calm
 > If your bed keeps craters or you taste harshness, lower your kettle and slow your flow. A gentle pour is the easiest fix for over-agitated brews.
 
 ## Maintaining Water Level
 
-Many brewers keep the slurry level fairly constant during continuous pours, replacing water as it drains. Others let it draw down between [[Pulse vs Continuous Pouring|pulses]]. Either works — what matters is consistency from brew to brew so you can [[Dialing In Grind Size|dial in]] deliberately. Pour technique interacts with [[Grind Size for Pour Over|grind]] and [[Conical vs Flat Bottom Drippers|dripper shape]]: a flat bed forgives sloppy pouring more than a steep cone.
+Many brewers keep the slurry level fairly constant during continuous pours, replacing water as it drains. Others let it draw down between [[Pulse vs Continuous Pouring|pulses]]. Either works. What matters is consistency from brew to brew so you can [[Dialing In Grind Size|dial in]] deliberately. Pour technique interacts with [[Grind Size for Pour Over|grind]] and [[Conical vs Flat Bottom Drippers|dripper shape]]: a flat bed forgives sloppy pouring more than a steep cone.
 
 ## Continue Reading
 
-- [[Pulse vs Continuous Pouring]] — sequencing your pours into a strategy.
-- [[Agitation and Turbulence]] — the extraction energy your pour controls.
-- [[Gooseneck Kettles]] — the tool that makes precise pouring possible.
-- [[The Rao Spin]] — a swirling technique that replaces fussy pouring.
+- [[Pulse vs Continuous Pouring]]: sequencing your pours into a strategy.
+- [[Agitation and Turbulence]]: the extraction energy your pour controls.
+- [[Gooseneck Kettles]]: the tool that makes precise pouring possible.
+- [[The Rao Spin]]: a swirling technique that replaces fussy pouring.

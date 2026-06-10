@@ -6,7 +6,7 @@ domain: Brewing
 
 # Scaling Up to Commercial Production
 
-A homebrew IPA that wows friends does not automatically become a commercial product. **Scaling up** — moving from a 5-gallon kitchen batch to a 10-, 20-, or 60-barrel brewhouse — introduces engineering, consistency, and business challenges that have nothing to do with whether the recipe tastes good.
+A homebrew IPA that wows friends does not automatically become a commercial product. **Scaling up**, moving from a 5-gallon kitchen batch to a 10-, 20-, or 60-barrel brewhouse, introduces engineering, consistency, and business challenges that have nothing to do with whether the recipe tastes good.
 
 ## Why Recipes Don't Scale Linearly
 
@@ -21,29 +21,29 @@ A homebrew IPA that wows friends does not automatically become a commercial prod
 | Whirlpool contact | Short | Extended | Big vessels hold heat |
 | Fermentation temp | Ambient swings | Glycol-controlled | Exothermic load scales up |
 
-A long, hot whirlpool in a large vessel, for example, extracts more bitterness than the same recipe at homebrew scale — see [[Whirlpool and Hop Stand]].
+A long, hot whirlpool in a large vessel, for example, extracts more bitterness than the same recipe at homebrew scale; see [[Whirlpool and Hop Stand]].
 
 ## Consistency Is the Real Product
 
 Homebrewers celebrate variation; commercial brewers fear it. Customers expect every can to taste identical.
 
 > [!tip] Tools for consistency
-> - **Tight process specs** — fixed temperatures, times, and gravities for [[Mashing]] and [[Fermentation]].
-> - **Lab and QC** — gravity, pH, dissolved oxygen, microbiology.
-> - **Sensory panels** — trained tasters catch drift; see [[Sensory Training and Panels]].
-> - **A pilot system** — develop recipes at small scale before committing the brewhouse.
+> - **Tight process specs**: fixed temperatures, times, and gravities for [[Mashing]] and [[Fermentation]].
+> - **Lab and QC**: gravity, pH, dissolved oxygen, microbiology.
+> - **Sensory panels**: trained tasters catch drift; see [[Sensory Training and Panels]].
+> - **A pilot system**, to develop recipes at small scale before committing the brewhouse.
 
 ## Hop Logistics
 
 Hops are a commercial brewer's largest variable cost and a supply-chain headache.
 
-- **Contracts** — large IPA hop volumes must be locked in years ahead; see [[Hop Contracts and the Hop Supply Chain]].
-- **Storage** — hops need cold storage to prevent fade.
-- **Yield loss** — heavy [[Dry Hopping]] and [[Double Dry Hopping]] absorb beer; commercial brewers engineer hop-contact vessels to minimize loss.
+- **Contracts**: large IPA hop volumes must be locked in years ahead; see [[Hop Contracts and the Hop Supply Chain]].
+- **Storage**: hops need cold storage to prevent fade.
+- **Yield loss**: heavy [[Dry Hopping]] and [[Double Dry Hopping]] absorb beer; commercial brewers engineer hop-contact vessels to minimize loss.
 
 ## Cold-Side Discipline at Scale
 
-Oxygen control gets both harder and more critical. A production line must hit low total package oxygen on every unit — see [[Carbonation and Packaging]] and [[Hop Fade and Oxidation]].
+Oxygen control gets both harder and more critical. A production line must hit low total package oxygen on every unit. See [[Carbonation and Packaging]] and [[Hop Fade and Oxidation]].
 
 ## The Business Layer
 

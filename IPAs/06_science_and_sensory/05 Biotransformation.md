@@ -6,7 +6,7 @@ domain: Science
 
 # Biotransformation
 
-Biotransformation is one of the most important — and most misunderstood — concepts
+Biotransformation is one of the most important, and most misunderstood, concepts
 in modern IPA brewing. It describes the way **living yeast and its enzymes chemically
 modify hop compounds during fermentation**, creating aromas that were not present in
 either the hops or the wort alone.
@@ -15,12 +15,12 @@ either the hops or the wort alone.
 
 For decades, brewers treated hop aroma as something you simply *extract* and then
 try not to lose. Biotransformation reframes it: fermentation is not just alcohol
-production — it is an active **aroma-generating reaction stage**. The same
+production. It is an active **aroma-generating reaction stage**. The same
 [[Yeast]] that ferments sugars also reshapes the [[Hop Aroma Compounds|terpenoids]]
 and aroma precursors floating in the wort.
 
 > [!note] Why timing suddenly matters
-> Hops added *during* active fermentation — not after — are exposed to a soup of
+> Hops added *during* active fermentation, not after, are exposed to a soup of
 > live enzymes. This is why many [[New England IPA]] recipes dry hop while yeast is
 > still working, a practice detailed in [[Dry Hopping]].
 
@@ -33,12 +33,12 @@ and aroma precursors floating in the wort.
 | Bound glycosides | Free terpenoids / [[Thiols and Hop Burst|thiols]] | "Locked" aroma becomes smellable |
 | Acids + alcohols | Esters | New fruity notes generated |
 
-### Glycoside cleavage — the hidden reservoir
+### Glycoside cleavage: the hidden reservoir
 
 Many hop aroma molecules arrive **bound to a sugar** (a glycoside) and are
 completely odorless in that form. Yeast enzymes (β-glucosidases) can snip the sugar
 off, *releasing* free aromatic compounds. In effect, a hop carries far more aroma
-potential than a simple oil analysis suggests — biotransformation unlocks the
+potential than a simple oil analysis suggests. Biotransformation unlocks the
 hidden reservoir. This same mechanism is central to [[Thiols and Hop Burst|thiol release]].
 
 > [!example] Geraniol to citronellol
@@ -59,7 +59,7 @@ is "thiolized" yeast engineered specifically to release [[Thiols and Hop Burst|p
 > Adding hops around **day 1–3 of fermentation**, while the yeast is still active,
 > exposes them to maximal enzyme activity. The trade-off: vigorous fermentation also
 > scrubs out some volatile aroma through CO2 off-gassing. Many brewers therefore
-> split charges — see [[Double Dry Hopping]].
+> split charges. See [[Double Dry Hopping]].
 
 It is also a double-edged process. The same active fermentation that drives
 biotransformation also feeds [[Dry Hop Creep Explained|hop creep]], because
@@ -68,7 +68,7 @@ dry-hop enzymes and live yeast together can restart fermentation. See
 
 ## Continue Reading
 
-- [[Thiols and Hop Burst]] — biotransformation's most exciting frontier
-- [[Hop Aroma Compounds]] — the molecules being transformed
-- [[Dry Hopping]] — the practice that exploits it
-- [[IPA Yeast Strains]] — choosing a strain for aroma
+- [[Thiols and Hop Burst]]: biotransformation's most exciting frontier
+- [[Hop Aroma Compounds]]: the molecules being transformed
+- [[Dry Hopping]]: the practice that exploits it
+- [[IPA Yeast Strains]]: choosing a strain for aroma

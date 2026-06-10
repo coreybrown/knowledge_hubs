@@ -8,8 +8,8 @@ domain: Ingredients
 
 Of everything dissolved in brewing [[Water|water]], two ions matter most to an
 [[What Is an IPA|IPA]]: **sulfate** and **chloride**. Their balance is arguably the
-single most powerful — and most underrated — tool a brewer has for steering a beer
-between two opposite personalities.
+single most powerful tool a brewer has for steering a beer between two opposite
+personalities, and one of the most underrated.
 
 ## The Two Ions
 
@@ -19,8 +19,8 @@ between two opposite personalities.
 | Chloride (Cl⁻) | Full, round, soft, sweeter, smoother mouthfeel |
 
 Neither ion adds a flavor of its own at brewing concentrations. Instead they
-**modulate perception** — sulfate makes [[Alpha Acids and Bitterness|bitterness]]
-feel snappier and the finish drier; chloride makes the body feel fuller and the malt
+**modulate perception**: sulfate makes [[Alpha Acids and Bitterness|bitterness]]
+feel snappier and the finish drier, while chloride makes the body feel fuller and the malt
 rounder. The science of this perceptual shift connects to
 [[IBU and Perceived Bitterness]] and [[The Science of Mouthfeel]].
 
@@ -35,8 +35,8 @@ Brewers express the balance as the **sulfate-to-chloride ratio**.
 | ~1:2 or lower (chloride-heavy) | Soft, round, juicy | [[New England IPA]] |
 
 > [!example] Two beers, one recipe
-> Brew the same grist, hops, and yeast twice — once with sulfate-dominant water,
-> once with chloride-dominant water — and you get two distinctly different beers. The
+> Brew the same grist, hops, and yeast twice, once with sulfate-dominant water and
+> once with chloride-dominant water, and you get two distinctly different beers. The
 > first is lean and bitter; the second is pillowy and "juicy." Nothing else changed.
 
 ## West Coast vs New England
@@ -62,8 +62,8 @@ great modern IPA styles.
 Brewers tune the ratio by adding two salts to a soft base water (often reverse
 osmosis):
 
-- **Gypsum** (calcium sulfate) — adds sulfate, pushes West Coast.
-- **Calcium chloride** — adds chloride, pushes hazy and soft.
+- **Gypsum** (calcium sulfate): adds sulfate, pushes West Coast.
+- **Calcium chloride**: adds chloride, pushes hazy and soft.
 
 > [!warning] More is not better
 > Excess sulfate turns from "crisp" to harsh, mineral, and astringent; excess
@@ -72,7 +72,7 @@ osmosis):
 
 ## Continue Reading
 
-- [[Water]] — the fundamentals of brewing water
-- [[Water Treatment for Brewing]] — how to hit a target profile
-- [[West Coast IPA]] — the sulfate-forward style
-- [[New England IPA]] — the chloride-forward style
+- [[Water]]: the fundamentals of brewing water
+- [[Water Treatment for Brewing]]: how to hit a target profile
+- [[West Coast IPA]]: the sulfate-forward style
+- [[New England IPA]]: the chloride-forward style
