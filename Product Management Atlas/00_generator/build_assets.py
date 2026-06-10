@@ -1005,7 +1005,7 @@ JS = r"""
     if(!q){
       results.innerHTML='<div class="sr-intro"><div class="sr-intro-h">'+
         'Ask anything about '+esc(ASK_TOPIC)+'</div><div class="sr-intro-p">'+
-        'Get a short, sourced answer drawn from the guide — or keep typing to '+
+        'Get a short, sourced answer drawn from the guide, or keep typing to '+
         'jump straight to a note.</div>'+chipsHTML()+'</div>'+hint();
       rows=[];bindChips();return;
     }
@@ -1064,7 +1064,7 @@ JS = r"""
   }
   function askState(kind){
     var msg=kind==="resting"
-      ? "The assistant is resting — it’s reached today’s question limit. Keyword search still works below."
+      ? "The assistant is resting: it’s reached today’s question limit. Keyword search still works below."
       : "Couldn’t reach the assistant just now. Try again, or use keyword search below.";
     panel.innerHTML='<div class="ask-note ask-note-'+kind+'">'+esc(msg)+'</div>';
     asking=false;
@@ -1091,7 +1091,7 @@ JS = r"""
         var s=document.getElementById("askSources");
         if(s&&s.parentNode){var f=document.createElement("div");
           f.className="ask-foot";
-          f.textContent="Preview answer — live AI responses arrive once the backend is connected.";
+          f.textContent="Preview answer. Live AI responses arrive once the backend is connected.";
           s.parentNode.insertBefore(f,s);}
       }
       asking=false;
