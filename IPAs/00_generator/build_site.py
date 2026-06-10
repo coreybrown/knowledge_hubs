@@ -815,7 +815,7 @@ def render_home(pages, linkmap):
         '<h1 class="hero-title">The <span class="hero-em">IPA</span><br>'
         'Knowledge Base</h1>'
         '<p class="hero-sub">From contested 18th-century origins to the '
-        'haze-clouded, thiol-driven frontier of modern brewing — a '
+        'haze-clouded, thiol-driven frontier of modern brewing. A '
         'comprehensive, interlinked guide for the intellectually curious. '
         'Equally useful to a first-time drinker and a brewmaster of forty years.</p>'
         '<div class="hero-actions">'

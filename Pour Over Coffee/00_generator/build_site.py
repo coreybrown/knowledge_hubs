@@ -801,7 +801,7 @@ def render_home(pages, linkmap):
         '<h1 class="hero-title">The <span class="hero-em">Pour Over</span><br>'
         'Knowledge Base</h1>'
         '<p class="hero-sub">From your first V60 to extraction theory, water '
-        'chemistry, and championship recipes — a comprehensive, interlinked guide '
+        'chemistry, and championship recipes. A comprehensive, interlinked guide '
         'for the intellectually curious. Equally useful to a first-time brewer and '
         'a competition barista.</p>'
         '<div class="hero-actions">'

@@ -149,7 +149,7 @@ HUBS = [
         "title": "The Pour Over Knowledge Base",
         "blurb": (
             "From your first V60 to extraction theory, water chemistry, grind, "
-            "and championship recipes — a complete manual-brewing manual for "
+            "and championship recipes. A complete guide to manual brewing for "
             "the first-time brewer and the competition barista alike."
         ),
         "accent": "#CE8A4F",
@@ -165,7 +165,7 @@ HUBS = [
         "title": "The IPA Knowledge Base",
         "blurb": (
             "From its contested 18th-century origins to the haze-clouded, "
-            "thiol-driven frontier of modern brewing — history, styles, "
+            "thiol-driven frontier of modern brewing: history, styles, "
             "ingredients, the full brewing process, science &amp; sensory, and "
             "curated best-of lists."
         ),
@@ -223,9 +223,9 @@ def render_page() -> str:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Field Guides — a library of deep knowledge hubs</title>
+<title>Field Guides: a library of deep knowledge hubs</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
-<meta name="description" content="A growing library of deep, interlinked field guides — exhaustively researched knowledge hubs on the subjects worth going deep on.">
+<meta name="description" content="A growing library of deep, interlinked field guides, exhaustively researched knowledge hubs on the subjects worth going deep on.">
 <meta property="og:title" content="Field Guides">
 <meta property="og:description" content="A growing library of deep, interlinked knowledge hubs.">
 <meta property="og:type" content="website">

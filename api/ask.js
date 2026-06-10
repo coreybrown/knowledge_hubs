@@ -217,10 +217,11 @@ module.exports = async function handler(req, res) {
   const system =
     `You are the assistant for the ${meta.name}, a reference guide on ${meta.topic}. ` +
     `Answer the reader's question using ONLY the excerpts from the guide provided below. ` +
-    `Be concise and direct: 2–4 sentences of plain prose, no markdown headings or lists. ` +
+    `Be concise and direct: 2 to 4 sentences of plain prose, no markdown headings or lists. ` +
     `If the excerpts do not contain the answer, say the guide doesn't cover it and point to ` +
     `the closest topic. Never invent facts, numbers, brands, or recipes that are not in the ` +
-    `excerpts. Speak as the guide; do not mention "excerpts", "notes", or "context".`;
+    `excerpts. Speak as the guide; do not mention "excerpts", "notes", or "context". ` +
+    `Use plain punctuation: commas, colons, and periods only. Never use em-dashes or en-dashes.`;
 
   try {
     await streamClaude(apiKey, system, q, context, (t) => res.write(t));
